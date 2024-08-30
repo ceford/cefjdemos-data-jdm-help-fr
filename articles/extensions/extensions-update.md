@@ -119,7 +119,7 @@ Screenshot above. The functions are:
   parameters can be edited.
 - **Help**. Opens this help screen.
 
-## Quick Tips
+## Tips
 
 - Only extensions which support the Joomla! update system will be listed
   in this screen. If you use extensions which do not support the new

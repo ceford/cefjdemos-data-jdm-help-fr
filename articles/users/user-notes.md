@@ -90,6 +90,6 @@ Screenshot above. The functions are:
 - **Options.** Opens the Options window where settings such as default
   parameters can be edited.
 
-## Quick Tips
+## Tips
 
 - Click on the subject to edit the user note properties.

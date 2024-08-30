@@ -114,7 +114,7 @@ Screenshot above. The functions are:
   parameters can be edited.
 - **Help**. Opens this help screen.
 
-## Quick Tips
+## Tips
 
 - If you experience problems during an update, use this Database check
   to see if your database got updated correctly.

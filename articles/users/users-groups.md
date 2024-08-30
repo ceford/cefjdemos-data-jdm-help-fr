@@ -67,6 +67,6 @@ functions are:
   parameters can be edited.
 - **Help**. Opens this help screen.
 
-## Quick Tips
+## Tips
 
 - Click on the name of a group to edit the group's properties.

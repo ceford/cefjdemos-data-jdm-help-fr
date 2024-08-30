@@ -69,7 +69,7 @@ Screenshot above. The functions are:
   parameters can be edited.
 - **Help**. Opens this help screen.
 
-## Quick Tips
+## Tips
 
 - Click on the name of an access level to edit it.
 - Click on the Column
