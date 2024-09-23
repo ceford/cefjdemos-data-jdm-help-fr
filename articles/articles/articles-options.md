@@ -2,451 +2,232 @@
 
 ## Description
 
-Used to set global defaults for menu items that display articles. These default values will be used when 'Use Global'
-is selected for an option in an Articles menu item.
+La page *Articles : Options* est utilisée pour définir les valeurs par défaut globales pour les articles. Elles sont appliquées lorsque l'option *Utiliser global* est sélectionnée pour une option dans un élément de menu Articles. Par exemple, pour afficher la *Date de création* d'un article dans vos éléments de menu Articles, définissez cette option sur *Afficher* ici, et elle deviendra la valeur par défaut.
 
-For example, to show the 'Create Date' for an article in your Articles
-menu items, then set that option to 'Show' here and it will be the
-default value.
+### Éléments communs
 
-You do not need to set any of these options. Your Joomla site will work
-with the default settings.
+Certains aspects de cette page sont couverts dans des articles d'aide séparés :
+
+* [Barres d'outils](jdocmanual?article=help/common-elements/toolbars).
+* [Onglet Permissions](jdocmanual?article=help/common-elements/edit-permissions).
 
 ## Comment y accéder
-Sélectionner **Contenus → Articles**
 
-- Cliquez sur le bouton **Paramètres** dans la barre d'outils.
+Sélectionnez le bouton **Options** dans la barre d'outils de n'importe quelle page de liste *Articles*.
 
 ## Capture d'écran
 
-![Articles options screenshot](../../../fr/images/articles/articles-options-articles-tab.png "Articles options")
+![Capture d'écran des options d'articles](../../../fr/images/articles/articles-options-articles-tab.png)
 
 ## Champs de formulaire
 
-### Articles
+### Onglet Articles
 
-Options used in articles and the menu items Blog, List, Featured Articles,
-List All Categories, and Single Article.
+Ces paramètres s'appliquent pour les mises en page d'articles sauf s'ils sont modifiés pour un élément de menu ou un article spécifique.
 
-#### Type de mise en page
+- **Choisir une mise en page** Sélectionnez la valeur par défaut pour les éléments de menu d'article unique.
+- **Titre** Afficher le titre de l'article.
+- **Titres liés** Afficher le titre comme lien vers l'article.
+- **Texte d'introduction**
+  - **Afficher** Le texte d'introduction de l'article sera affiché dans l'article complet.
+  - **Masquer** Seule la partie de l'article après la rupture Lire la suite sera affichée dans l'article complet.
+- **Position des informations de l'article**
+  - **Au-dessus** Place le bloc d'informations de l'article au-dessus du texte.
+  - *En dessous* Place le bloc d'informations de l'article en dessous du texte.
+  - *Divisé* Divise le bloc d'informations de l'article en deux blocs séparés. Un bloc est au-dessus et l'autre en dessous du texte.
+- **Titre des informations de l'article** Affiche le mot *Détails* au-dessus du bloc d'informations de l'article.
+- **Catégorie** Afficher le titre de la catégorie de l'article.
+  - **Lien vers la catégorie** Afficher le titre sous forme de lien vers cette catégorie. Remarque : Cela peut être défini soit sur une mise en page de blog, soit sur une mise en page de liste avec l'option *Choisir une mise en page* dans l'onglet Catégorie.
+- **Catégorie parente** Afficher le titre de la catégorie parente de l'article.
+  - **Lien vers la catégorie parente** Afficher le titre sous forme de lien vers cette catégorie. Remarque : Cela peut être défini soit sur une mise en page de blog, soit sur une mise en page de liste avec l'option *Choisir une mise en page* dans l'onglet Catégorie.
+- **Associations** Afficher les drapeaux associés ou le code de langue. Multilingue uniquement.
+  - **Utiliser les drapeaux d'image** Afficher le choix de langue sous forme de drapeaux si l'option Associations est définie sur *Afficher*.
+- **Auteur** Afficher l'auteur de l'article.
+  - **Lien vers la page de contact de l'auteur** Afficher comme un lien vers une mise en page de contact pour cet auteur. Remarque : l'auteur doit être configuré en tant que contact. De plus, un lien ne s'affichera pas s'il existe une valeur d'alias de l'auteur pour le contact.
+- **Date de création** Afficher la date de création de l'article.
+- **Date de modification** Afficher la date de modification de l'article.
+- **Date de publication** Afficher la date de début de publication de l'article.
+- **Navigation** Afficher un lien de navigation *Précédent* ou *Suivant*.
+- **Lien "Lire la suite"** Afficher le lien Lire la suite pour lier la partie de l'article avant la coupure Lire la suite au reste de l'article.
+- **Lire la suite avec titre**
+  - *Afficher* Le titre de l'article fait partie du lien Lire la suite. Le lien sera au format "Lire la suite : \[titre de l'article\]".
+  - *Masquer* Le lien sera "Lire la suite".
+- **Limite du lien "Lire la suite" (caractères)** Le nombre maximum de caractères du titre à inclure. Remarque : Cela peut empêcher le texte Lire la suite de devenir excessivement long si l'article a un titre très long.
+- **Tags** Afficher les tags pour chaque article.
+- **Enregistrer les consultations** Enregistrer le nombre de fois que l'article a été consulté.
+- **Consultations** Afficher le nombre de fois que l'article a été affiché par un utilisateur.
+- **Liens non autorisés**
+  - *Oui* Le texte d'introduction des articles restreints s'affichera. Cliquer sur le lien Lire la suite obligera les utilisateurs à se connecter pour voir le contenu complet de l'article.
+  - *Non* Les articles que l'utilisateur n'est pas autorisé à consulter (en fonction du niveau d'accès de visualisation pour l'article) ne s'afficheront pas.
+- **Position des liens**
+  - *Au-dessus* Les liens sont affichés au-dessus du contenu.
+  - *En dessous* Les liens sont affichés en dessous du contenu.
 
-- **Mise en page**. Choisissez dans la liste déroulante la mise en page
-  à appliquer. Si vous avez défini des mises en page alternatives pour
-  les articles, vous pouvez en sélectionner une dans la liste pour
-  qu'elle soit la valeur par défaut pour les liens de menu sur article
-  unique.
-- **Titre de l'article**. Show the Article's Title.
-- **Lien sur les titres**. Show the title as a link to the article.
-- **Texte d'introduction**.
-  - Afficher: The Intro Text of the article will show when you drill
-    down to the article.
-  - Masquer: Only the part of the article after the Read More break will
-    show.
-- **Position des informations**.
-  - Au-dessus: Puts the article information block above the text.
-  - Au-dessous: Puts the article information block below the text.
-  - Diviser: Splits the article information block into 2 separate
-    blocks. One block is above and the other is below the text.
-- **Titre d'informations d'article**. Afficher ou masquer le titre
-  d’informations de l'article.
+### Onglet Mise en page de l'édition
 
-#### Catégorie
+Ces options contrôlent la mise en page de la page d'édition des articles.
 
-- **Titre de la catégorie**. Show the Article's Category Title.
-  - **Lien sur les titres**. Show the title as a link to that
-    Category.Note: You can set this to be either a blog or list layout
-    with the Choose a Layout
-    option in the Category Tab.
-- **Catégorie parente**. Afficher ou masquer le titre de la catégorie
-  parente de la catégorie de l'article.
-  - **Lien de catégorie parente**. Show the title as a link to that
-    Category.Note: You can set this to be either a blog or list layout
-    with the Choose a Layout
-    option in the Category Tab.
+![Capture d'écran des options de mise en page de l'édition des articles](../../../fr/images/articles/articles-options-editing-layout-tab.png)
 
-#### Associations
+- **Autoriser Captcha lors de la soumission** Sélectionnez le plugin captcha qui sera utilisé dans le formulaire de soumission d'article. Si *Utiliser global* est sélectionné, assurez-vous qu'un plugin captcha est sélectionné dans la configuration globale.
+- **Options de publication** Masquer l'onglet Options de publication dans l'interface d'administration lors de l'édition des articles. Cela signifie que les utilisateurs de l'interface d'administration ne pourront pas modifier les champs de cet onglet. Ces champs seront toujours définis sur leurs valeurs par défaut.
+- **Options de l'article** Masquer l'onglet Options de l'article dans l'interface d'administration lors de l'édition des articles. Cela signifie que les utilisateurs de l'interface d'administration ne pourront pas modifier les champs de cet onglet. Ces champs seront toujours définis sur leurs valeurs par défaut.
+- **Options de l'écran d'édition** Masquer l'onglet Configurer l'écran d'édition lors de l'édition des articles.
+- **Permissions de l'article** Masquer l'onglet Permissions lors de l'édition des articles.
+- **Associations multilingues** Masquer l'onglet Associations lors de l'édition des articles.
+- **Activer les versions** Enregistrer l'historique des versions pour les articles et les catégories.
+- **Nombre maximum de versions** Le nombre maximum de versions à conserver pour un article ou une catégorie. Si un article ou une catégorie est enregistré et que le nombre maximum de versions a été atteint, la version la plus ancienne sera automatiquement supprimée. Si cette option est définie sur "0", les versions ne seront jamais supprimées automatiquement.
+- **Images et liens de l'interface utilisateur** Masquer l'onglet Images et liens dans l'éditeur d'articles de l'interface utilisateur.
+- **Images et liens de l'administrateur** Masquer l'onglet Images et liens dans l'interface d'administration lors de l'édition des articles.
+- **Fenêtre cible du lien A** Définit la valeur par défaut pour la cible du premier lien dans l'article. Les choix sont :
+  - *Ouvrir dans la fenêtre parent* Ouvre dans la fenêtre principale du navigateur, remplaçant l'article Joomla actuel.
+  - *Ouvrir dans une nouvelle fenêtre* Ouvre le lien dans une nouvelle fenêtre du navigateur.
+  - *Ouvrir dans une fenêtre pop-up* Ouvre le lien dans une fenêtre pop-up du navigateur (sans les contrôles de navigation complets).
+  - *Modal* Ouvre le lien dans une fenêtre pop-up modale.
+- **Fenêtre cible du lien B** Définit la valeur par défaut pour la cible du deuxième lien dans l'article. Les mêmes options que pour l'URL A.
+- **Fenêtre cible du lien C** Définit la valeur par défaut pour la cible du troisième lien dans l'article. Les mêmes options que pour l'URL A.
+- **Classe de l'image d'introduction** Définit l'attribut de classe pour une image d'introduction sélectionnée dans le champ Image d'introduction.
+- **Classe de l'image du texte complet** Définit l'attribut de classe pour une image complète de l'article sélectionnée dans le champ Image complète de l'article.
 
-- **Associations multilingues**. Show the associated flags or Language
-  Code. Multilingual only.
-  - **Utiliser les icônes**. Display language choice as image flags.
+### Onglet Catégorie
 
-#### Auteur
+Ces paramètres s'appliquent aux options de catégories d'articles, sauf s'ils sont modifiés par les paramètres individuels de la catégorie ou du menu.
 
-- **Auteur**. Show the author of the Article.
-  - **Lien vers sa page de contact**. Activer le lien sur le nom de
-    l'auteur vers sa page de contact.Note: The author must be set up as
-    a
-    Contact.
-    Also, a link will not show if there is an Author Alias
-    value for the article.
+![Options des catégories d'articles](../../../fr/images/articles/articles-options-category-tab.png)
 
-#### Date
+- **Choisir une mise en page** Sélectionnez la mise en page par défaut à afficher lorsqu'un lien de catégorie est sélectionné.
+- **Titre de la catégorie** Afficher le titre de la catégorie.
+- **Description de la catégorie** Afficher la description de la catégorie.
+- **Image de la catégorie** Afficher l'image de la catégorie.
+- **Niveaux de sous-catégories** Contrôlez combien de niveaux de sous-catégories afficher.
+- **Catégories vides** Afficher les catégories qui ne contiennent aucun article ni sous-catégorie.
+- **Message "Pas d'articles"** Afficher un message "Il n'y a pas d'articles dans cette catégorie".
+- **Titre des sous-catégories** Afficher les sous-catégories en tant que sous-titre sur la page.
+- **Descriptions des sous-catégories** Afficher les descriptions des sous-catégories.
+- **\# Articles dans la catégorie** Afficher le nombre total d'articles dans chaque catégorie.
+- **Tags** Afficher les tags pour la catégorie.
 
-- **Date de création**. Show the Article's create date.
-- **Date de modification**. Afficher la date et l'heure de dernière
-  modification.
-- **Date de Publication**. Show the Article's start publishing date.
+### Onglet Catégories
 
-#### Paramètres
+Ces paramètres s'appliquent aux options des catégories d'articles, sauf s'ils sont modifiés par les paramètres individuels de la catégorie ou du menu.
 
-- **Navigation entre articles**. Afficher ou masquer un lien de
-  navigation (par exemple, Suivant, Précédent) entre les articles.
-- **Lien "Lire la suite"**. Afficher le lien 'Lire la suite' lorsque
-  l'article est affiché en format Blog ou dans un module.
-- **Titre de l'article dans le lien**.
-  - Afficher: The article title is part of the Read More link. The link
-    will be in the format "Read More: \[article title\]".
-  - Masquer: The link will be "Read more".
-- **Nbr de caractères dans le lien**. The maximum number of characters
-  from the title to include.Note: This can prevent the Read More text to
-  become excessively long if the article has a very long title.
-- **Tags de l'article**. Show the tags for each article.
-- **Enregistrer les affichages**. Record the number of times the article
-  has been viewed.
-- **Nombre d'affichages**. Show the number of times the article has been
-  displayed by a user.
-- **Liens non autorisés**.
-  - Oui: The Intro Text for restricted articles will show. Clicking on
-    the Read more link will require users to log in to view the full
-    article content.
-  - Non: Articles that the user is not authorised to view (based on the
-    viewing access level for the article) will not show.
-- **Positionnement des liens**.
-  - Au-dessus: Links are shown above the content.
-  - Au-dessous: Links are shown below the content.
+![Options des catégories d'articles](../../../fr/images/articles/articles-options-categories-tab.png)
 
-### Agencement
+- **Description de la catégorie de niveau supérieur** Afficher la description de la catégorie de niveau supérieur.
+- **Niveaux de sous-catégories** Contrôlez combien de niveaux de sous-catégories afficher.
+- **Catégories vides** Afficher les catégories qui ne contiennent aucun article ni sous-catégorie.
+- **Descriptions des sous-catégories** Afficher la description des sous-catégories.
+- **\# Articles dans la catégorie** Afficher le nombre total d'articles dans chaque catégorie.
 
-Options of the article editing page.
+### Onglet Mises en page Blog/En vedette
 
-![Articles options editing layout tab](../../../fr/images/articles/articles-options-editing-layout-tab.png "Articles options editing layout")
+Ces paramètres s'appliquent aux mises en page blog ou en vedette, sauf s'ils sont modifiés pour un élément de menu spécifique.
 
-- **Captcha à utiliser**. Select the captcha plugin
-  that will be used in the article submit form. If 'Use Global' is
-  selected, make sure a captcha plugin is selected in Global Configuration.
-- **Paramètres de publication**. Si non, l'onglet Paramètres de
-  publication de cet écran (Articles: Écran
-  Ajouter/Modifier
-  ne sera pas visible. Cela signifie que les utilisateurs principaux ne
-  pourront pas modifier les champs Créé par, Nom de remplacement, Date
-  de création, Début de publication ou Fin de publication. Ces champs
-  seront toujours définis sur leurs valeurs par défaut.
-- **Paramètres d'article**. Hide the Article Options tab
-  in the Backend when editing Articles. This means that Backend users
-  will not be able to edit the fields in this tab. These fields will
-  always be set to their default values.
-- **Options d'affichage**. Hide the Configure Edit Screen tab
-  when editing Articles.
-- **Droits d'accès**. Hide the Permissions tab
-  when editing Articles.
-- **Associations multilingues**. Hide the Associations tab
-  when editing Articles.
-- **Activer l'historique**. Choisir de sauvegarder automatiquement ou
-  non les versions anciennes d'un élément. Si oui, les versions
-  anciennes seront sauvegardées automatiquement. Quand un élément sera
-  modifié, une version précédente pourra être rétablie.
-- **Nombre maximum de versions à conserver**. Le nombre maximum
-  d'anciennes versions à sauvegarder. Si un élément est enregistré et le
-  nombre maximum de versions a été atteint, la version la plus ancienne
-  sera automatiquement supprimée. Si réglé sur "0", toutes les anciennes
-  versions seront sauvegardées. Pour en savoir
-  plus.
-- **Images et liens en frontal**. Si oui, les champs Images et liens
-  s'afficheront dans l'écran de l'éditeur d'articles frontal.
-- **Images et liens en admin**. Hide the Images and Links tab
-  in the Backend when editing Articles.
-- **Cible de l'URL A**. Fenêtre cible du navigateur lorsque le lien de
-  menu est cliqué. Les choix sont :
-  - Ouvrir dans la fenêtre parente: Ouvre le lien dans la fenêtre
-    principale du navigateur, en remplacement de l'article de Joomla!
-    actuel.
-  - Ouvrir dans une nouvelle fenêtre: Ouvre le lien dans une nouvelle
-    fenêtre du navigateur.
-  - Ouvrir en pop-up: Ouvre le lien dans une nouvelle fenêtre pop-up du
-    navigateur (sans les contrôles de navigation complets).
-  - Modale: Modale : ouvre le lien dans une fenêtre modale.
-- **Cible de l'URL B**. Sets the default value for the target for the
-  second Link in the article. Same options as URL A.
-- **Cible de l'URL C**. Sets the default value for the target for the
-  third Link in the article. Same options as URL A.
-- **Classe de l'image de l'introduction**. fr
-- **Classe de l'image de l'article complet**. fr
+![Options des mises en page blog et en vedette](../../../fr/images/articles/articles-options-blog-layouts-tab.png)
 
-### Catégorie
+- **# Articles principaux** Nombre d'articles à afficher en utilisant toute la largeur de la zone d'affichage principale. "0" signifie qu'aucun article ne sera affiché en utilisant toute la largeur. Si un article contient une coupure "Lire la suite...", seule la partie avant cette coupure (le texte d'introduction) sera affichée.
+- **Classe des articles principaux** Ajouter une classe CSS pour personnaliser la mise en page. Ajouter une bordure supérieure avec la classe *boxed*. Pour la position de l'image, utilisez par exemple *image-left*, *image-right*. Ajoutez *image-alternate* pour un ordre alterné des images d'introduction.
+- **# Articles d'introduction** Détermine le nombre d'articles à afficher après l'article principal. Ces articles s'afficheront dans le nombre de colonnes défini dans le paramètre Colonnes ci-dessous. Si un article a une coupure "Lire la suite...", seul le texte avant la coupure (texte d'introduction) s'affichera, suivi d'un lien "Lire la suite...". L'ordre d'affichage des articles est déterminé par les paramètres Ordre des catégories et Ordre des articles ci-dessous.
+- **Classe d'article** Ajouter une classe CSS pour un style personnalisé. Ajouter une bordure supérieure avec la classe *boxed*. Pour la position de l'image, utilisez par exemple *image-left*, *image-right*. Ajoutez *image-alternate* pour un ordre alterné des images d'introduction.
+- **# Colonnes** Le nombre de colonnes à utiliser dans la zone des articles d'introduction. Cela varie généralement entre 1 et 3 (selon le modèle utilisé). Si 1 est utilisé, les articles d'introduction s'afficheront en utilisant toute la largeur de la zone d'affichage, comme les articles principaux.
+- **Direction multi-colonnes** Dans les mises en page blog à plusieurs colonnes, choisissez l'ordre d'affichage des articles, soit de haut en bas des colonnes, soit de gauche à droite.
+  - *De haut en bas* Les articles sont ordonnés de haut en bas dans la première colonne, puis dans la colonne suivante.
+  - *De gauche à droite* Les articles sont ordonnés de gauche à droite dans les colonnes, puis reviennent à la première colonne.
+- **# Liens** Le nombre de liens à afficher dans la zone des liens de la page. Ces liens permettent à un utilisateur d'accéder à des articles supplémentaires, si plus d'articles existent que ce qui peut tenir sur la première page de la mise en page Blog.
+- **Inclure les sous-catégories**
+  - *Aucune* Seuls les articles de la catégorie actuelle seront affichés.
+  - *Toutes* Tous les articles de la catégorie actuelle et de toutes les sous-catégories seront affichés.
+  - *1-5* Tous les articles de la catégorie actuelle et des sous-catégories jusqu'à ce niveau seront affichés.
+- **Image d'introduction liée** Si Oui, un clic sur l'image d'introduction affiche l'article.
 
-Options control how a Category and its articles will show. They are used
-in categories and the menu items Blog, List, and List All Categories.
+### Onglet Mises en page Liste
 
-![Articles options category tab](../../../fr/images/articles/articles-options-category-tab.png "Articles options category")
+Ces paramètres s'appliquent aux options des mises en page liste, sauf s'ils sont modifiés pour un élément de menu ou une catégorie spécifique.
 
-- **Mise en page**. Select the default layout to show when you click on
-  a Category link.
-- **Titre de la catégorie**. Show the title of the category.
-- **Description**. Show the description for the category.
-- **Image**. Show the category image.
-- **Sous-catégories**. Control how many levels of subcategories to show.
-- **Catégories vides**. Show categories that don't contain any articles
-  or subcategories.
-- **Message d'alerte**. Show a message "There are no articles in this
-  category".
-- **Titre des sous-catégories**. Show the Subcategories as subheading on
-  the page.
-- **Desc. des sous-catégories**. Show the descriptions for
-  subcategories.
-- **Nombre d'articles**. Show a count of the total number of articles in
-  each category.
-- **Tags de la catégorie**. Show the tags for the category.
+![Options des mises en page liste](../../../fr/images/articles/articles-options-list-layouts-tab.png)
 
-### Catégories
+- **Sélecteur d'affichage** Afficher le contrôle Sélectionner \# qui permet à l'utilisateur de choisir le nombre d'articles à afficher.
+- **Champ de filtre** Afficher un champ de texte dans le Frontend où un utilisateur peut filtrer les articles. Options dans le menu d'édition du Backend.
+  - *Masquer* Ne pas afficher de champ de filtre.
+  - *Titre* Filtrer par titre d'article.
+  - *Auteur* Filtrer par nom de l'auteur.
+  - *Consultations* Filtrer par nombre de consultations de l'article.
+  - *Tags* Filtrer par tags de l'article.
+  - *Mois (publié)* Filtrer par mois de publication des articles.
+- **En-têtes de tableau** Afficher un en-tête dans la liste d'articles dans le Frontend.
+- **Date** Afficher une date dans la liste.
+  - *Masquer* Ne pas afficher de date.
+  - *Créée* Afficher la date de création.
+  - *Modifiée* Afficher la date de la dernière modification.
+  - *Publiée* Afficher la date de début de publication.
+- **Consultations** Afficher le nombre de consultations des articles.
+- **Auteur** Afficher le nom de l'auteur.
+- **\# Articles à lister** Nombre d'articles affichés dans la liste.
 
-Options control the display of the menu item List All Categories.
+### Onglet Partagé
 
-![Articles options categories tab](../../../fr/images/articles/articles-options-categories-tab.png "Articles options categories")
+Ces paramètres s'appliquent aux options partagées dans les mises en page Liste, Blog et En vedette, sauf s'ils sont modifiés par les paramètres du menu.
 
-- **Desc. de la catégorie racine**. Show the description for the
-  top-level category.
-- **Sous-catégories**. Control how many levels of subcategories to show.
-- **Catégories vides**. Show categories that don't contain any articles
-  or subcategories.
-- **Desc. des sous-catégories**. Show the description for subcategories.
-- **Nombre d'articles**. Show a count of the total number of articles in
-  each category.
+![Options partagées des articles](../../../fr/images/articles/articles-options-shared-tab.png)
 
-### Blog/Épinglés
+- **Ordre des catégories**
+  - *Pas d'ordre* Les articles sont triés uniquement par l'Ordre des articles, sans tenir compte de la catégorie.
+  - *Titre alphabétique* Les catégories sont affichées par ordre alphabétique (A à Z).
+  - *Titre alphabétique inverse* Les catégories sont affichées par ordre alphabétique inverse (Z à A).
+  - *Ordre des catégories* Les catégories sont ordonnées selon la colonne d'ordre entrée dans Articles : Catégories.
+- **Ordre des articles**
+  - *Les plus récents d'abord* Les articles sont affichés en commençant par les plus récents.
+  - *Les plus anciens d'abord* Les articles sont affichés en commençant par les plus anciens.
+  - *Titre alphabétique* Les articles sont affichés par titre, dans l'ordre alphabétique (A à Z).
+  - *Titre alphabétique inverse* Les articles sont affichés par titre, dans l'ordre alphabétique inverse (Z à A).
+  - *Auteur alphabétique* Les articles sont affichés par auteur, dans l'ordre alphabétique (A à Z).
+  - *Auteur alphabétique inverse* Les articles sont affichés par auteur, dans l'ordre alphabétique inverse (Z à A).
+  - *Le plus de consultations* Les articles sont affichés par nombre de consultations, en commençant par celui qui en a le plus.
+  - *Le moins de consultations* Les articles sont affichés par nombre de consultations, en commençant par celui qui en a le moins.
+  - *Ordre* Les articles sont ordonnés selon la colonne d'ordre entrée dans Articles.
+  - *Ordre inverse* Les articles sont ordonnés dans l'ordre inverse de celui défini dans la colonne d'ordre des articles.
+- **Date pour l'ordre** La date utilisée lorsque les articles sont triés par date.
+  - *Créée* Utiliser la date de création de l'article.
+  - *Modifiée* Utiliser la date de modification de l'article.
+  - *Publiée* Utiliser la date de début de publication de l'article.
+- **Pagination** La pagination fournit des liens de pages en bas de page permettant à l'utilisateur de naviguer vers des pages supplémentaires. Cela est nécessaire si les articles ne tiennent pas sur une seule page.
+  - *Masquer* Les liens de pagination ne sont pas affichés. Remarque : Les utilisateurs ne pourront pas naviguer vers des pages supplémentaires.
+  - *Afficher* Les liens de pagination sont affichés si nécessaire.
+  - *Auto* Les liens de pagination sont affichés si nécessaire.
+- **Résumé de la pagination** Afficher le numéro de page actuel et le nombre total de pages (par exemple, "Page 1 sur 2") en bas de chaque page.
+- **Articles en vedette**
+  - *Afficher* Afficher les articles en vedette et non en vedette.
+  - *Masquer* Afficher uniquement les articles non en vedette.
+  - *Uniquement* Afficher uniquement les articles en vedette.
 
-Options control the layout of the menu items
-Blog,
-Featured Articles,
-and List All Categories.
+### Onglet Intégration
 
-![Articles options blog/featured layout tab](../../../fr/images/articles/articles-options-blog-layouts-tab.png "Articles options blog/featured layout")
+Ces paramètres déterminent comment le composant d'articles s'intégrera avec d'autres extensions.
 
-- **Articles en pleine largeur**. Nombre d'articles en pleine largeur à
-  afficher dans le blog. "0" signifie qu'il n'y aura aucun article
-  affiché en pleine largeur. Si un article a la coupure "Lire la
-  suite...", seule la partie du texte avant la coupure (le texte
-  d'introduction) sera affichée.
-- **Classe de l'article principal**. Vous pouvez ajouter n'importe
-  quelle classe CSS pour vos propres idées de style. Ajoutez une bordure
-  en haut avec la classe 'boxed'.Pour la position de l'image, utilisez
-  par exemple 'image-left', 'image-right'. Ajoutez 'image-alternate'
-  pour un ordre alternatif des images d'intro.
-- **Introduction des articles**. Nombre d'articles dont seule
-  l'introduction doit être affichée - ils seront affichés après les
-  articles en pleine largeur s'il y en a. Les articles sont présentés en
-  une ou plusieurs colonnes selon le paramètre "Nombre de colonnes"
-  ci-dessous. Si un article a une coupure "Lire la suite...", seule la
-  partie du texte avant la coupure (le texte d'introduction) sera
-  affichée suivie d'un lien "Lire la suite...". L'ordre dans lequel
-  s'affichent les articles est déterminé par l'Ordre de la Catégorie et
-  le paramètre "Succession des articles" ci-dessous.
-- **Classe d'article**. Vous pouvez ajouter n'importe quelle classe CSS
-  pour vos propres idées de style. Ajoutez une bordure en haut avec la
-  classe 'boxed'.Pour la position de l'image, utilisez par exemple
-  'image-left', 'image-right'. Ajoutez 'image-alternate' pour un ordre
-  alternatif des images d'intro.
-- **Nombre de colonnes**. Nombre de colonnes utilisées pour l'affichage
-  de l'Introduction des articles (paramètre ci-dessus). En général entre
-  1 et 3 (en fonction des possibilités offertes par le template de site
-  utilisé). Si 1 est utilisé, le texte d'introduction des articles
-  s'affichera en utilisant la totalité de la largeur de la zone
-  d'affichage comme les Articles en pleine largeur (paramètre
-  ci-dessus).
-- **Direction multicolonne**. In multi-column blog layouts, whether to
-  order articles Down the columns or Across the columns.
-  - Colonne: les articles se suivent à la verticale. Par exemple :
-  - Ligne: les articles se suivent à l'horizontal. Par exemple :
-- **Titres avec lien**. Nombre d'articles dont seul le titre, sous forme
-  de lien, doit être affiché. Ces liens permettent à un utilisateur
-  d'avoir un lien vers des articles supplémentaires dans le cas où il y
-  a plus d'articles que ceux affichés sur la première page du blog.
-- **Inclure les sous-catégories**.
-  - Aucun: Only articles from the current category will show.
-  - Tout: All articles from the current category and all subcategories
-    will show.
-  - 1-5: All articles from the current category and subcategories up to
-    and including that level will show.
-- **Image d'introduction liée**. If Yes, a click on the intro image
-  shows the article.
+![Options d'intégration des articles](../../../fr/images/articles/articles-options-integration-tab.png)
 
-### Listes
+#### Panneau Flux RSS
 
-Options control the layout of the menu items List and List All Categories.
+- **Lien vers flux RSS** Si l'option est activée, un lien vers le flux s'affichera sous forme d'icône dans la barre d'adresse de la plupart des navigateurs.
+- **Inclure dans le flux**
+  - *Texte d'introduction* Seul le texte d'introduction de l'article s'affichera dans le flux.
+  - *Texte complet* Le texte entier de l'article s'affichera dans le flux.
+- **Lien "Lire la suite"** Afficher un lien "Lire la suite" dans le flux.
 
-![Articles options list layouts tab](../../../fr/images/articles/articles-options-list-layouts-tab.png "Articles options list layouts")
+#### Panneau Routage
 
-- **Sélecteur d'affichage**. Show the Display \# control that allows the
-  user to select the number of articles to show.
-- **Champ de filtre**. Show a text field in the Frontend where a user
-  can filter the articles.Options in the Backend menu item edit.
-  - Masquer: Don't show a filter field.
-  - Titre: Filter on article title.
-  - Auteur: Filter on the author's name.
-  - Clics: Filter on the number of article hits.
-  - Tags: Filter on the article tags.
-  - Mois (publié): Filter on the month of published articles.
-- **En-tête**. Show a heading in the article list in the Frontend.
-- **Date**. Show a date in the list.
-  - Masquer: Don't show any date.
-  - Créé: Show the created date.
-  - Modifié: Show the date of the last modification.
-  - Publié: Show the start publishing date.
-- **Nombre d'affichages**. Show the number of hits for articles.
-- **Auteur**. Show the name of the author.
-- **\# Articles à lister**. Number of articles shown in the list.
+- **Supprimer les ID des URL** Supprimer l'ID de la base de données des articles dans un lien.
 
-### Paramètres partagés
+#### Panneau Champs personnalisés
 
-Options shared by the menu items Blog, List, and Featured Articles.
+- **Modifier les champs personnalisés** Activer la création de champs personnalisés.
 
-![Articles options shared tab](../../../en/images/articles/articles-options-shared-tab.png "Articles shared")
+#### Panneau Workflow
 
-- **Ordre des catégories**.
-  - Aucun ordre: Articles are ordered only by the Article Order, without
-    regard to Category.
-  - Alphabétique des titres: Categories are displayed in alphabetical
-    order (A to Z).
-  - Alphabétique inverse des titres: Categories are displayed in reverse
-    alphabetical order (Z to A).
-  - Ordre des catégories: Categories are ordered according to the Order
-    column entered in Articles: Categories.
-- **Ordre des articles**.
-  - Plus récents en premier: Articles are displayed starting with the
-    most recent and ending with the oldest.
-  - Plus ancien en premier: les articles sont affichés du plus ancien au
-    plus récent.
-  - Alphabétique des titres: Articles are displayed by Title in
-    alphabetical order (A to Z).
-  - Alphabétique inverse des titres: Articles are displayed by Title in
-    reverse alphabetical order (Z to A).
-  - Alphabétique des auteurs: Articles are displayed by Author in
-    alphabetical order (A to Z).
-  - Alphabétique inverse des auteurs: Articles are displayed by Author
-    in reverse alphabetical order (Z to A).
-  - Les plus populaires: les articles sont affichés selon le nombre de
-    clics, de celui ayant le plus de clics à celui en ayant le moins.
-  - Moins populaires: les articles sont affichés selon le nombre de
-    clics, de celui ayant le moins de clics à celui en ayant le plus.
-  - Ordre: Articles are ordered according to the Order column entered in
-    Articles.
-  - Ordre inverse: Articles are ordered reverse to the according of the
-    Order column entered in
-    Articles.
-- **Classement par date**. The date used when articles are sorted by
-  date.
-  - Créé: Utilisez la date de création de l'article.
-  - Modifié: Utilisez la date de modification de l'article.
-  - Publié: Utilisez la date de début de publication de l'article.
-- **Pagination**. Pagination provides page links at the bottom of the
-  page that allow the User to navigate to additional pages. These are
-  needed if the Articles will not fit on one page.
-  - Masquer: Pagination links not shown. Note: Users will not be able to
-    navigate to additional pages.
-  - Afficher: Pagination links shown if needed.
-  - Automatique: Pagination links shown if needed.
-- **Résumé de la pagination**. Show the current page number and total
-  pages (e.g., "Page 1 of 2") at the bottom of each page.
-- **Articles épinglés**.
-  - Afficher: Display featured articles and non-featured articles.
-  - Masquer: Display only non-featured articles.
-  - Uniquement: Display only featured articles.
+- **Activer le workflow** Utiliser des workflows personnalisés pour gérer les articles.
 
-### Intégration
+## Conseils
 
-Options control how Articles integrate News Feeds, Routing, Custom
-Fields, and Workflow.
-
-![Articles options integration tab](../../../fr/images/articles/articles-options-integration-tab.png "Articles options integration")
-
-#### Fils d'actualité
-
-- **Lien de flux RSS**. If set to Show, a Feed Link will show up as a
-  feed icon in the address bar of most browsers.
-- **Inclure dans le flux**.
-  - Texte d'introduction: Only the article's intro text will show in the
-    feed.
-  - Texte complet: The entire text of the article will show in the feed.
-- **Lien "Lire la suite"**. Show a "Read more" link in the feed.
-
-#### Routage
-
-- **Supprimer les "id" des URL**. Remove the database id of articles in
-  a link.
-
-#### Champs personnalisés
-
-- **Intégration des champs**. Enable the creation of custom fields.
-  Pour en savoir
-  plus.
-
-#### Flux de travail
-
-- **Activer le flux de travail**. Use customised workflows to manage
-  articles. Pour en savoir
-  plus.
-
-### Droits
-
-This section lets you set up the default Access Control List
-permissions for all articles in all categories.
-
-![Articles options permissions tab](../../../fr/images/articles/articles-options-permissions-tab.png "Articles options permissions")
-
-To change the permissions for articles and categories, do the following.
-
-1.  Sélectionnez le groupe en cliquant sur son titre.
-2.  Find the desired **Action**.
-    - **Configurer les droits et paramètres**. Users can edit the
-      options and permissions.
-    - **Ne configurer que les paramètres**. Users can edit the options
-      exept the permissions.
-    - **Accès à l'interface d'administration**. Users can access user
-      administration interface.
-    - **Créer**. Users can create articles and categories.
-    - **Supprimer**. Users can delete articles and categories.
-    - **Modifier**. Users can edit articles and categories.
-    - **Modifier le statut**. User can change the published state and
-      related information.
-    - **Modifier ses éléments**. Users can edit own created articles and
-      categories.
-    - **Modifier les valeurs des champs personnalisés**. Users can edit
-      any value of custom fields submitted in articles and categories.
-    - **Gérer le flux de travail**. Users can manage workflows.
-    - **Exécuter la transition**. Users can execute transitions.
-3.  Sélectionnez l'autorisation souhaitée pour l'action que vous
-    souhaitez modifier.
-    - **Hérité**. Inherited for users in this Group from the Global Configuration
-      permissions.
-    - **Autorisé**. Allowed for users in this Group.Note: If this action
-      is Denied at one of the higher levels, the Allowed permission here
-      will not take effect. A Denied setting cannot be overridden.
-    - **Refusé**. Denied for users in this Group.
-4.  Cliquez sur **Enregistrer** dans la barre d'outils située en haut à
-    gauche. Lors de l'actualisation de l'écran, la colonne des Droits
-    appliqués affichera les droits effectifs pour ce groupe et action.
-
-## Barre d'outils
-
-En haut de la page, vous verrez la barre d'outils présentée dans la
-capture d'écran ci-dessus.
-
-- **Enregistrer**. Saves the articles options and stays in the current
-  screen.
-- **Enregistrer & Fermer**. Saves the articles options and closes the
-  current screen.
-- **Fermer**. **Fermer**. Ferme l'écran actuel et retourne à l'écran
-  précédent sans enregistrer les modifications que vous avez faites.
-- **Afficher/Masquer l'aide**. Show help text below some options.
-- **Aide**. Ouvre l'écran d'aide.
-
-## Astuces
-
-- Si vous êtes un utilisateur débutant, vous pouvez simplement conserver
-  les valeurs par défaut ici jusqu'à en savoir plus sur l'utilisation
-  des paramètres globaux.
-- Si vous êtes un utilisateur expérimenté, vous pouvez gagner du temps
-  en créant ici de bonnes valeurs par défaut. Lorsque vous configurez
-  des éléments de menu et créez des articles, vous pourrez accepter les
-  valeurs par défaut pour la plupart des paramètres.
-- Toutes les valeurs définies ici peuvent être remplacées au niveau de
-  l'élément de menu, de la catégorie ou de l'article.
+- Les utilisateurs débutants peuvent conserver les valeurs par défaut ici.
+- Les utilisateurs expérimentés peuvent gagner du temps en créant des valeurs par défaut appropriées ici. Les nouveaux éléments de menu et articles pourront ensuite utiliser les valeurs par défaut pour la plupart des options.
+- Toutes les valeurs définies ici peuvent être remplacées au niveau de l'élément de menu, de la catégorie ou de l'article.

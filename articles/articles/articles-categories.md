@@ -1,178 +1,48 @@
-<!-- Filename: Help4.x:Articles:_Categories / Display title: Articles : catégories -->
+<!-- Filename: Help4.x:Articles:_Categories / Display title: Articles : Catégories -->
 
 ## Description
 
-La liste des articles catégories est utilisée pour trouver, marquer les
-articles épinglés, ajouter et modifier des articles catégories.
+Les catégories sont utilisées pour organiser les articles afin de faciliter leur gestion et leur affichage. Elles peuvent être structurées en arborescences, comme des systèmes de fichiers. Chaque article doit être assigné à une catégorie. Par défaut, la catégorie est *Non classé*.
 
-Categories are are used to organise Articles for ease of management and
-display. They can be organised into tree-like structures like file
-systems. All Articles must be assigned either to a parent Category or a
-child Category.
+La page de liste des **Catégories** est utilisée pour gérer les catégories. Cela inclut la création de nouvelles catégories, la recherche de catégories à modifier et le changement des propriétés des catégories, telles que publiées ou non, et l'ordre des catégories. De plus, certaines propriétés peuvent être modifiées pour un groupe de catégories à l'aide d'un traitement par lot.
 
-## Comment y accéder ?
-Seleccionar **Panneau d'administration → Site → Catégories d’articles**
+### Éléments communs
 
-To add a Category:
+Certains éléments de cette page sont couverts dans des articles d'aide séparés :
 
-- click the **New** toolbar button
+* [Barres d'outils](jdocmanual?article=help/common-elements/toolbars).
+* [Filtres de liste](jdocmanual?article=help/common-elements/list-filters).
+* [En-têtes des colonnes de liste](jdocmanual?article=help/common-elements/list-column-headers).
+* [Ordre des éléments de liste](jdocmanual?article=help/common-elements/list-ordering).
+* [Pagination de la liste](jdocmanual?article=help/common-elements/list-pagination).
+* [Traitement par lot de liste](jdocmanual?article=help/common-elements/list-batch-process).
 
-To edit a Category:
+## Comment y accéder
 
-- select a **Title** from the list
+Il existe deux manières d'accéder à la page de liste des Catégories :
+* Depuis le **Tableau de bord Accueil → panneau Site**, sélectionnez **Catégories d'articles**
+* Depuis le menu Administrateur, sélectionnez **Contenu → Catégories**
 
 ## Capture d'écran
 
-![Articles: Categories list](../../../fr/images/articles/articles-categories-list.png "Articles: Categories list")
+![Articles : Liste des catégories](../../../fr/images/articles/articles-categories-list.png)
 
-## En-Têtes de colonne
+## En-têtes des colonnes
 
-- **Checkbox**. Check this box to select categories. To select all
-  categories, check the box in the column heading. After boxes are
-  checked the toolbar button 'Actions' get active.
-- **Ordre**. You can change the order of an category within a list as
-  follows:
-  - Sélectionnez l'icône de commande <img
-    src="https://docs.joomla.org/images/thumb/7/79/Help-4x-Ordering-colheader-icon.png/9px-Help-4x-Ordering-colheader-icon.png"
-    decoding="async"
-    srcset="https://docs.joomla.org/images/thumb/7/79/Help-4x-Ordering-colheader-icon.png/14px-Help-4x-Ordering-colheader-icon.png 1.5x, https://docs.joomla.org/images/7/79/Help-4x-Ordering-colheader-icon.png 2x"
-    data-file-width="18" data-file-height="23" width="9" height="12"
-    alt="Icône de commande" /> dans l'en-tête de la liste pour la rendre
-    active.
-  - Sélectionnez l'une des icônes à trois points <img
-    src="https://docs.joomla.org/images/thumb/a/a0/Help-4x-Ordering-colheader-grab-bar-icon.png/5px-Help-4x-Ordering-colheader-grab-bar-icon.png"
-    decoding="async"
-    srcset="https://docs.joomla.org/images/thumb/a/a0/Help-4x-Ordering-colheader-grab-bar-icon.png/8px-Help-4x-Ordering-colheader-grab-bar-icon.png 1.5x, https://docs.joomla.org/images/a/a0/Help-4x-Ordering-colheader-grab-bar-icon.png 2x"
-    data-file-width="9" data-file-height="27" width="5" height="15"
-    alt="Icône à trois points" /> et faites-la glisser vers le haut ou
-    vers le bas pour modifier la position de cette ligne dans la liste.
-  - In the Filter Options you may limit the list to categories that are
-    assigned for example to a Language.
-- **Statut**. Status of category. Hover icon for informations.
-- **Titre**. The title of the category. Edit the category by clicking on
-  the Title.
-- **Icons**. Counts of number of Published, Unpublished, Archived and
-  Trashed Articles in each Category. Click on a number to get a list of
-  the categories.
-- **Accès**. The viewing Access level  for this category.
-- **Association**. Shows the associated categories. Click on the
-  Language Code to open the category. Multilingual only.
-- **Langue**. Categories language, default is 'All'.
-- **Id**. A unique identification number for this category, you cannot
-  change this number.
+- **Case à cocher** Cochez cette case pour sélectionner des catégories. Pour sélectionner toutes les catégories, cochez la case dans l'en-tête de colonne. Une fois les cases cochées, le bouton 'Actions' de la barre d'outils devient actif.
+- **Ordre** Vous pouvez changer l'ordre d'une catégorie dans une liste comme suit :
+  - Sélectionnez l'icône de tri <i class="fa-solid fa-sort"></i> dans l'en-tête de la première colonne pour l'activer.
+  - Sélectionnez l'une des icônes de points de suspension verticaux <span class="icon-ellipsis-v"></span> et faites-la glisser vers le haut ou vers le bas pour changer la position de cette ligne dans la liste.
+  - Dans les options de filtre, vous pouvez limiter la liste aux catégories assignées, par exemple, à une langue.
+- **Statut** Statut de la catégorie. Survolez l'icône pour obtenir des informations ou accédez-y avec la touche de tabulation pour une version audio.
+- **Titre** Le titre de la catégorie. Modifiez la catégorie en cliquant sur le titre.
+- **Colonnes de statut** Chaque bouton dans une colonne montre le nombre d'articles avec ce statut dans cette catégorie. Sélectionnez un bouton pour accéder à la liste des articles filtrée pour cette catégorie. Les colonnes sont **Publié**, **Non publié**, **Archivé** et **Supprimé**.
+- **Accès** Le niveau d'accès de visualisation pour cette catégorie.
+- **Associations** Affiche les catégories associées. Cliquez sur le code de langue pour ouvrir la catégorie. Multilingue uniquement !
+- **Langue** Langue des catégories, par défaut 'Tous'.
+- **ID** Un numéro d'identification unique pour cette catégorie, vous ne pouvez pas modifier ce numéro.
 
-## Liste des filtres
+## Conseils
 
-**Search bar**. Near the top of the page you will see the search bar
-shown in the Screenshot above.
+- Sélectionnez une icône dans la colonne Statut pour basculer entre Publié et Non publié.
 
-- **Recherche par texte**. Saisissez une partie du terme à rechercher et
-  cliquez sur l'icône de recherche. Passez la souris sur l'icône pour
-  voir une infobulle indiquant les champs qui seront recherchés.Pour
-  "Rechercher par ID", entrez "id:x", où "x" est le numéro d'ID (par
-  exemple, "id:19").
-- **Filtres d'affichage**. Click to display the additional filters.
-- **Effacer**. Cliquez sur *Effacer* pour effacer le champ de Filtre et
-  restaurer la liste à son état initial.
-- **Ordre**. Affiche le champ d'ordre actuel de la liste. 2 façons de
-  changer l'ordre :
-  - Select from the dropdown list. Ordering may be in ascending or
-    descending order.
-  - Click a column heading. The column heading toggles between ascending
-    and descending order.
-- **Number to Display**. Shows the number of categories in a list.
-  Select from the dropdown list to change the number displayed.The
-  default for a site is '20' but this may be changed in the Global Configuration.
-
-### Paramètres des champs
-
-En haut de la page, vous verrez la barre d'outils présentée dans la
-capture d'écran ci-dessus.
-
-- **Statut**. Select from Trashed / Unpublished / Published / Archived /
-  All.
-- **Niveau d'accès**. Select from the list of available viewing access
-  levels.
-- **Langue**. Select from the list of available languages.
-- **Tag**. Select from the list of available tags.
-- **Niveau d'arborescence**. Select from the list of available levels.
-
-### Pagination
-
-**Page Controls**. When the number of categories is more than one page,
-you will see a page control bar near the bottom of the page shown in the
-Screenshot above. The current page number being viewed
-has a dark colour background.
-
-- **Start**. Click to go to the first page.
-- **Prev**. Click to go to the previous page.
-- **Numéros de page**. Cliquez pour accéder à la page désirée.
-- **Next**. Click to go to the next page.
-- **End**. Click to go to the last page.
-
-## Barre d'outils
-
-En haut de la page, vous verrez la barre d'outils présentée dans la
-capture d'écran ci-dessus.
-
-- **Nouveau**. Opens the editing screen to create a new category.
-- **Actions**. Reveals a list of actions for selected categories. Check
-  one or more categories checkboxes to activate the list.
-  - **Publier**. Makes the selected categories available to visitors to
-    your website.
-  - **Dépublier**. Makes the selected categories unavailable to visitors
-    to your website.
-  - **Archiver**. Changes the status of the selected categories to
-    indicate that they are archived. Pour en savoir
-    plus.
-  - **Déverrouiller**. Checks-in the selected categories.
-  - **Corbeille**. Changes the status of the selected categories to
-    indicate that they are trashed. Pour en savoir
-    plus.
-  - **Traiter**. Batch processes the selected categories.
-- **Reconstruire**. Reconstructs and refreshes the categories table.
-  Normally, you do not need to rebuild this table. This function is
-  provided in case the data in the table becomes corrupted.
-- **Paramètres**. Ouvre
-- **Aide**. Ouvre l'écran d'aide.
-
-## Processus de traitement par lots
-
-The Batch Process allows a change in settings for a group of selected
-categories.
-
-![Batch process categories](../../../fr/images/articles/articles-categories-batch.png "Batch process categories")
-
-**How to Batch Process** a group of categories:
-
-1.  Select one or more categories on the list by checking the desired
-    checkboxes.
-2.  Click the Batch Toolbar button.
-3.  Set one or more of the following values:
-    - To change the **Language**, select the desired language from the
-      Set Language list box.
-    - To change the **Access Levels**, select the desired new access
-      level from the Set Access Level list box.
-    - To change the **Category**, select a category. To leave the
-      category unchanged, use the default value of 'Select'.
-      - To **copy** the categories to a different category, select the
-        desired category from the category list box and check the Copy
-        option. In this case, the original categories are unchanged and
-        the copies are assigned to the new category and, if selected,
-        the new language, access level, and tag.
-      - To **move** the categories to a different category, select the
-        desired category from the category list box and check the Move
-        option. In this case, the original categories will be moved to a
-        new category and, if selected, be assigned the new language,
-        access level, and tag.
-    - To add **Tags**, select the desired Tags from the dropdown or
-      choose to keep the tags currently added to the original
-      categories.
-4.  When all of the settings are entered, click on Process to perform
-    the changes. A message **"Batch process completed successfully."**
-    will show.
-
-## Astuces
-
-- Click on the icon in the Status column to toggle between Published and
-  Unpublished.
