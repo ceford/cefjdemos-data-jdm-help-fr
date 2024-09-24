@@ -1,76 +1,38 @@
-<!-- Filename: Help4.x:Users:_Viewing_Access_Levels / Display title: Utilisateurs : Niveaux d'accès -->
+<!-- Filename: Help4.x:Users:_Viewing_Access_Levels / Display title: Utilisateurs : Modifier le niveau d'accès -->
 
 ## Description
 
-This screen shows a list of User Access Levels.
+Les niveaux d'accès contrôlent quels utilisateurs peuvent voir quels éléments sur un site. Les éléments comprennent des articles de menu, des modules, des catégories et des éléments de composant (articles, contacts, etc.). Chaque élément du site est assigné à un niveau d'accès. Des groupes d'utilisateurs sont également assignés à chaque niveau d'accès.
 
-## Comment y accéder ?
+Si un utilisateur est membre d'un groupe qui a la permission pour un niveau d'accès, cet utilisateur peut alors voir tous les éléments assignés à ce niveau d'accès. Il est important de comprendre que les groupes d'utilisateurs peuvent être organisés dans une hiérarchie parent-enfant. Dans ce cas, un groupe enfant a accès à tous les niveaux d'accès auxquels le groupe parent a accès. Il n'est donc pas nécessaire d'assigner un niveau d'accès à un groupe enfant que son groupe parent a déjà.
 
-Select **Users → Access Levels** from the Administrator menu.
+### Éléments communs
+
+Certains éléments de cette page sont traités dans des articles d'aide distincts :
+
+* [Barres d'outils](jdocmanual?article=help/common-elements/toolbars).
+
+## Comment accéder
+
+- Sélectionnez **Utilisateurs → Niveaux d'accès** dans le menu Administrateur. Ensuite...
+  - Sélectionnez un lien dans la colonne **Nom du niveau** pour éditer un niveau existant. Ou...
+  - Sélectionnez le bouton Nouveau pour créer un nouveau niveau d'accès.
 
 ## Capture d'écran
 
-<img
-src="https://docs.joomla.org/images/thumb/b/b2/Help-4x-users-user-manager-viewing-access-levels-en.png/800px-Help-4x-users-user-manager-viewing-access-levels-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/b/b2/Help-4x-users-user-manager-viewing-access-levels-en.png 1.5x"
-data-file-width="1007" data-file-height="583" width="800" height="463"
-alt="users user manager viewing access levels" />
+![niveaux d'accès des utilisateurs](../../../fr/images/users/users-edit-viewing-access-level-details-tab.png)
 
-## Column Headers
+### Onglet Détails du niveau
 
-In the table containing the Access Levels from your Joomla! site, you
-will see different columns. Here you can read what they mean and what is
-displayed in that column.
+- **Titre du niveau** Entrez un titre pour ce niveau d'accès.
+- **Groupes d'utilisateurs avec accès en vue** Cochez tout groupe pour avoir ce niveau d'accès.
 
-- **Checkbox**. Check this box to select one or more items. To select
-  all items, check the box in the column heading. After one or more
-  boxes are checked, click a toolbar button to take an action on the
-  selected item or items. Many toolbar actions, such as Publish and
-  Unpublish, can work with multiple items. Others, such as Edit, only
-  work on one item at a time. If multiple items are checked and you
-  press Edit, the first item will be opened for editing.
-- **Ordering:** (default). The column in which to sort displayed items
-  in the table. The values are the same as the column heading names.
-- **Level Name**. The name of the access level.
-- **User Groups Having Viewing Access**. The groups that have viewing
-  access.
-- **ID**. This is a unique identification number for this item assigned
-  automatically by Joomla. It is used to identify the item internally,
-  and you cannot change this number. When creating a new item, this
-  field displays "0" until you save the new entry, at which point a new
-  ID is assigned to it.
+### Onglet Groupes d'utilisateurs avec accès en vue
 
-## List Filters
+![niveaux d'accès des utilisateurs](../../../fr/images/users/users-edit-viewing-access-level-ugwva-tab.png)
 
-At the top you will see the filter bar shown in the Screenshot above.
-The functions are:
+Sélectionnez une case à cocher pour ajouter un groupe d'utilisateurs à un niveau d'accès. Dans l'exemple montré, tous les groupes sont des enfants du groupe Public, il n'est donc pas nécessaire de cocher l'un des groupes enfants. Ils héritent des permissions d'accès publiques. Cette fonctionnalité ne doit être utilisée que pour des groupes personnalisés !
 
-- **Search**. Enter part of the level's name and press the Search icon
-to find matching names. Press 'Clear' to clear the search field and
-restore the list of levels.
+## Conseils
 
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
-
-- **New**. Opens the editing screen to create a new access level.
-- **Edit**. Opens the editing screen for the selected access level. If
-  more than one access level is selected (where applicable), only the
-  first access level will be opened. The editing screen can also be
-  opened by clicking on the Name of the access level.
-- **Delete:** Deletes the selected access levels. Works with one or
-  multiple access levels selected. Note that you cannot delete an access
-  level that is currently being used. If you try to delete an access
-  level that is assigned, a message showing where it is assigned will be
-  displayed.
-- **Options.** Opens the Options window where settings such as default
-  parameters can be edited.
-- **Help**. Opens this help screen.
-
-## Tips
-
-- Click on the name of an access level to edit it.
-- Click on the Column
-Headers to sort the users by that column, ascending or descending.
+- Si vous ajoutez un nouveau groupe, vous devrez peut-être éditer tous les niveaux d'accès auxquels ce groupe devrait avoir accès.

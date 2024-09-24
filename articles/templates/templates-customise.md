@@ -2,122 +2,81 @@
 
 ## Description
 
-This is where you edit a template's source code. You can edit the
-template's master files and stylesheets from this screen.
+La page *Templates : Personnaliser* est utilisée pour modifier le code source d'un template. Vous pouvez créer des surcharges pour les fichiers PHP et créer des fichiers user.css et user.js pour ajouter aux versions système. Vous pouvez également créer des templates enfants pour permettre la modification des fichiers maîtres du template surchargé.
 
-## Comment y accéder ?
+## Comment accéder
 
-- Select **System → Templates Panel → Site Templates** from the
-  Administrator menu. Or...
-- Select **System → Templates Panel → Administrator Templates**
-  from the Administrator menu. Then...
-  - Select a template name from the **Templates** column.
+- Sélectionnez **Système → Panneau des Templates → Templates du site** dans le menu Administrateur. Ou...
+- Sélectionnez **Système → Panneau des Templates → Templates de l'administrateur** dans le menu Administrateur. Ensuite...
+  - Sélectionnez un nom de template dans la colonne **Template**.
 
 ## Capture d'écran
 
-The Administrator and Site Templates screens use the same layout. The
-Site Template screen is illustrated here.
+Les écrans des Templates du site et des Templates de l'administrateur utilisent la même disposition. L'écran des Templates du site est illustré ici.
 
-<img
-src="https://docs.joomla.org/images/thumb/5/54/Help-4x-Extensions-Template-Manager-Templates-Edit-screen-en.png/800px-Help-4x-Extensions-Template-Manager-Templates-Edit-screen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/5/54/Help-4x-Extensions-Template-Manager-Templates-Edit-screen-en.png 1.5x"
-data-file-width="1000" data-file-height="508" width="800" height="406"
-alt="Extensions Template Manager Templates Edit screen" />
+![personnalisation des templates onglet cassiopeia éditeur](../../../fr/images/templates/templates-customise-cassiopeia-editor-tab.png)
 
-## Form Fields
+## Champs de formulaire
 
-### Editor Tab
+### Onglet Éditeur
 
-- Select a file to edit. The edit area shows syntax highlighted text for
-  most types of file.
+- Sélectionnez un fichier à modifier. La zone d'édition montre un texte avec une coloration syntaxique pour la plupart des types de fichiers.
 
-### Create Overrides Tab
+### Onglet Créer des surcharges
 
-- Select an item to override. This is done immediately with no prompt
-  for confirmation. The override is placed in the appropriate location.
-  There is a confirmation message, example: Override created in
-  /templates/cassiopeia/html/mod_whosonline
+![personnalisation des templates onglet cassiopeia créer des surcharges](../../../fr/images/templates/templates-customise-cassiopeia-create-overrides-tab.png)
 
-### Updated Files Tab
+- Sélectionnez un élément à surcharger. Les éléments marqués d'une icône de fichier plein s'ouvrent pour révéler une liste d'éléments. Les éléments marqués d'icônes de page superposées (ouverte et remplie) créent immédiatement une surcharge sans demander de confirmation. La surcharge est placée à l'emplacement approprié. Un message de confirmation apparaît, par exemple :
+  *Surcharge créée dans /templates/cassiopeia/html/mod_whosonline*.
 
-If there have been no updates to the template since overrides were
-created this tab will contain a simple message:
+### Onglet Fichiers mis à jour
 
-- **Notice.** Overridden files are up to date. Nothing has been changed
-  in the last extension or Joomla update.
+![personnalisation des templates onglet cassiopeia fichiers mis à jour](../../../fr/images/templates/templates-customise-cassiopeia-updated-files-tab.png)
 
-If there have been updates, a table will show a list of overrides that
-need to be reviewed.
+Si aucune mise à jour du template n'a eu lieu depuis la création des surcharges, cet onglet contiendra un message simple :
 
-### Template Description Tab
+<div class="alert alert-success">
+Les fichiers surchargés sont à jour. Rien n'a été modifié
+dans la dernière extension ou mise à jour de Joomla.
+</div>
 
-- **Thumbnail and Description.** Information on this template.
+Si des mises à jour ont eu lieu, un tableau affichera une liste des surcharges à examiner.
 
-## Toolbar
+### Onglet Description du template
 
-Note that the Toolbar buttons change when a file is selected for
-editing.
+![personnalisation des templates onglet cassiopeia description du template](../../../fr/images/templates/templates-customise-cassiopeia-template-description-tab.png)
 
-### No file selected
+- **Vignette et description** Informations sur ce template.
 
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
+## Barre d'outils
 
-- **Create Child Template.** Select to make a complete a new child
-  template. You will be prompted for a new child template name. There is
-  also an opportunity to Close without creating a new child template. To
-  remove the new child template: select the **Close** button, select the
-  Styles button in the Templates list Toolbar, check the template check
-  box for the new child template and select Delete in the toolbar.
-- **Template Preview.** Select to open the Site default view using this
-  template.
-- **Manage Folders.** Select to create a new folder within the template
-  hierarchy. A popup window appears:
+Notez que les boutons de la barre d'outils changent lorsqu'un fichier est sélectionné pour modification.
 
-<img
-src="https://docs.joomla.org/images/thumb/c/ca/Help-4x-Extensions-Template-Manager-Templates-Edit-new-folder-dialog-en.png/500px-Help-4x-Extensions-Template-Manager-Templates-Edit-new-folder-dialog-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/c/ca/Help-4x-Extensions-Template-Manager-Templates-Edit-new-folder-dialog-en.png 1.5x"
-data-file-width="600" data-file-height="329" width="500" height="274"
-alt="Extensions Template Manager Templates Edit new folder dialog" />
+### Aucun fichier sélectionné
 
-- **New File.** Select to create a new file or to upload a file from
-  your computer to your Joomla! template hierarchy. A popup window
-  appears:
+En haut de la page, vous verrez la barre d'outils affichée dans la capture d'écran ci-dessus. Les fonctions sont :
 
-<img
-src="https://docs.joomla.org/images/thumb/f/fe/Help-4x-Extensions-Template-Manager-Templates-Edit-upload-file-dialog-en.png/500px-Help-4x-Extensions-Template-Manager-Templates-Edit-upload-file-dialog-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/f/fe/Help-4x-Extensions-Template-Manager-Templates-Edit-upload-file-dialog-en.png 1.5x"
-data-file-width="600" data-file-height="334" width="500" height="278"
-alt="Extensions Template Manager Templates Edit upload file dialog" />
+- **Créer un template enfant** Sélectionnez pour créer un nouveau template enfant complet. Il vous sera demandé de saisir un nom pour le nouveau template enfant. Vous avez également la possibilité de fermer sans créer de template enfant. Pour supprimer le nouveau template enfant : sélectionnez le bouton **Fermer**, sélectionnez le bouton Styles dans la barre d'outils de la liste des Templates, cochez la case du template enfant dans la liste et sélectionnez Supprimer dans la barre d'outils.
+- **Aperçu du template** Sélectionnez pour ouvrir la vue par défaut du site en utilisant ce template.
+- **Gérer les dossiers** Sélectionnez pour créer un nouveau dossier dans la hiérarchie du template. Une fenêtre contextuelle apparaît. **Important :** sélectionnez le dossier dans lequel le nouveau dossier doit apparaître avant de le créer.
+- **Nouveau fichier** Sélectionnez pour créer un nouveau fichier ou pour télécharger un fichier depuis votre ordinateur dans la hiérarchie du template Joomla! Une fenêtre contextuelle apparaît. **Important :** Sélectionnez le dossier dans lequel le nouveau fichier doit apparaître avant de le créer.
+- **Vérifier les surcharges** Activé lorsqu'une surcharge est sélectionnée dans l'onglet *Surcharges*. Les options sont :
+  - Marquer comme vérifié
+  - Marquer comme non vérifié
+  - Supprimer l'enregistrement
+- **Fermer** Ferme l'écran actuel et retourne à l'écran précédent sans enregistrer les modifications que vous avez pu apporter. Cet icône de la barre d'outils n'est pas affiché si vous créez un nouvel élément.
+- **Aide** Ouvre cet écran d'aide.
 
-- **Check Overrides.** Activated when an Override is selected in the
-  **Overrides** tab. The options are:
-  - Mark Checked
-  - Mark Unchecked
-  - Remove Record
-- **Close**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made. This
-  toolbar icon is not shown if you are creating a new item.
-- **Help**. Opens this help screen.
+### Fichier sélectionné
 
-### File selected
+- **Enregistrer** Enregistre l'élément et reste dans l'écran actuel.
+- **Enregistrer et fermer** Enregistre l'élément et ferme l'écran actuel.
+- **Renommer le fichier** Sélectionnez un fichier à modifier. Sélectionnez le bouton Renommer pour entrer un nouveau nom.
+- **Supprimer le fichier** Vous serez invité à confirmer ou annuler.
+- **Vérifier les surcharges** Activé lorsqu'une surcharge est sélectionnée dans l'onglet *Surcharges*.
+- **Fermer le fichier** Ferme le fichier ouvert et retourne à l'onglet Éditeur.
+- **Aide** Ouvre cet écran d'aide.
 
-- **Save**. Saves the item and stays in the current screen.
-- **Save & Close**. Saves the item and closes the current screen.
-- **Rename File.** Select a file to edit. Select the Rename button to
-  prompt for a new name.
-- **Delete File.** You will be prompted to Confirm or Cancel.
-- **Check Overrides.** Activated when an Override is selected in the
-  **Overrides** tab.
-- **Close File.** Closes the open file and returns to the Editor Tab.
-- **Help**. Opens this help screen.
+## Conseils
 
-## Tips
-
-- Before editing the HTML and the CSS file of the template, it is a good
-  idea to make a backup of the file you are editing. Also, you can edit
-  these files outside of Joomla! using the HTML or CSS editor of your
-  choice.
+- Avant de modifier le fichier HTML ou CSS du template, il est conseillé de faire une sauvegarde du fichier que vous modifiez. Vous pouvez également modifier ces fichiers en dehors de Joomla! en utilisant l'éditeur HTML ou CSS de votre choix.

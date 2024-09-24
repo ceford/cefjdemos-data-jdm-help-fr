@@ -2,53 +2,30 @@
 
 ## Description
 
-La rubrique Messages de post-installation présente une variété de
-messages utiles à l'administrateur du site.
+La page des messages post-installation affiche des messages utiles pour l'administrateur du site.
+
+### Éléments communs
+
+Certains éléments de cette page sont couverts dans des articles d'aide séparés :
+
+* [Barres d'outils](jdocmanual?article=help/common-elements/toolbars).
 
 ## Comment y accéder
 
-- Sélectionnez l'icône **Messages post-installation** dans la barre de
-  titre de n'importe quel écran de liste de l'administrateur. L'icône
-  est désactivée dans les écrans d'édition.
+- Sélectionnez l'onglet **Système -> Informations -> Messages d'installation** dans le menu d'administration. Ou...
+- Sélectionnez le bouton Messages post-installation dans n'importe quelle barre de titre d'écran de liste de l'administrateur. Le bouton est absent des pages d'édition et peut être absent si son module parent est non publié.
 
 ## Capture d'écran
 
-![post installation messages screen](../../../en/images/post-install-messages/post-installation-messages.png "")
-
-## Champs de formulaire
-
-- **Afficher les messages pour.** Le CMS Joomla est la seule option pour
-  le moment.
+![Écran des messages post-installation](../../../fr/images/post-install-messages/post-install-messages.png)
 
 ## Messages
 
-Il y a un certain nombre de panneaux de messages, chacun avec un bouton
-***Masquer ce message*** à sélectionner lorsque vous ne souhaitez plus
-voir un message. Un message masqué peut être restauré - voir la section
-Barre d'outils ci-dessous.
+Il y a plusieurs panneaux de messages, chacun avec deux boutons :
+- **Masquer ce message** pour sélectionner lorsque vous ne souhaitez plus voir un message. Un message masqué ne peut pas être restauré dans Joomla. Si nécessaire, il peut être restauré dans la base de données.
+- **Archiver** Lorsque sélectionné, le contenu du panneau est masqué et le bouton est remplacé par un bouton vert **Relire**.
 
-- **Collection de statistiques dans Joomla**. Informations sur la façon
-  dont les statistiques de votre site sont utilisées.
-- *Bienvenue dans Joomla !'* Quelques ressources que vous pourriez
-  trouver utiles.
-- **L'authentification à deux facteurs est disponible**. Informations
-  sur la sécurité renforcée.
+## Exemples de messages
 
-## Actualités des versions
-
-- **Actualités des versions**. Une liste des versions stables et bêta.
-
-## Barre d'outils
-
-En haut de la page, vous verrez la barre d'outils présentée dans la
-[capture d'écran](#Capture_d.27.C3.A9cran) ci-dessus. Les fonctions sont
-les suivantes :
-
-- **Masquer tous les messages**. Select this button to hide the messages
-  in the left panel. The messages are replaced by a box that says ***You
-  have read all the messages***. There is a ***Reset Messages*** button
-  that restores the unread messages, including the individually hidden
-  messages.
-- **Paramètres.** Ouvre la fenêtre des options où les paramètres tels
-  que ceux devant être appliqués par défaut peuvent être modifiés.
-- **Aide**. Ouvre l'écran d'aide.
+- **Collecte de statistiques dans Joomla** Informations sur la façon dont les statistiques de votre site sont utilisées.
+- **Bienvenue dans Joomla !** Quelques ressources que vous pourriez trouver utiles.

@@ -1,135 +1,38 @@
-<!-- Filename: Help4.x:Multilingual_Associations:_Edit / Display title: Associations multilingues : Edition -->
+<!-- Filename: Help4.x:Multilingual_Associations:_Edit / Display title: Associations multilingues : Modifier -->
 
 ## Description
 
-Utilisé pour ajouter ou modifier des associations entre langues
-affichées sur votre site multilingue Joomla.
+La page *Associations multilingues : Modifier les associations* affiche un élément de référence et un élément cible côte à côte sur les écrans larges et empilés sur les écrans étroits. Le mode côte à côte permet d'aligner la référence et la cible pour faciliter la traduction.
 
-## Comment y accéder ?
+Les champs dans la référence et la cible sont les mêmes que ceux du formulaire de modification pour un élément unique, mais la mise en page est ajustée en fonction de la largeur de colonne restreinte.
 
-To add a Association:
+### Éléments communs
 
-- **Components → Multilingual Associations**
-  1.  select **Item Type**.
-  2.  select **Language**.
-  3.  Select a target language in the **Not Associated** column.
+Certains éléments de cette page sont couverts dans des articles d'aide distincts :
 
-To edit a Association:
+* [Barres d'outils](jdocmanual?article=help/common-elements/toolbars).
 
-- **Components → Multilingual Associations**
-  1.  select **Item Type**.
-  2.  select **Language**.
-  3.  Select a target language in the **Associated** column.
+## Comment y accéder
+
+* Sélectionnez **Composants → Associations multilingues** dans le menu d'administration.
+  * Sélectionnez un **Type d'élément** dans la liste déroulante *- Sélectionner le type d'élément -*.
+  * Sélectionnez **Langue** dans la liste déroulante *- Sélectionner la langue -*. Cela devient la langue de référence.
+* Pour modifier une association : sélectionnez une langue cible dans la colonne **Associée**.
+* Pour ajouter une association : sélectionnez une langue cible dans la colonne **Non associée**.
 
 ## Capture d'écran
 
-<img
-src="https://docs.joomla.org/images/thumb/f/f4/Help-4x-Components-Assocations-Edit-screen-fr.png/800px-Help-4x-Components-Assocations-Edit-screen-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/f/f4/Help-4x-Components-Assocations-Edit-screen-fr.png/1200px-Help-4x-Components-Assocations-Edit-screen-fr.png 1.5x, https://docs.joomla.org/images/thumb/f/f4/Help-4x-Components-Assocations-Edit-screen-fr.png/1600px-Help-4x-Components-Assocations-Edit-screen-fr.png 2x"
-data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Components Assocations Edit screen" />
+![Éléments de référence et de cible côte à côte](../../../fr/images/multilingual-associations/multilingual-associations-edit.png)
 
-The Multilingual Associations edit screen shows the item content in
-source and destination side by side. Each is a scrollable window with
-the item options beneath the text edit area.
+Dans cet exemple, les éléments sont des Articles. Chacun est une fenêtre défilante avec les options de l'élément sous la zone d'édition de texte (non affichée).
 
-## Form Fields
+## Champs du formulaire
 
-The screens depends on the selected item so go to:
+Les champs du formulaire sont ceux du type d'élément sélectionné, donc ils ne sont pas couverts ici.
 
-### Content
+## Barre d'outils
 
-- Articles
-- Articles
-  Categories
-- Contacts
-- Contacts
-  Categories
-- Menus
-- News
-  Feeds
-- News Feeds
-  Categories
-
-### Images and Links
-
-- Articles
-
-### Options
-
-- Articles
-- Articles
-  Categories
-- Contacts
-  Categories
-- News
-  Feeds
-- News Feeds
-  Categories
-
-### Publishing
-
-- Articles
-- Articles
-  Categories
-- Contacts
-- Contacts
-  Categories
-- News
-  Feeds
-- News Feeds
-  Categories
-
-### Associations
-
-- Articles
-- Articles
-  Categories
-- Contacts
-- Contacts
-  Categories
-- News
-  Feeds
-- News Feeds
-  Categories
-
-### Configure Edit Screen
-
-- Articles
-
-### Permissions
-
-- Articles
-- Articles
-  Categories
-- Contacts
-  Categories
-- News Feeds
-  Categories
-
-### Miscellaneous Information
-
-- Contacts
-
-### Display
-
-- Contacts
-
-### Form
-
-- Contacts
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above.
-
-- **Save Reference**. Saves the Reference and stays in the current
-  screen.
-- **Save Target**. Saves the Target and stays in the current screen.
-- **Copy Reference to Target**. Copies all the fields to the target
-  fields.
-- **Close**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made.
-- **Help**. Opens this help screen.
+- **Enregistrer la référence** Enregistre la référence et reste à l'écran actuel.
+- **Enregistrer la cible** Enregistre la cible et reste à l'écran actuel.
+- **Copier la référence vers la cible** Copie tous les champs de référence vers les champs cibles.
+- **Fermer** Ferme l'écran actuel et retourne à l'écran précédent sans enregistrer les modifications que vous avez pu apporter.

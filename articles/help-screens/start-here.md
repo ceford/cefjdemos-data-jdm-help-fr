@@ -1,68 +1,27 @@
-<!-- Filename: Help4.x:Start_Here / Display title: Par où commencer ? -->
+<!-- Filename: Help4.x:Start_Here / Display title: Commencez ici -->
 
-Joomla!  4.x
+## Aide avec Joomla!
 
-## Aide Joomla! 4
+Pour obtenir de l'aide sur une page spécifique de l'administrateur, dans l'interface administrateur de Joomla, vous pouvez sélectionner le bouton **Aide** de la barre d'outils pour obtenir plus d'informations sur la page. Il est situé à droite de la barre d'outils, juste en dessous de la barre de titre. Exemple :
+![barre d'outils aide](../../../fr/images/help-screens/start-here-top-bars.png "Barre d'outils Aide")
 
-Pour obtenir de l'aide sur une page d'administration spécifique, dans
-l'interface de l'administrateur de Joomla, vous pouvez sélectionner le
-bouton **Aide** de la barre d'outils pour obtenir des informations
-supplémentaires sur la page. Il est situé à droite de la barre d'outils,
-juste en dessous de la barre de titre. Exemple :
+Une boîte de dialogue modale apparaîtra au centre de l'écran contenant des informations d'aide spécifiques à cette page.
 
-<img
-src="https://docs.joomla.org/images/thumb/c/c7/Help-4x-Start-Here-Help-toolbar-en.png/800px-Help-4x-Start-Here-Help-toolbar-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/c/c7/Help-4x-Start-Here-Help-toolbar-en.png 1.5x"
-data-file-width="864" data-file-height="268" width="800" height="248"
-alt="Start Here Help toolbar" />
+## Avis sur la version de l'écran d'aide
 
-Une boîte de dialogue modale s'affiche au milieu de l'écran et contient
-des informations d'aide spécifiques à cette page.
+Ces écrans d'aide concernent Joomla! versions 4, 5 et 6. Parfois, les mises à jour de Joomla entraînent des différences entre un écran d'aide et la page qu'il prend en charge. Il peut y avoir de nouvelles options ou des options supprimées, ou encore des différences de fonctionnalités. Cependant, tous les écrans d'aide fonctionneront toujours comme prévu. Rappelez-vous, vous devez toujours **mettre à jour votre version de Joomla!** dès que possible pour bénéficier des nouvelles fonctionnalités et/ou des améliorations de sécurité.
 
-## Note de version des écrans d'aide
+## Commencer
 
-Ces écrans d'aide sont pour Joomla ! version 4. Parfois, les mises à
-jour de Joomla font que l'écran d'aide diffère de la page qu'il
-supporte. Il peut y avoir des options nouvelles ou supprimées ou des
-différences de fonctionnalité. Sinon, tous les écrans d'aide
-fonctionneront toujours comme prévu. N'oubliez pas que vous devez
-toujours **mettre à jour votre version de Joomla!** dès que possible
-pour bénéficier de nouvelles fonctionnalités et/ou d'améliorations de la
-sécurité.
+Si vous venez de commencer à travailler avec Joomla, vous avez probablement ressenti la difficulté d'apprendre un nouveau système. Nouvelle terminologie, nouvelles façons de faire les choses, peut-être même que le web lui-même est nouveau pour vous. Ce guide est là pour atténuer une partie de cette difficulté.
 
-## Bien commencer
+- [Commencer : Introduction à Joomla!](jdocmanual?article=user/getting-started/introduction-to-joomla "Introduction à Joomla!")
+- [Commencer : Articles et catégories](jdocmanual?article=user/getting-started/articles-and-categories "Articles et catégories")
+- [Commencer : Ajouter un article](jdocmanual?article=user/getting-started/adding-an-article "Ajouter un article")
+- [Commencer : Ajouter une catégorie](jdocmanual?article=user/getting-started/adding-a-category "Ajouter une catégorie")
+- [Commencer : Ajouter un élément de menu](jdocmanual?article=user/getting-started/adding-a-menu-item "Ajouter un élément de menu")
+- [Commencer : Ajouter un module](jdocmanual?article=user/getting-started/adding-a-module "Ajouter un module")
 
-Si vous n'avez commencé à travailler avec Joomla que récemment, vous
-avez probablement connu la douleur de l'apprentissage d'un nouveau
-système. Une nouvelle terminologie, de nouvelles façons de faire les
-choses, peut-être même que le web lui-même est nouveau pour vous. Alors
-laissez ce guide vous soulager d'une partie de cette peine.
+## Garder votre site web sécurisé
 
-- Premiers pas avec Joomla!
-  4
-- Premiers pas : Templates de site et
-  d'administration
-- Premiers pas : Ajouter un
-  article
-- Premiers pas : Ajout d'un élément de
-  menu
-- Premiers pas : Ajouter une
-  catégorie
-- Premiers pas : Ajout d'un
-  module
-
-## Sécuriser votre site Web
-
-- Liste de vérification de la sécurité de
-  Joomla!
-
-## Informations complémentaires en fonction du profil utilisateur
-
-- Administrateurs
-- Designers
-  web
-- Développeurs
-- Évaluateurs
-- Plus de profils
-  d'utilisateurs...
+- [Sécurité : Meilleures pratiques](jdocmanual?article=user/security/best-practices "Sécurité : Meilleures pratiques")

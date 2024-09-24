@@ -2,113 +2,52 @@
 
 ## Description
 
-Cet écran permet de mettre à jour Joomla ! rapidement en utilisant un
-package de mise à jour du dépôt de code de Joomla !
+Cette page permet de mettre à jour Joomla! en utilisant un package de mise à jour provenant du référentiel de code Joomla!. Il est préférable et plus sûr de laisser Joomla se mettre à jour automatiquement en utilisant cette méthode.
 
-## Comment y accéder ?
+## Comment y accéder
 
-- Sélectionnez **Tableau de bord de la page d'accueil → panneau de
-  vérification des mises à jour → Joomla ... icon** dans le menu
-  Administrateur. Ou bien...
-- Sélectionnez **Système → Tableau de bord → Joomla** dans le
-  menu Administrateur..
+Dans le **Tableau de bord d'accueil → Panneau de notifications**, l'icône Joomla affichera l'un des deux messages suivants :
+- **Joomla est à jour**
+- **X.Y.Z Disponible - Mettez à jour maintenant !**
+
+Sélectionnez l'icône.
+
+De plus, dans le **Système → Panneau de mise à jour → Joomla**, une coche s'affichera pour indiquer que le site est à jour, ou un numéro de version s'affichera pour indiquer qu'une nouvelle version est disponible.
 
 ## Capture d'écran
 
-<img
-src="https://docs.joomla.org/images/7/75/Help-4x-joomla-update-manager-screen-default-en.png"
-decoding="async" data-file-width="800" data-file-height="243"
-width="800" height="243"
-alt="joomla update manager screen default" />
+Si votre site est à jour, vous verrez cet écran :
 
-Vous êtes sur la dernière version de Joomla, donc aucune action requise.
+![Télécharger & Mettre à jour](../../../en/images/joomla-update/upload-update-up-to-date.png)
 
-## Fonctionnalités
+Si une mise à jour est disponible, vous verrez cet écran :
 
-- **Vérifier les mises à jour**. Cliquez sur le bouton de la barre
-  d'outils pour voir si une mise à jour est disponible.
+![Télécharger & Mettre à jour](../../../en/images/joomla-update/upload-update-available.png)
 
-#### L'écran de mise à jour lorsqu'une mise à jour est disponible.
+Si vous mettez à jour une version majeure ou mineure, vous verrez un écran de vérification avant mise à jour :
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-joomla-update-manager-with-updates-screen-en.png"
-class="new"
-title="File:Help-4x-joomla-update-manager-with-updates-screen-en.png">800px</a>
+![Vérification avant mise à jour](../../../en/images/joomla-update/upload-update-pre-update-check.png)
 
-### Mise à jour en direct
+Sélectionnez chacun des trois éléments du menu pour vérifier si des éléments nécessitent une attention particulière.
 
-Si vous n'êtes PAS sur la dernière version de Joomla, vous pouvez
-installer la dernière mise à jour à partir de cet écran. Pour ce faire,
-sélectionnez le bouton *Installer la mise à jour'* dans la barre
-d'outils et Joomla installera les derniers fichiers de base.
+## Démarrer la mise à jour
 
-**L'écran en cours de mise à jour**.
+Si vous n'êtes pas sur la dernière version de Joomla, vous pouvez installer la dernière mise à jour depuis cette page. Pour ce faire, assurez-vous d'avoir effectué une sauvegarde et cochez la case **Je suis conscient...** pour indiquer que vous avez pris une sauvegarde. Ensuite, sélectionnez le bouton **Démarrer la mise à jour** et Joomla installera la dernière version.
 
-<img
-src="https://docs.joomla.org/images/0/05/Help-4x-joomla-update-manager-updating-screen-en.png"
-decoding="async" data-file-width="800" data-file-height="173"
-width="800" height="173"
-alt="joomla update manager updating screen" />
+L'écran de mise à jour affichera une barre de progression pendant l'avancement de la mise à jour.
 
-### Téléchargement et mise à jour
+### Télécharger et mettre à jour
 
-**Vérifiez la taille du paquet de mise à jour !** S'il est plus grand
-que votre taille PHP Upload Size ou POST size, il échouera. Vous pouvez
-peut-être augmenter ces tailles. Sinon...
+Vous pouvez utiliser ce bouton pour mettre à jour Joomla si votre serveur est derrière un pare-feu ou autrement incapable de contacter les serveurs de mise à jour. Commencez par télécharger le package de mise à jour de Joomla au format ZIP depuis la page officielle de téléchargement Joomla.
 
-<img
-src="https://docs.joomla.org/images/6/63/Help-4x-joomla-update-manager-screen-upload-en.png"
-decoding="async" data-file-width="800" data-file-height="632"
-width="800" height="632"
-alt="joomla update manager screen upload" />
+Vous devez avoir les paramètres PHP *upload_max_filesize* et *post_max_size* réglés à 64 Mo et votre limite de mémoire PHP réglée à 256 Mo. Sinon, la mise à jour pourrait échouer. Une bonne raison de faire une sauvegarde !
 
-Vous pouvez utiliser cette fonction pour mettre à jour Joomla si votre
-serveur se trouve derrière un pare-feu ou s'il est incapable de
-contacter les serveurs de mise à jour. Téléchargez d'abord le paquet de
-mise à jour de Joomla au format ZIP depuis la page officielle de
-téléchargement de Joomla.
+![télécharger et installer](../../../en/images/joomla-update/upload-update-upload-install.png)
 
-La méthode d'installation peut avoir les valeurs suivantes :
+## Options de mise à jour
 
-- Écriture directe de fichiers
-- Hybride (utilisation du FTP uniquement si nécessaire)
-- Ecriture de fichiers par FTP
+Le bouton Options dans la barre d'outils vous permet de sélectionner le type de mise à jour :
 
-La première méthode est conseillée.
-
-## Pour les développeurs
-
-Des options permettent de sélectionner le type de mise à jour :
-
-- **Défaut**. Cette option doit être utilisée pour les sites de
-  production.
-- **Joomla Suivant**. Pour ...
-- **Test**. Pour ...
-- **Url personnalisée**. Pour les développeurs.
-
-Sélectionnez le bouton **Options** dans la barre d'outils pour vérifier
-ou modifier la sélection actuelle.
-
-Si vous définissez l'URL personnalisée dans les options de mise à jour
-de Joomla, après avoir sélectionné **Vérifier les mises à jour**, vous
-verrez un onglet supplémentaire, Vérification avant mise à jour :
-
-<img
-src="https://docs.joomla.org/images/5/54/Help-4x-joomla-update-manager-screen-en.png"
-decoding="async" data-file-width="800" data-file-height="873"
-width="800" height="873"
-alt="joomla update manager screen" />
-
-Et le panneau de mise à jour en direct sera prêt à fonctionner :
-
-<img
-src="https://docs.joomla.org/images/6/63/Help-4x-joomla-update-manager-screen-customen.png"
-decoding="async" data-file-width="800" data-file-height="464"
-width="800" height="464"
-alt="Help 4x joomla update manager screen customen.png" />
-
-## Astuces
-
-- Vous pouvez consulter les Joomla ! Icônes de mise à jour
-  rapide
-  dans le panneau de configuration backend.
+- **Par défaut** : Utilisé pour les sites qui restent sur la version installée.
+- **Joomla Next** : Utilisé pour les sites qui passent normalement à la prochaine version majeure dès qu'une version stable est publiée.
+- **URL personnalisée** : Permet aux développeurs de sélectionner une source de mise à jour.

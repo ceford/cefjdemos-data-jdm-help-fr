@@ -1,59 +1,32 @@
-<!-- Filename: Help4.x:Extensions:_Languages / Display title: Extensions: Languages -->
+<!-- Filename: Help4.x:Extensions:_Languages / Display title: Extensions: Langues -->
 
 ## Description
 
-This screen allows you to install languages. It shows all available
-languages and the actual version.
+Cette page vous permet d'installer des langues. Elle affiche toutes les langues disponibles ainsi que la version de la langue disponible, qui peut être différente des versions de Joomla. Cela peut entraîner l'apparition d'étiquettes de texte en anglais au sein de pages non anglaises.
 
-## How to Access
+### Éléments communs
 
-- Select **System → Install Panel → Languages** from the
-  Administrator menu.
+Certains éléments de cette page sont couverts dans des articles d'aide distincts :
 
-## Screenshot
+* [Barres d'outils](jdocmanual?article=help/common-elements/toolbars).
+* [Filtres de liste](jdocmanual?article=help/common-elements/list-filters).
+* [En-têtes de colonnes de liste](jdocmanual?article=help/common-elements/list-column-headers).
+* [Ordre des éléments de liste](jdocmanual?article=help/common-elements/list-ordering).
+* [Pagination de liste](jdocmanual?article=help/common-elements/list-pagination).
 
-<img
-src="https://docs.joomla.org/images/a/ac/Help-4x-Extensions-Extension-Manager-InstallLanguages-screen-en.png"
-decoding="async" data-file-width="800" data-file-height="402"
-width="800" height="402"
-alt="Extensions Extension Manager InstallLanguages screen" />
+## Comment y accéder
 
-## Column Headers
+- Soit : sélectionnez **Système → Installer → Installer des langues** depuis le menu d'administration.
+- Soit : sélectionnez **Système → Gérer → Langues** depuis le menu d'administration, puis :
+  - Sélectionnez le bouton *Installer des langues* dans la barre d'outils.
 
-- **Language.** Name of Language, sometimes with a national variation
-  such as German AT or German DE.
-- **Language Tag.** This is a combination of two-character ISO language
-  codes and country codes.
-- **Version.** The version of the Language package available.
-- **Details URL.** URL of the Language package.
+## Capture d'écran
 
-## List Filters
+![Installer des langues des extensions](../../../fr/images/extensions/languages-install.png)
 
-**Search bar**. Near the top of the page you will see the search bar
-shown in the Screenshot above.
+## En-têtes de colonnes
 
-- **Search by Text**. Enter part of the search term and click the Search
-  icon. *Hover* to see a *Tooltip* indicating which fields will be
-  searched.To 'Search by ID' enter "id:x", where "x" is the ID number
-  (for example, "id:19").
-- **Filter Options**. Click to display the additional filters.
-- **Clear**. Click to clear the Filter field and restore the list to its
-  unfiltered state.
-- **Ordering**. Shows the current list ordering field. 2 ways to change
-  the order:
-  - Select from the dropdown list. Ordering may be in ascending or
-    descending order.
-  - Click a column heading. The column heading toggles between ascending
-    and descending order.
-- **Number to Display**. Shows the number of items in a list. Select
-  from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the Global Configuration.
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
-
-- **Options.** Opens the Options window where settings such as default
-  parameters can be edited.
-- **Help**. Opens this help screen.
+- **Langue** Nom de la langue, parfois avec une variante nationale telle que Allemand AT ou Allemand DE.
+- **Tag de langue** Il s'agit d'une combinaison de codes ISO de langue à deux caractères et de codes de pays.
+- **Version** La version du pack de langue disponible.
+- **URL des détails** URL du pack de langue.

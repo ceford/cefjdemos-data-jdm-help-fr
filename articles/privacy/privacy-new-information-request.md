@@ -2,37 +2,25 @@
 
 ## Description
 
-Dans cet écran, vous avez la possibilité de créer une nouvelle demande
-d'information.
+La page *Confidentialité : Nouvelle demande d'information* est utilisée par un administrateur pour créer une nouvelle demande d'information qui n'a peut-être pas été soumise par le biais du site.
+
+### Éléments communs
+
+Certains éléments de cette page sont couverts dans des articles d'aide séparés :
+
+* [Barres d'outils](jdocmanual?article=help/common-elements/toolbars).
 
 ## Comment y accéder
 
-- Select **Users → Privacy → Requests** from the Administrator
-  menu. Then...
-  - Select the **New** button in the Toolbar.
+- Sélectionnez **Utilisateurs → Confidentialité → Demandes** dans le menu d'administration. Ensuite...
+  - Sélectionnez le bouton **Nouveau** dans la barre d'outils.
 
 ## Capture d'écran
 
-<img
-src="https://docs.joomla.org/images/a/af/Help-4x-component-privacy-information-request-en.png"
-decoding="async" data-file-width="800" data-file-height="243"
-width="800" height="243"
-alt="component privacy information request" />
+![nouvelle demande d'information](../../../fr/images/privacy/privacy-new-information-request.png)
 
-## Form Fields
+## Champs du formulaire
 
-- **Email.** Enter the email address of the individual owning the
-  information being requested
-- **Request Status.** The status of the information request
-- **Request Type.** (*Export*/*Remove*) The type of the information
-  request.
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
-
-- **Save**. Saves the item and stays in the current screen.
-- **Cancel**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made.
-- **Help**. Opens this help screen.
+- **Email** Entrez l'adresse email de l'individu propriétaire des informations demandées.
+- **Statut de la demande** Le statut de la demande d'information.
+- **Type de demande** Le type d'information demandée.

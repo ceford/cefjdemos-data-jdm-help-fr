@@ -1,243 +1,99 @@
-<!-- Filename: Help4.x:Fields:_Edit / Display title: Champs : Edition -->
+<!-- Filename: Help4.x:Fields:_Edit / Display title: Articles: Modifier le champ -->
 
 ## Description
 
-Cet écran est utilisé pour ajouter un nouveau champ ou modifier un champ
-existant dans les articles, les contacts et les utilisateurs.
+La page *Composant : Modifier le champ* est similaire pour tous les composants qui implémentent des champs, mais le titre de la page change en fonction du contexte : *Articles : Modifier le champ*, *Contacts : Modifier le champ* ou *Utilisateurs : Modifier le champ*.
 
-The helpscreen show as example Users.
+L'onglet **Général** change pour refléter le type de champ en cours de modification et, une fois un champ enregistré, son type ne peut plus être modifié. Cependant, il est facile de supprimer des champs et d'en créer de nouveaux.
 
-## Comment y accéder ?
-Sélectionner **Utilisateurs → Champs**
+### Éléments communs
 
-Pour ajouter un champ :
+Certains aspects de cette page sont couverts dans des articles d'aide distincts :
 
-- Cliquez sur le bouton **Nouveau** dans la barre d'outils.
+* [Barres d'outils](jdocmanual?article=help/common-elements/toolbars).
+* [Onglet Publication](jdocmanual?article=help/common-elements/edit-publishing).
+* [Onglet Permissions](jdocmanual?article=help/common-elements/edit-permissions).
 
-Pour modifier un champ :
+## Comment y accéder
 
-- Sélectionnez un **Titre** dans la liste.
+* Sélectionnez **Contenu → Champs** dans le menu d'administration. Ou...
+* Sélectionnez **Contact → Champs** dans le menu d'administration. Ou...
+* Sélectionnez **Utilisateurs → Champs** dans le menu d'administration. Puis...
+  * Sélectionnez le bouton **Nouveau** dans la barre d'outils pour créer un nouveau champ. Ou...
+  * Sélectionnez un **Titre** dans la liste pour modifier un champ existant.
+
+**Remarque :** Il existe une liste déroulante permettant de créer des champs pour une catégorie et le courrier dans le composant Contact. Ils nécessitent une certaine expérience en codage pour préparer des substitutions de modèles appropriées.
 
 ## Capture d'écran
 
-<img
-src="https://docs.joomla.org/images/thumb/f/f6/Help-4x-Fields-Edit-screen-fr.png/800px-Help-4x-Fields-Edit-screen-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/f/f6/Help-4x-Fields-Edit-screen-fr.png/1200px-Help-4x-Fields-Edit-screen-fr.png 1.5x, https://docs.joomla.org/images/thumb/f/f6/Help-4x-Fields-Edit-screen-fr.png/1600px-Help-4x-Fields-Edit-screen-fr.png 2x"
-data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Fields Edit screen" />
+![Modifier le champ des articles](../../../fr/images/fields/articles-edit-field.png)
 
-## Champs de formulaire
+## Champs du formulaire
 
-- **Titre**. Le titre de cet champ.
+- **Titre** Le titre de ce champ.
 
-### Général
+### Onglet Général
 
-#### Left Panel
+#### Panneau de gauche
 
-Paramètres pour tous les Champs personnalisés:
+Paramètres pour tous les champs :
 
-- **Type**. Si vous créez un champ, vous pouvez choisir l’un des 16
-  types de champs. Lorsque vous enregistrez le champ, ce type est
-  permanent. Vous ne pouvez pas le changer plus tard. Pour en savoir
-  plus.
-- **Nom**. Le nom sera utilisé pour identifier le champ. Laissez ce
-  champ vide et Joomla! remplira automatiquement une valeur par défaut à
-  partir du titre.
-- **Label**. Utilisez un texte descriptif du champ pour le libellé du
-  champ. Ce texte n'est pas traduisible. Si vous ne saisissez aucun
-  texte pour un libellé, le titre sera également utilisé comme libellé.
-- **Description**. La description du champ. Un texte qui sera affiché
-  comme une info-bulle lorsque l'utilisateur déplacera la souris sur la
-  zone de texte pendant qu'il l'utilisera dans l'administration en
-  créant un article ou un contact ou un composant tiers prenant en
-  charge les champs personnalisés. Ce texte n'est pas traduisible. Vous
-  ne voyez pas cette description dans le site.
-- **Requis**. Est-ce un champ personnalisé obligatoire? Dans ce cas, le
-  champ doit être rempli avant de soumettre un article, un contact ou un
-  composant tiers prenant en charge des champs personnalisés. Vous
-  pouvez choisir les options Oui ou Non.
+- **Type** Si vous créez un champ, vous pouvez choisir l'un des 16 types de champs. Une fois le champ enregistré, ce type est permanent.
+- **Nom** Le nom sera utilisé pour identifier le champ. Laissez ce champ vide et Joomla remplira une valeur par défaut à partir du titre.
+- **Étiquette** Utilisez un texte descriptif pour l'étiquette du champ. Ce texte n'est pas traduisible. Si vous n'entrez pas de texte pour une étiquette, le texte du titre sera également utilisé comme étiquette.
+- **Description** La description du champ. Un texte qui sera affiché comme info-bulle lorsque l'utilisateur déplacera la souris sur la zone de texte dans le backend lors de la création d'un article ou d'un contact, ou d'un composant tiers qui prend en charge les champs. Ce texte n'est pas traduisible. Vous ne voyez pas cette description dans le frontend.
+- **Obligatoire** Ce champ est-il obligatoire ? Dans ce cas, le champ doit être rempli avant de soumettre un article, un contact ou un composant tiers qui prend en charge les champs.
 
-#### Right Panel
+#### Panneau de droite
 
-- **Statut**. Le statut de publication de cet champ.
-  - Publié : le champ est visible lors de la modification d'un article
-    ou d'un contact. Et il est visible dans sur le site.
-  - Non publié : le champ n'est pas visible par les utilisateurs lors de
-    la modification d'un article ou d'un contact.
-  - Archivé : le champ ne sera plus visible dans l'édition d'un article
-    ou d'un contact. Vous pouvez l'ouvrir dans le gestionnaire de
-    champs
-    lorsque vous définissez le filtre sur archivé.
-  - Dans la corbeille : L'élément est supprimé du site mais reste
-    présent dans la base de données. Il peut être définitivement
-    supprimé de la base de données lorsque vous videz la corbeille dans
-    la gestion des
-    champs.
-    Pour en savoir
-    plus.
-- **Groupe du champ**. Vous pouvez affecter un champ personnalisé à un
-  ou plusieurs groupes de champs.
-- **Catégorie**. Vous pouvez affecter un champ personnalisé à une ou
-  plusieurs catégories de champs. Notez que la valeur par défaut 'Tout'
-  n'inclut pas les articles 'Non catégorisés'.
-- **Accès**. Le Niveau
-  d'accès
-  pour voir cet champ.
-- **Langue**. Sélectionnez la langue de cet champ. Si vous n'utilisez
-  pas la fonctionnalité
-  multilingue
-  de Joomla, conservez le paramètre par défaut 'Toutes'.
-- **Note**. Un champ facultatif pour indiquer un texte personnel pour le
-  champ.
+- **Statut** Le statut de publication de ce champ.
+  - *Publié* Le champ est visible lors de l'édition d'un article ou d'un contact. Et il est visible dans le frontend.
+  - *Non publié* Le champ ne sera pas visible pour les utilisateurs lors de l'édition d'un article ou d'un contact.
+  - *Archivé* Le champ ne s'affichera plus lors de l'édition d'un article ou d'un contact. Vous pouvez l'ouvrir dans Champs lorsque vous définissez le filtre sur Archivé.
+  - *À la corbeille* Le champ est supprimé mais toujours présent dans la base de données. Il peut être supprimé définitivement de la base de données dans Champs avec la fonction Vider la corbeille.
+- **Groupe de champs** Vous pouvez affecter un champ à un groupe de champs.
+- **Catégorie** Vous pouvez affecter un champ à une ou plusieurs catégories. Notez que la valeur par défaut *Tout* n'inclut pas les articles *Non catégorisés*.
+- **Accès** Sélectionnez le niveau d'accès d'affichage pour ce champ. Les niveaux d'accès dépendent de ce qui a été configuré dans *Utilisateurs : Niveaux d'accès*.
+- **Langue** Sélectionnez la langue de ce champ. Si vous n'utilisez pas la fonctionnalité multilingue de Joomla, conservez la valeur par défaut *Tout*.
+- **Note** Un champ optionnel pour ajouter des notes personnelles concernant le champ.
 
-### Paramètres
+### Onglet Options
 
-<img
-src="https://docs.joomla.org/images/thumb/4/4b/Help-4x-Fields-Edit-options-subscreen-fr.png/600px-Help-4x-Fields-Edit-options-subscreen-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/4/4b/Help-4x-Fields-Edit-options-subscreen-fr.png/900px-Help-4x-Fields-Edit-options-subscreen-fr.png 1.5x, https://docs.joomla.org/images/thumb/4/4b/Help-4x-Fields-Edit-options-subscreen-fr.png/1200px-Help-4x-Fields-Edit-options-subscreen-fr.png 2x"
-data-file-width="2880" data-file-height="1378" width="600" height="287"
-alt="Fields Edit options subscreen" />
+![Onglet Options de modification du champ des articles](../../../fr/images/fields/articles-edit-field-options-tab.png)
 
-#### Options de formulaire
+#### Options du formulaire
 
-- **Indice**. Un texte par défaut qui va apparaître dans le champ
-  personnalisé comme indice pour bien remplir le champ. Cet indice est
-  actif dans le site d'administration lors de la création d'un article
-  ou un contact ou un composant tierce partie qui supporte les champs
-  personnalisés. Vous ne le verrez pas dans le site public.
-- **Classe du champ**. L'attribut de classe du champ quand le champ est
-  affiché. Si plusieurs classes sont requises, séparez les avec des
-  espaces.
-- **Classe du label**. CSS class to apply to the field label when it is
-  in edit mode (entering input into a field).
-- **Modifiable dans**. Sur quelle partie du site le champ doit-il être
-  affiché. Site, Administration ou les deux ?
-- **Showon Attribute**. Conditionally show or hide the field depending
-  on the value of other fields. The syntax to use here, for example:
-  `list-of-items:value1[OR]list-of-items:value2`
-  - list-of-items – It is the *name* of an already created field on
-    which this field will depends to be show.
-  - value1 – Is the value need have the field on which it depends to be
-    show.
-  - \[OR\] – To create a choice among multiple fields. In the example,
-    this field will show when *list-of-items* field have the value:
-    *value1* OR *value2*
-  - \[AND\] – To combine multiple fields. This field will show only when
-    *list-of-items* field have the value: *value1* AND *value2*
-  - You can also use value 'does not equal' as in
-    **list-of-items!:value1**. The syntax will show this field only when
-    *list-of-items* is not equal to *value1*
-  - To show this field when *list-of-items* field has been selected and
-    have not a empty value, use the syntax *list-of-items!:* (without a
-    value specified).
+- **Espace réservé** Un texte d'espace réservé qui apparaîtra à l'intérieur du champ comme une suggestion pour l'entrée. L'espace réservé est actif dans le backend lors de la création d'un article ou d'un contact, ou d'un composant tiers prenant en charge les champs. Vous ne le voyez pas dans le frontend.
+- **Classe du champ** Les attributs de classe du champ lorsqu'il est rendu. Si plusieurs classes sont nécessaires, listez-les avec des espaces.
+- **Classe de l'étiquette (Formulaire)** Classe CSS à appliquer à l'étiquette du champ en mode édition (saisie dans un champ).
+- **Modifiable dans** Dans quelle partie du site le champ doit-il être affiché ? Dans le backend, dans le frontend ou les deux ?
+- **Attribut Showon** Afficher ou masquer conditionnellement le champ en fonction de la valeur d'autres champs. La syntaxe à utiliser ici, par exemple :
+  `liste-d-éléments:valeur1[OU]liste-d-éléments:valeur2`
+  - liste-d-éléments : Le *nom* d'un champ déjà créé dont ce champ dépendra pour être affiché.
+  - valeur1 : La valeur nécessaire pour que le champ dont il dépend soit affiché.
+  - `[OU]` : Pour créer un choix parmi plusieurs champs. Dans l'exemple, ce champ s'affichera lorsque le champ *liste-d-éléments* aura la valeur : *valeur1* OU *valeur2*
+  - `[ET]` : Pour combiner plusieurs champs. Ce champ ne s'affichera que lorsque le champ *liste-d-éléments* aura la valeur : *valeur1* ET *valeur2*
+  - Vous pouvez également utiliser la valeur *n'est pas égale à* comme dans *liste-d-éléments!:valeur1*. La syntaxe affichera ce champ uniquement lorsque *liste-d-éléments* n'est pas égal à *valeur1*
+  - Pour afficher ce champ lorsque le champ *liste-d-éléments* a été sélectionné et ne contient pas de valeur vide, utilisez la syntaxe *liste-d-éléments!:* (sans valeur spécifiée).
 
-**Note:** Subform fields handle different the identifier *name* of
-*list-of-items*. If you create a Subform custom field and you add this
-conditional field you are creating to there, you need use *field\[ID\]*
-instead of *list-of-items*, where ID is the id of the field
-*list-of-items*. Therefore, the showon attribute for this conditional
-field you are creating need be: `field36:value1[OR]field36:value2` where
-36 is the ID of the field 'List of items'.
+**Remarque :** Les champs sous-formulaire traitent l'identifiant *nom* de *liste-d-éléments* différemment. Si vous créez un champ personnalisé de sous-formulaire et que vous ajoutez ce champ conditionnel, vous devez utiliser *field\[ID\]* au lieu de *liste-d-éléments*, où ID est l'identifiant du champ *liste-d-éléments*. Par conséquent, l'attribut *showon* pour ce champ conditionnel que vous créez doit être : `field36:valeur1[OU]field36:valeur2` où 36 est l'identifiant du champ 'Liste d'éléments'.
 
 #### Options d'affichage
 
-- **Classe d'affichage**. La classe du conteneur de champ utilisée lors
-  de son affichage.
-- **Classe de la valeur**. Classe de la valeur affichée du champ.
-- **Label**. Show the label when the field renders.
-- **Classe du label**. CSS class to apply to the field label when it is
-  displayed (displaying the output of a field).
-- **Affichage automatique**. Joomlaǃ offre des événements de contenus
-  qui sont déclenchés durant le processus de création.
+- **Classe d'affichage** La classe du conteneur du champ dans la sortie.
+- **Classe de la valeur** La classe de la valeur du champ dans la sortie.
+- **Étiquette** Afficher l'étiquette lorsque le champ est rendu.
+- **Classe de l'étiquette (Sortie)** Classe CSS à appliquer à l'étiquette du champ lorsqu'il est affiché (affichage de la sortie d'un champ).
+- **Affichage automatique** Joomla propose certains événements de contenu qui sont déclenchés pendant le processus de création de contenu. C'est ici que vous définissez comment les champs doivent être intégrés dans le contenu. Vous pouvez choisir
   - Après le titre
-  - Avant l'affichage
-  - Après l'affichage
+  - Avant le contenu affiché
+  - Après le contenu affiché
   - Ne pas afficher automatiquement
-- **Préfixe**. Fixed text to be displayed before a field, for example £.
-- **Suffixe**. Fixed text to be displayed after a field, for example
-  EUR.
-- **Affichage**. If there is a custom layout then it would be selected
-  here.
-- **Afficher en lecture seule**. If the field is read only (perhaps the
-  user doesn't have the access level) should the field be displayed or
-  hidden.
+- **Préfixe** Texte fixe à afficher avant un champ, par exemple £.
+- **Suffixe** Texte fixe à afficher après un champ, par exemple €.
+- **Mise en page** Si une mise en page personnalisée existe, elle serait sélectionnée ici.
+- **Afficher en lecture seule** Si le champ est en lecture seule (peut-être que l'utilisateur n'a pas le niveau d'accès), le champ doit-il être affiché ou masqué.
 
-### Publication
+#### Recherche intelligente
 
-<img
-src="https://docs.joomla.org/images/thumb/2/20/Help-4x-Fields-Edit-publishing-subscreen-fr.png/600px-Help-4x-Fields-Edit-publishing-subscreen-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/2/20/Help-4x-Fields-Edit-publishing-subscreen-fr.png/900px-Help-4x-Fields-Edit-publishing-subscreen-fr.png 1.5x, https://docs.joomla.org/images/thumb/2/20/Help-4x-Fields-Edit-publishing-subscreen-fr.png/1200px-Help-4x-Fields-Edit-publishing-subscreen-fr.png 2x"
-data-file-width="2880" data-file-height="980" width="600" height="204"
-alt="Fields Edit publishing subscreen" />
-
-- **Date de création**. Ce champ indique par défaut la date et l'heure
-  de création de champ. Vous pouvez indiquer une date et une heure
-  différentes ou cliquer sur l'icône de calendrier pour trouver la daté
-  souhaitée.
-- **Créé par**. Nom de l'utilisateur Joomla! qui a créé cet champ. Par
-  défaut, l'utilisateur connecté. Si vous souhaitez indiquer un autre
-  utilisateur, cliquez sur le bouton 'Sélectionner un utilisateur' pour
-  sélectionner un utilisateur différent.
-- **Date de modification**. Date of last modification.
-- **Modifié par**. Username who performed the last modification.
-- **ID**. A unique identification number for this field, you cannot
-  change this number. When creating a new field, this field displays "0"
-  until you save the new entry.
-
-### Droits
-
-C'est ici que vous pouvez saisir les autorisations pour ce champ. [Pour
-en savoir
-plus.](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/fr#hierarchylevels "J3.x:Access Control List Tutorial/fr")
-
-<img
-src="https://docs.joomla.org/images/thumb/e/ea/Help-4x-Fields-Edit-permissions-subscreen-fr.png/600px-Help-4x-Fields-Edit-permissions-subscreen-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/e/ea/Help-4x-Fields-Edit-permissions-subscreen-fr.png/900px-Help-4x-Fields-Edit-permissions-subscreen-fr.png 1.5x, https://docs.joomla.org/images/thumb/e/ea/Help-4x-Fields-Edit-permissions-subscreen-fr.png/1200px-Help-4x-Fields-Edit-permissions-subscreen-fr.png 2x"
-data-file-width="2880" data-file-height="1260" width="600" height="263"
-alt="Fields Edit permissions subscreen" />
-
-Pour modifier les autorisations de ce champ, procédez comme suit.
-
-1.  Sélectionnez le groupe en cliquant sur son titre.
-2.  Trouvez l'action souhaitée.
-    - **Supprimer**. Les utilisateurs peuvent supprimer ce champ.
-    - **Modifier**. Les utilisateurs peuvent modifier ce champ.
-    - **Modifier le statut**. L'utilisateur peut modifier l'état publié
-      et les informations connexes pour ce champ.
-    - **Modifier les valeurs des champs personnalisés**. Les
-      utilisateurs peuvent modifier la valeur du champ personnalisé.
-3.  Sélectionnez l'autorisation souhaitée pour l'action que vous
-    souhaitez modifier.
-    - fr
-    - **Autorisé**. Autorisé pour les utilisateurs de ce groupe.Note: If
-      this action is Denied at one of the higher levels, the Allowed
-      permission here will not take effect. A Denied setting cannot be
-      overridden.
-    - **Refusé**. Refusé pour les utilisateurs de ce groupe.
-4.  Cliquez sur **Enregistrer** dans la barre d'outils située en haut à
-    gauche. Lors de l'actualisation de l'écran, la colonne des Droits
-    appliqués affichera les droits effectifs pour ce groupe et action.
-
-## Barre d'outils
-
-En haut de la page, vous verrez la barre d'outils présentée dans la
-capture d'écran ci-dessus.
-
-- **Save**. Saves the field and stays in the current screen.
-- **Save & Close**. Saves the field and closes the current screen.
-  - **Save & New**. Saves the field and keeps the editing screen open
-    and ready to create another field.
-  - **Save as Copy**. Saves your changes to a copy of the current field.
-    Does not affect the current field.
-- **Fermer**. Ferme l'écran actuel et retourne à l'écran précédent sans
-  enregistrer les modifications que vous avez faites.
-- **Aide**. Ouvre l'écran d'aide.
-
-## Astuces
-
-Si vous voulez savoir comment utiliser les champs personnalisés, cliquez
-sur
+- **Index de recherche**  Avertissement : Lorsque *Rendre recherchable* est sélectionné, le contenu du champ est indexé avec les autorisations de visualisation de l'élément de contenu. Cela pourrait entraîner une divulgation d'informations inattendue.

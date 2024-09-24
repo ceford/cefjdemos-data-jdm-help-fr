@@ -2,119 +2,42 @@
 
 ## Description
 
-Media Options configuration allows setting of parameters used globally
-for Media. Control the file types allowed for uploading, MIME type
-check, MIME type blacklisting, and more options.
+La page *Média : Paramètres* est utilisée pour définir les paramètres globaux des médias.
 
-## Comment y accéder ?
-Sélectionner **Contenus → Médias**
+### Éléments communs
 
-- Cliquez sur le bouton **Paramètres** dans la barre d'outils.
+Certains aspects de cette page sont abordés dans des articles d'aide séparés :
+
+* [Barres d'outils](jdocmanual?article=help/common-elements/toolbars).
+* [L'onglet des Permissions](jdocmanual?article=help/common-elements/edit-permissions).
+
+## Comment y accéder
+
+- Sélectionnez **Contenu → Médias** dans le menu de l'administrateur.
+- Sélectionnez le bouton **Options** dans la barre d'outils.
 
 ## Capture d'écran
 
-<img
-src="https://docs.joomla.org/images/thumb/b/b2/Help-4x-Media-Options-screen-fr.png/800px-Help-4x-Media-Options-screen-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/b/b2/Help-4x-Media-Options-screen-fr.png/1200px-Help-4x-Media-Options-screen-fr.png 1.5x, https://docs.joomla.org/images/thumb/b/b2/Help-4x-Media-Options-screen-fr.png/1600px-Help-4x-Media-Options-screen-fr.png 2x"
-data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Media Options screen" />
+![Options des médias](../../../fr/images/media/media-options.png)
 
-## Champs de formulaire
+## Champs du formulaire
 
 ### Médias
 
-- **Taille maximale (en Mo)**. Utiliser '0' pour illimité. Note : le
-  serveur a une limite maximale, une valeur supérieure ne sera pas prise
-  en compte.
-- **Dossier des fichiers**. Indiquer un dossier pour les fichiers avec
-  un chemin d'accès relatif à la racine du site web.Attention, modifier
-  le dossier 'images' par défaut peut créer des problèmes avec certaines
-  extensions. Ne saisissez pas de / en début de chemin.
-- **Dossier des images**. Indiquer un dossier pour les images avec un
-  chemin d'accès relatif à la racine du site web.Attention, ce chemin
-  doit être le même que celui des fichiers ou dans un sous-dossier de
-  celui-ci. Ne saisissez pas de / en début de chemin.
-- **Restreindre les envois**. Restreindre l'envoi de fichier images aux
-  utilisateurs des groupes de niveaux inférieurs à celui du groupe
-  'Gestionnaire' si 'Fileinfo' et/ou 'MIME Magic' ne sont pas installés.
-  - **Extensions autorisées**. Restreindre l'envoi de fichiers pour les
-    utilisateurs de niveau inférieur au groupe 'Gestionnaire'.
-  - **Vérifier les types MIME**. Utiliser 'Fileinfo' ou 'MIME Magic'
-    pour vérifier les fichiers. À désactiver en cas d'erreurs de type
-    'mime non valide'.
-- **Legal Image Extensions (File Types)**. Types de fichier image
-  (extensions) autorisés d'envoi sur le serveur (séparés par des
-  virgules). Utilisé pour valider les en-têtes d'images.
-- **Legal Audio Extensions (File Types)**. Types de fichier audio
-  (extensions) autorisés d'envoi sur le serveur (séparés par des
-  virgules). Utilisé pour valider les en-têtes audio.
-- **Legal Video Extensions (File Types)**. Types de fichier vidéo
-  (extensions) autorisés d'envoi sur le serveur (séparés par des
-  virgules). Utilisé pour valider les en-têtes vidéo.
-- **Legal Document Extensions (File Types)**. Types de fichier document
-  (extensions) autorisés d'envoi sur le serveur (séparés par des
-  virgules). Utilisé pour valider les en-têtes de fichier.
-- **Extensions ignorées**. Extensions de fichier ignorées pour la
-  vérification du type MIME et les envois restreints.
-- **Types MIME autorisés.** Liste des types MIME autorisés d'envoi sur
-  le serveur, séparés par des virgules.
+- **Taille maximale (en MB)** Utilisez zéro pour aucune limite. Remarque : le serveur a une limite maximale.
+- **Chemin vers le dossier de fichiers** Entrez le chemin vers le dossier de fichiers par rapport à la racine de votre espace web. Ne commencez pas le chemin par un slash. Changer de chemin par rapport à la valeur par défaut *images* peut casser vos liens.
+- **Chemin vers le dossier d'images** Entrez le chemin vers le dossier d'images par rapport à la racine de votre espace web. Ne commencez pas le chemin par un slash.
+- **Restreindre les téléchargements** Restreindre les téléchargements pour les utilisateurs de niveau inférieur à gestionnaire aux images si `Fileinfo` ou `MIME Magic` n'est pas installé.
+  - **Extensions autorisées** Restreindre les téléchargements pour les utilisateurs de niveau inférieur à gestionnaire aux fichiers présents dans la liste.
+  - **Vérifier les types MIME** Utilisez `Fileinfo` ou `MIME Magic` pour tenter de vérifier les fichiers. Essayez de désactiver cette option si vous obtenez des erreurs de type MIME invalide.
+- **Extensions d'images légales (types de fichiers)** Extensions d'images (types de fichiers) que vous êtes autorisé à télécharger (séparées par des virgules). Elles sont utilisées pour vérifier les en-têtes d'images valides et pour sélectionner des images.
+- **Extensions audio légales (types de fichiers)** Extensions audio (types de fichiers) que vous êtes autorisé à télécharger (séparées par des virgules). Elles sont utilisées pour vérifier les en-têtes audio valides et pour sélectionner des fichiers audio.
+- **Extensions vidéo légales (types de fichiers)** Extensions vidéo (types de fichiers) que vous êtes autorisé à télécharger (séparées par des virgules). Elles sont utilisées pour vérifier les en-têtes vidéo valides et pour sélectionner des vidéos.
+- **Extensions de documents légales (types de fichiers)** Extensions de documents (types de fichiers) que vous êtes autorisé à télécharger (séparées par des virgules). Elles sont utilisées pour vérifier les en-têtes de documents valides et pour sélectionner des documents.
+- **Extensions ignorées** Extensions de fichiers ignorées pour la vérification des types MIME et les téléchargements restreints.
+- **Types MIME légaux** Une liste de types MIME légaux à télécharger, séparés par des virgules.
 
-### Droits
+## Conseils
 
-This section lets you set up the default Access Control List
-permissions for all media.
-
-<img
-src="https://docs.joomla.org/images/thumb/1/1e/Help-4x-Media-Options-permissions-subscreen-fr.png/600px-Help-4x-Media-Options-permissions-subscreen-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/1/1e/Help-4x-Media-Options-permissions-subscreen-fr.png/900px-Help-4x-Media-Options-permissions-subscreen-fr.png 1.5x, https://docs.joomla.org/images/thumb/1/1e/Help-4x-Media-Options-permissions-subscreen-fr.png/1200px-Help-4x-Media-Options-permissions-subscreen-fr.png 2x"
-data-file-width="2002" data-file-height="1359" width="600" height="407"
-alt="Media Options permissions subscreen" />
-
-To change the permissions for media, do the following.
-
-1.  Sélectionnez le **Groupe** en cliquant sur son titre situé à gauche.
-2.  Trouvez l'action souhaitée.
-    - **Configure ACL & Options**. Users can edit the options and
-      permissions.
-    - **Configure Options Only**. Users can edit the options exept the
-      permissions.
-    - **Accès à l'interface d'administration**. Les utilisateurs peuvent
-      accéder à l'interface d'administration utilisateur.
-    - **Create**. Users can create media.
-    - **Delete**. Users can delete media.
-    - **Edit**. Users can edit media.
-3.  Sélectionnez l'autorisation souhaitée pour l'action que vous
-    souhaitez modifier.
-    - **Inherited**. Inherited for users in this Group from the Global Configuration
-      permissions.
-    - **Autorisé**. Autorisé pour les utilisateurs de ce groupe. Note:
-      If this action is Denied at one of the higher levels, the Allowed
-      permission here will not take effect. A Denied setting cannot be
-      overridden.
-    - **Refusé**. Refusé pour les utilisateurs de ce groupe.
-4.  Cliquez sur **Enregistrer** dans la barre d'outils située en haut à
-    gauche. Lors de l'actualisation de l'écran, la colonne des Droits
-    appliqués affichera les droits effectifs pour ce groupe et action.
-
-## Barre d'outils
-
-En haut de la page, vous verrez la barre d'outils présentée dans la
-capture d'écran ci-dessus.
-
-- **Enregistrer**. Enregistre les paramètres et reste sur l'écran
-  actuel.
-- **Enregistrer & Fermer**. Enregistre les paramètres et ferme l'écran.
-- **Fermer**. Ferme l'écran actuel et retourne à l'écran précédent sans
-  enregistrer les modifications que vous avez faites.
-- **Toggle Inline Help**. Show help text below some options.
-- **Aide**. Ouvre l'écran d'aide.
-
-## Astuces
-
-- Si vous êtes un utilisateur débutant, vous pouvez simplement conserver
-  les valeurs par défaut ici jusqu'à en savoir plus sur l'utilisation
-  des paramètres globaux.
-- If you are an advanced user, you can save time by creating good
-  default values here.
+- Si vous êtes un utilisateur débutant, vous pouvez conserver les valeurs par défaut jusqu'à ce que vous en sachiez plus sur l'utilisation des options globales.
+- Si vous êtes un utilisateur avancé, vous pouvez gagner du temps en créant de bonnes valeurs par défaut ici.

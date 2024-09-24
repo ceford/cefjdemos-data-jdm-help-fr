@@ -1,84 +1,30 @@
-<!-- Filename: Help4.x:Menus:_Options / Display title: Menus: Options -->
+<!-- Filename: Help4.x:Menus:_Options / Display title: Menus: Paramètres -->
 
 ## Description
 
-Menu Options allow the setting of parameters used globally on all menus
-such as, Title, CSS Class and Permissions.
+La page *Menus : Options* est utilisée pour définir des paramètres appliqués globalement à tous les menus, sauf si ces paramètres sont disponibles à partir d'un élément de menu ou d'un composant. Le titre peut apparaître dans l'onglet du navigateur, il doit donc être court.
 
-## How to Access
+### Éléments communs
 
-- Select **Menus → Manage** in the Administrator menu. Then...
-  - Select the **Options** button in the Toolbar.
+Certains aspects de cette page sont couverts dans des articles d'aide séparés :
 
-## Screenshot
+* [Barres d'outils](jdocmanual?article=help/common-elements/toolbars).
+* [L'onglet Permissions](jdocmanual?article=help/common-elements/edit-permissions).
 
-<img
-src="https://docs.joomla.org/images/b/bc/Help-4x-Menus-Menu-Manager-Options-screen-en.png"
-decoding="async" data-file-width="800" data-file-height="335"
-width="800" height="335"
-alt="Menus Menu Manager Options screen" />
+## Comment y accéder
 
-## Form Fields
+- Sélectionnez **Menus → Gérer** dans le menu d'administration. Ensuite...
+  - Sélectionnez le bouton **Options** dans la barre d'outils.
 
-### Page Display Tab
+## Capture d'écran
 
-- **Browser Page Title:** Optional text for the "Browser page title"
-  element. If blank, the Menu Item Title is used.
-- **Show Page Heading:** Whether or not to show the Browser Page Title
-  in the heading of the page. The page heading is normally displayed
-  inside an h1 HTML element.
-- **Page Heading:** Optional alternative text for the Page Heading.
-- **Page Class:** Optional CSS class to add to elements in this page.
-  This allows CSS styling specific to this page.
+![Options des menus](../../../fr/images/menus/menu-options-page-display-tab.png)
 
-### Permissions Tab
+## Champs du formulaire
 
-<img
-src="https://docs.joomla.org/images/3/3b/Help-4x-Menu-Options-screen-permissions-tab-en.png"
-decoding="async" data-file-width="600" data-file-height="653"
-width="600" height="653"
-alt="Menu Options screen permissions tab" />
+### Onglet Affichage de la page
 
-To change the permissions for this extension, do the following.
-
-- Select the **Group** by clicking its title located on the left.
-- Find the desired **Action**. Possible Actions are:
-  - **Configure ACL & Options**. Users can edit the options and
-    permissions of this extension.
-  - **Configure Options Only**. Users can edit the options exept the
-    permissions of this extension.
-  - **Access Administration Interface**. Users can access user
-    administration interface of this extension.
-  - **Create:** Users can create content of this extension.
-  - **Delete:** Users can delete content of this extension.
-  - **Edit:** Users can edit content of this extension.
-  - **Edit State:** User can change the published state and related
-    information for content of this extension.
-  - **Edit Own:** Users can edit own created content of this extension.
-- Select the desired permission for the action you wish to change.
-  Possible settings are:
-  - ***Inherited:*** Inherited for users in this Group from the Global
-    Configuration permissions of this extension.
-  - ***Allowed:*** Allowed for users in this Group. Note that, if this
-    action is Denied at one of the higher levels, the Allowed permission
-    here will not take effect. A Denied setting cannot be overridden.
-  - ***Denied:*** Denied for users in this Group.
-- Click **Save** in **Toolbar** at top. When the screen refreshes, the
-  Calculated Setting column will show the effective permission for this
-  Group and Action.
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
-
-- **Save**. Saves the item and stays in the current screen.
-- **Save & Close**. Saves the item and closes the current screen.
-- **Close**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made. This
-  toolbar icon is not shown if you are creating a new item.
-- **Help**. Opens this help screen.
-
-## Tips
-
-- Remember, these choices are applied globally.
+- **Titre de la page du navigateur** Texte facultatif pour l'élément `<title>` de la page. Le titre de l'élément de menu est utilisé si disponible. Sinon, le titre de l'article est utilisé et le même champ dans l'onglet Options de l'article est vide.
+- **Afficher l'en-tête de la page** Détermine si le titre de la page du navigateur est affiché dans l'en-tête de la page. L'en-tête de la page est généralement affiché dans un élément HTML h1.
+- **En-tête de la page** Texte alternatif facultatif pour l'en-tête de la page, affiché si l'option *Afficher l'en-tête de la page* est définie sur *Afficher*.
+- **Classe de la page** Classe CSS facultative à ajouter aux éléments de cette page. Cela permet de personnaliser le style CSS spécifique à cette page.
