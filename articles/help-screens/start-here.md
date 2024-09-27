@@ -3,7 +3,8 @@
 ## Aide avec Joomla!
 
 Pour obtenir de l'aide sur une page spécifique de l'administrateur, dans l'interface administrateur de Joomla, vous pouvez sélectionner le bouton **Aide** de la barre d'outils pour obtenir plus d'informations sur la page. Il est situé à droite de la barre d'outils, juste en dessous de la barre de titre. Exemple :
-![barre d'outils aide](../../../fr/images/help-screens/start-here-top-bars.png "Barre d'outils Aide")
+
+![barre d'outils aide](../../../fr/images/help-screens/start-here-top-bars.png)
 
 Une boîte de dialogue modale apparaîtra au centre de l'écran contenant des informations d'aide spécifiques à cette page.
 
