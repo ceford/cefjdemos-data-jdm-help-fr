@@ -19,7 +19,7 @@ La page *Visites Guidées : Options* est couverte dans des articles d'aide sépa
 
 ## Capture d'écran
 
-![Options des visites guidées](../../../fr/images/guided-tours/guided-tours-options.png)
+![Options des visites guidées](../../../en/images/guided-tours/guided-tours-options.png)
 
 Les éléments de l'onglet Visites Guidées sont bien expliqués dans l'Aide Intégrée.
 

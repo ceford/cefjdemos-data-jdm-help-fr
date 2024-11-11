@@ -69,7 +69,7 @@ Pour modifier un élément de menu :
 
 Cette capture d'écran montre le modèle Frontend par défaut de Joomla **Cassiopeia** avec toutes les options de mise en page d'édition définies sur 'Cacher'.
 
-[articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article-frontend.png)
+![articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article-frontend.png)
 
 ## Conseils
 
