@@ -16,13 +16,13 @@ Ces écrans d'aide concernent Joomla! versions 4, 5 et 6. Parfois, les mises à 
 
 Si vous venez de commencer à travailler avec Joomla, vous avez probablement ressenti la difficulté d'apprendre un nouveau système. Nouvelle terminologie, nouvelles façons de faire les choses, peut-être même que le web lui-même est nouveau pour vous. Ce guide est là pour atténuer une partie de cette difficulté.
 
-- [Commencer : Introduction à Joomla!](jdocmanual?article=user/getting-started/introduction-to-joomla "Introduction à Joomla!")
-- [Commencer : Articles et catégories](jdocmanual?article=user/getting-started/articles-and-categories "Articles et catégories")
-- [Commencer : Ajouter un article](jdocmanual?article=user/getting-started/adding-an-article "Ajouter un article")
-- [Commencer : Ajouter une catégorie](jdocmanual?article=user/getting-started/adding-a-category "Ajouter une catégorie")
-- [Commencer : Ajouter un élément de menu](jdocmanual?article=user/getting-started/adding-a-menu-item "Ajouter un élément de menu")
-- [Commencer : Ajouter un module](jdocmanual?article=user/getting-started/adding-a-module "Ajouter un module")
+- [Commencer : Introduction à Joomla!](jdocmanual?article=user/getting-started/introduction-to-joomla)
+- [Commencer : Articles et catégories](jdocmanual?article=user/getting-started/articles-and-categories)
+- [Commencer : Ajouter un article](jdocmanual?article=user/getting-started/adding-an-article)
+- [Commencer : Ajouter une catégorie](jdocmanual?article=user/getting-started/adding-a-category)
+- [Commencer : Ajouter un élément de menu](jdocmanual?article=user/getting-started/adding-a-menu-item)
+- [Commencer : Ajouter un module](jdocmanual?article=user/getting-started/adding-a-module)
 
 ## Garder votre site web sécurisé
 
-- [Sécurité : Meilleures pratiques](jdocmanual?article=user/security/best-practices "Sécurité : Meilleures pratiques")
+- [Sécurité : Meilleures pratiques](jdocmanual?article=user/security/best-practices)

@@ -101,11 +101,11 @@ Les paramètres de mise en page des listes varient d'un composant à l'autre. Le
 - **\# Articles** Afficher ou masquer le nombre d'articles dans chaque flux d'actualités. Cette valeur peut être remplacée dans chaque flux d'actualités individuel.
 - **Liens de flux** Afficher ou masquer les URL des liens de flux.
 - **Pagination** Masquer ou afficher le support de la pagination. La pagination fournit des liens de page en bas de la page qui permettent à l'utilisateur de naviguer vers des pages supplémentaires. Ceux-ci sont nécessaires si les éléments listés ne tiennent pas sur une seule page.
-	Les options suivantes sont disponibles.
-	- *Utiliser global :* Utiliser la valeur par défaut de l'écran des options du composant.
-	- *Auto :* Liens de pagination affichés si nécessaire.
-	- *Afficher :* Liens de pagination affichés si nécessaire.
-	- *Masquer :* Liens de pagination non affichés. Remarque : dans ce cas, les utilisateurs ne pourront pas naviguer vers des pages supplémentaires.
+    Les options suivantes sont disponibles.
+    - *Utiliser global :* Utiliser la valeur par défaut de l'écran des options du composant.
+    - *Auto :* Liens de pagination affichés si nécessaire.
+    - *Afficher :* Liens de pagination affichés si nécessaire.
+    - *Masquer :* Liens de pagination non affichés. Remarque : dans ce cas, les utilisateurs ne pourront pas naviguer vers des pages supplémentaires.
 - **Résultats de pagination** Afficher ou masquer le numéro de page actuel et le nombre total de pages (par exemple, *Page 1 de 2*) en bas de chaque page. Utiliser global utilisera la valeur par défaut de l'option du composant.
 
 ### Dispositions de la liste des étiquettes
@@ -125,4 +125,3 @@ Les paramètres de mise en page des listes varient d'un composant à l'autre. Le
 - **Format de date** Chaîne de format optionnelle pour contrôler le format de la date (si affichée). Si laissé vide, la date utilisera le format DATE_FORMAT_LC1 du fichier de langue (par exemple, `D M Y` pour *31 décembre 2012* ou `m-d-y` pour *12-31-12*).
 
 *Traduit par openai.com*
-

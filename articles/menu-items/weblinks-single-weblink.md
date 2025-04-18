@@ -19,12 +19,12 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés 
 
 Pour créer un nouvel élément de menu **Lien web unique** :
 
-- Sélectionnez **Menus → \[nom du menu\]** dans le menu Administrateur 
+- Sélectionnez **Menus → \[nom du menu\]** dans le menu Administrateur
   (par exemple, **Menus → Menu Principal**). Ensuite...
   - Sélectionnez le bouton Nouveau dans la barre d'outils. Ensuite...
   - Sélectionnez le bouton Sélectionner le type d'élément de menu.
   - Dans la fenêtre modale, sélectionnez l'élément Liens web pour ouvrir une liste puis
-	sélectionnez l'élément **Lien web unique**.
+    sélectionnez l'élément **Lien web unique**.
 
 Pour modifier un élément de menu **Lien web unique** existant :
 
@@ -38,4 +38,3 @@ Tous les champs de saisie du formulaire sont couverts par les *Éléments commun
 
 
 *Traduit par openai.com*
-

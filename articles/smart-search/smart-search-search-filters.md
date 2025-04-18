@@ -16,7 +16,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ### Tutoriel
 
-* Si vous êtes nouveau sur la Recherche Intelligente, vous devriez lire le [guide de démarrage rapide de la Recherche Intelligente](https://docs.joomla.org/Smart_Search_quickstart_guide "guide de démarrage rapide de la Recherche Intelligente").
+* Si vous êtes nouveau sur la Recherche Intelligente, vous devriez lire le [guide de démarrage rapide de la Recherche Intelligente](https://docs.joomla.org/Smart_Search_quickstart_guide).
 
 ## Comment accéder
 
