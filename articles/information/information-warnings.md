@@ -10,7 +10,7 @@ Cet écran affichera tous les avertissements liés aux extensions que vous avez 
 
 ## Capture d'écran
 
-![Avertissements d'information](../../../fr/images/information/warnings.png)
+![Avertissements d'information](../../../fr/images/information/information-warnings/01-warnings.png)
 
 ## Barre d'outils
 

@@ -19,7 +19,7 @@ Certains éléments de cette page sont détaillés dans des articles d'aide sép
 
 ## Capture d'écran
 
-![Liste de contenu des langues](../../../fr/images/languages/languages-content.png)
+![Liste de contenu des langues](../../../fr/images/languages/languages-content/01-languages-content.png)
 
 ## En-têtes de colonne
 

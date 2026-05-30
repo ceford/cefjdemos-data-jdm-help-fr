@@ -26,7 +26,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide distincts 
 
 ## Capture d'écran
 
-![Modifier le champ des articles](../../../fr/images/fields/articles-edit-field.png)
+![Modifier le champ des articles](../../../fr/images/fields/fields-edit/01-articles-edit-field.png)
 
 ## Champs du formulaire
 
@@ -59,7 +59,7 @@ Paramètres pour tous les champs :
 
 ### Onglet Options
 
-![Onglet Options de modification du champ des articles](../../../fr/images/fields/articles-edit-field-options-tab.png)
+![Onglet Options de modification du champ des articles](../../../fr/images/fields/fields-edit/02-articles-edit-field-options-tab.png)
 
 #### Options du formulaire
 

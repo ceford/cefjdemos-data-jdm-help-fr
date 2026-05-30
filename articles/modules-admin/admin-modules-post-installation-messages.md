@@ -25,7 +25,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![onglet des messages de post-installation des modules](../../../fr/images/modules-admin/modules-post-installation-messages-module-tab.png)
+![onglet des messages de post-installation des modules](../../../fr/images/modules-admin/admin-modules-post-installation-messages/01-modules-post-installation-messages-module-tab.png)
 
 ## Champs de formulaire
 

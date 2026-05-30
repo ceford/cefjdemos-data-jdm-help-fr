@@ -24,7 +24,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![module d'image aléatoire](../../../fr/images/modules-site/modules-random-image-module-tab.png)
+![module d'image aléatoire](../../../fr/images/modules-site/site-modules-random-image/01-modules-random-image-module-tab.png)
 
 ## Champs de Formulaire
 

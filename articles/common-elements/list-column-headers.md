@@ -8,15 +8,15 @@ Les en-têtes de colonnes apparaissent dans les vues de liste pour indiquer la n
 
 ### Les en-têtes de colonne de la liste des articles
 
-![En-têtes de colonne de la liste des articles](../../../fr/images/common-elements/articles-list-column-header.png)
+![En-têtes de colonne de la liste des articles](../../../fr/images/common-elements/list-column-headers/01-articles-list-column-header.png)
 
 ### Les en-têtes de colonne de la liste des catégories
 
-![En-têtes de colonne de la liste des catégories](../../../fr/images/common-elements/categories-list-column-header.png)
+![En-têtes de colonne de la liste des catégories](../../../fr/images/common-elements/list-column-headers/02-categories-list-column-header.png)
 
 ### Les en-têtes de colonne de la liste des utilisateurs
 
-![En-têtes de colonne de la liste des utilisateurs](../../../fr/images/common-elements/users-list-column-header.png)
+![En-têtes de colonne de la liste des utilisateurs](../../../fr/images/common-elements/list-column-headers/03-users-list-column-header.png)
 
 ## Trier par colonne
 

@@ -18,7 +18,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés 
 
 ## Capture d'écran
 
-![Options des menus](../../../fr/images/menus/menu-options-page-display-tab.png)
+![Options des menus](../../../fr/images/menus/menus-options/01-menu-options-page-display-tab.png)
 
 ## Champs du formulaire
 

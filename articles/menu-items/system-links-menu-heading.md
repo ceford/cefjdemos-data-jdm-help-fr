@@ -31,7 +31,7 @@ Pour éditer un type d'élément de menu Titre de Menu existant :
 
 ## Capture d'écran
 
-![Détails de l'onglet Titre de l'élément de menu](../../../fr/images/menu-items/system-links-menu-heading-details-tab.png)
+![Détails de l'onglet Titre de l'élément de menu](../../../fr/images/menu-items/system-links-menu-heading/01-system-links-menu-heading-details-tab.png)
 
 Tous les champs de saisie du formulaire sont couverts dans les *Éléments Communs*.
 

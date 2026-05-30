@@ -23,7 +23,7 @@ La liste initiale des Tâches Planifiées comporte trois éléments.
 
 ## Capture d'écran
 
-![scheduled tasks list](../../../fr/images/maintenance/scheduled-tasks-list.png)
+![scheduled tasks list](../../../fr/images/maintenance/scheduled-tasks/01-scheduled-tasks-list.png)
 
 ## En-têtes de colonnes
 
@@ -39,13 +39,13 @@ Colonnes uniques aux tâches planifiées :
 
 Sélectionnez le bouton dans la barre d'outils pour voir la liste des exécutions de tâches individuelles.
 
-![task execution history list](../../../fr/images/maintenance/scheduled-tasks-logs.png)
+![task execution history list](../../../fr/images/maintenance/scheduled-tasks/02-scheduled-tasks-logs.png)
 
 ## Tâches disponibles
 
 La capture d'écran suivante montre une liste des tâches disponibles. Certaines sont des démonstrations, d'autres sont utiles.
 
-![Scheduled Tasks Available](../../../fr/images/maintenance/scheduled-tasks-types.png)
+![Scheduled Tasks Available](../../../fr/images/maintenance/scheduled-tasks/03-scheduled-tasks-types.png)
 
 Chaque tâche a ses propres paramètres liés à la tâche qui devraient être explicites. Par exemple, la tâche **Site Hors Ligne** n'a de sens que si la **Modifier la Tâche → Champs de Base → Règle d'Exécution** est réglée sur **Exécution Manuelle**.
 

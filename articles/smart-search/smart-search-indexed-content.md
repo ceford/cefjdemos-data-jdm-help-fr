@@ -25,7 +25,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![recherche intelligente contenu indexé](../../../fr/images/smart-search/smart-search-indexed-content.png)
+![recherche intelligente contenu indexé](../../../fr/images/smart-search/smart-search-indexed-content/01-smart-search-indexed-content.png)
 
 ## Créer un Index
 

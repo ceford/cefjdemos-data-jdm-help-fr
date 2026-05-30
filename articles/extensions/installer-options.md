@@ -18,7 +18,7 @@ Certains aspects de cette page sont traités dans des articles d'aide distincts 
 
 ## Capture d'écran
 
-![Onglet des préférences des options de l'installateur](../../../fr/images/extensions/installer-options-preferences-tab.png)
+![Onglet des préférences des options de l'installateur](../../../fr/images/extensions/installer-options/01-installer-options-preferences-tab.png)
 
 ## Champs de formulaire
 

@@ -11,7 +11,7 @@ Le tableau de bord d'accueil est la destination par défaut pour la connexion au
 
 ## Capture d'écran
 
-![tableau de bord d'accueil](../../../fr/images/site/home-dashboard.png)
+![tableau de bord d'accueil](../../../fr/images/site/site-control-panel/01-home-dashboard.png)
 
 ## Modules
 

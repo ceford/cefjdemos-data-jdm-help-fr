@@ -23,7 +23,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés�
 
 ## Capture d'écran
 
-![Capture d'écran de la liste des articles en vedette](../../../fr/images/articles/articles-featured-list.png)
+![Capture d'écran de la liste des articles en vedette](../../../fr/images/articles/articles-featured/01-articles-featured-list.png)
 
 ## Conseils
 

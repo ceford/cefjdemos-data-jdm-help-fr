@@ -24,7 +24,7 @@ Certains éléments de cette page sont traités dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![Onglet de catégorie d'édition des contacts](../../../fr/images/contacts/contacts-edit-category-category-tab.png)
+![Onglet de catégorie d'édition des contacts](../../../fr/images/contacts/contacts-edit-category/01-contacts-edit-category-category-tab.png)
 
 ## Champs du formulaire
 

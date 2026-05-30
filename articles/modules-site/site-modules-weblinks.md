@@ -23,7 +23,7 @@ Depuis le menu Administrateur :
 
 ## Capture d'écran
 
-![formulaire de saisie de données du module weblinks](../../../fr/images/modules-site/modules-weblinks-module-tab.png)
+![formulaire de saisie de données du module weblinks](../../../fr/images/modules-site/site-modules-weblinks/01-modules-weblinks-module-tab.png)
 
 ## Champs de formulaire
 

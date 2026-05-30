@@ -13,7 +13,7 @@ Tous les éléments du menu ont une mise en page similaire, mais certains des ch
 
 ## Capture d'écran
 
-![élément de menu onglet intégration](../../../fr/images/menu-items-common/menu-item-category-blog-integration.png)
+![élément de menu onglet intégration](../../../fr/images/menu-items-common/menu-item-integration/01-menu-item-category-blog-integration.png)
 
 ## Champs de formulaire
 

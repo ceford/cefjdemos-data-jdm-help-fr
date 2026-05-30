@@ -29,7 +29,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide distinc
 
 ## Capture d'écran
 
-![liste des menus](../../../fr/images/menus/menus-list.png)
+![liste des menus](../../../fr/images/menus/menus/01-menus-list.png)
 
 ## En-têtes de colonne
 

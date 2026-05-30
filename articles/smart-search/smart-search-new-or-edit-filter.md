@@ -23,7 +23,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide distinc
 
 ## Capture d'écran
 
-![recherche intelligente modifier le filtre](../../../fr/images/smart-search/smart-search-edit-filter.png)
+![recherche intelligente modifier le filtre](../../../fr/images/smart-search/smart-search-new-or-edit-filter/01-smart-search-edit-filter.png)
 
 ## Champs de formulaire
 
@@ -43,7 +43,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide distinc
 
 ## Onglet Options
 
-![options de filtre d'édition de recherche intelligente onglet](../../../fr/images/smart-search/smart-search-edit-filter-options-tab.png)
+![options de filtre d'édition de recherche intelligente onglet](../../../fr/images/smart-search/smart-search-new-or-edit-filter/02-smart-search-edit-filter-options-tab.png)
 
 ### Panneau de publication
 

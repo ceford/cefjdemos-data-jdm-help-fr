@@ -26,7 +26,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![Liste des visites guidées](../../../fr/images/guided-tours/guided-tours-list.png)
+![Liste des visites guidées](../../../fr/images/guided-tours/guided-tours/01-guided-tours-list.png)
 
 ## Conseils
 

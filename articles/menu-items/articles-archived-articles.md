@@ -36,7 +36,7 @@ Pour modifier un élément de menu :
 
 ## Capture d'écran
 
-![Alias de l'élément de menu](../../../fr/images/menu-items/articles-archived-articles-details-tab.png)
+![Alias de l'élément de menu](../../../fr/images/menu-items/articles-archived-articles/01-articles-archived-articles-details-tab.png)
 
 ## Champs du formulaire
 
@@ -45,7 +45,7 @@ Pour modifier un élément de menu :
 
 ### Onglet Archive
 
-![Articles archivés dans les menus](../../../fr/images/menu-items/articles-archived-articles-archive-tab.png)
+![Articles archivés dans les menus](../../../fr/images/menu-items/articles-archived-articles/02-articles-archived-articles-archive-tab.png)
 
 * **Ordre des articles**
   * **Les plus anciens en premier** Les articles sont affichés en commençant par les plus anciens et en terminant par les plus récents.

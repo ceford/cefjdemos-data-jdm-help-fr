@@ -34,7 +34,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![liste de workflow de base des étapes](../../../fr/images/workflows/stages-basic-workflow-list.png)
+![liste de workflow de base des étapes](../../../fr/images/workflows/stages-basic-workflow/01-stages-basic-workflow-list.png)
 
 *Traduit par openai.com*
 

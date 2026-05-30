@@ -36,7 +36,7 @@ Pour modifier un élément de menu :
 
 ## Capture d'écran
 
-![Onglet Détails des articles en vedette](../../../fr/images/menu-items/articles-featured-details-tab.png)
+![Onglet Détails des articles en vedette](../../../fr/images/menu-items/articles-featured-articles/01-articles-featured-details-tab.png)
 
 ## Conseils
 

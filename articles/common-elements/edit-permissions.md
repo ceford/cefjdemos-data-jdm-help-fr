@@ -13,13 +13,13 @@ Pour plus d'informations détaillées sur les Groupes d'Utilisateurs, les Niveau
 Dans cet exemple, les utilisateurs du groupe Oddjob ont reçu l'autorisation
 globale de se connecter à l'interface Administrateur, mais rien d'autre.
 
-![Capture d'écran des Autorisations](../../../fr/images/common-elements/global-configuration-permissions-tab.png)
+![Capture d'écran des Autorisations](../../../fr/images/common-elements/edit-permissions/01-global-configuration-permissions-tab.png)
 
 ## Configuration des Permissions des Composants
 
 Pour accéder à un composant spécifique, les permissions doivent être définies dans les options du composant. Dans cet exemple, les options du composant Média.
 
-![Capture d'écran Média](../../../fr/images/common-elements/media-options-permissions-tab.png)
+![Capture d'écran Média](../../../fr/images/common-elements/edit-permissions/02-media-options-permissions-tab.png)
 
 Vous remarquerez que ce composant dispose de moins d'actions disponibles et que le groupe Oddjob a juste assez de permissions pour faire le travail.
 
@@ -40,11 +40,11 @@ Pour changer les permissions pour ce composant :
 
 Après la connexion, un utilisateur dans le groupe Oddjob verra les modules du Tableau de Bord Accueil qui ont l'accès **Spécial** défini et un lien vers l'élément de menu du composant Média.
 
-![Tableau de Bord Accueil pour Oddjob](../../../fr/images/common-elements/home-dashboard-for-oddjob.png)
+![Tableau de Bord Accueil pour Oddjob](../../../fr/images/common-elements/edit-permissions/03-home-dashboard-for-oddjob.png)
 
 Et l'écran Média pour l'utilisateur Oddjob est comme prévu :
 
-![Écran Média pour Oddjob](../../../fr/images/common-elements/media-screen-for-oddjob.png)
+![Écran Média pour Oddjob](../../../fr/images/common-elements/edit-permissions/04-media-screen-for-oddjob.png)
 
 *Traduit par openai.com*
 

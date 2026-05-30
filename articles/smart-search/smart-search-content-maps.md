@@ -35,7 +35,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide distinc
 
 ## Capture d'écran
 
-![recherche intelligente contenu cartes](../../../fr/images/smart-search/smart-search-content-maps.png)
+![recherche intelligente contenu cartes](../../../fr/images/smart-search/smart-search-content-maps/01-smart-search-content-maps.png)
 
 ## En-têtes de colonnes
 

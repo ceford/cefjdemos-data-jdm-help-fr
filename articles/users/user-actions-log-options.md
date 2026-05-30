@@ -20,7 +20,7 @@ Pour accéder à cet écran :
 
 ## Capture d'écran
 
-![onglet des options de journal des actions de l'utilisateur](../../../fr/images/users/user-actions-log-options-options-tab.png)
+![onglet des options de journal des actions de l'utilisateur](../../../fr/images/users/user-actions-log-options/01-user-actions-log-options-options-tab.png)
 
 ## Champs de Formulaire
 

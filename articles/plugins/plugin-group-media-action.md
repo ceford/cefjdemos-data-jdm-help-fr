@@ -4,7 +4,7 @@
 
 Ce groupe de plugins permet de recadrer, redimensionner et faire pivoter les images. Sur la page Médias, survolez une vignette, sélectionnez le symbole de menu (...) puis le symbole d'édition (crayon). Cela ouvre la page *Édition des Médias* :
 
-![Page d'édition des médias](../../../en/images/plugins/plugin-group-media-action-media-edit-page.png)
+![Page d'édition des médias](../../../en/images/plugins/plugin-group-media-action/01-plugin-group-media-action-media-edit-page.png)
 
 ### Action Médias - Recadrage
 

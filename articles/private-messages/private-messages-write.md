@@ -17,7 +17,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide distinc
 
 ## Capture d'écran
 
-![messages privés écrire](../../../fr/images/private-messages/private-messages-write.png)
+![messages privés écrire](../../../fr/images/private-messages/private-messages-write/01-private-messages-write.png)
 
 ## Champs de Formulaire
 

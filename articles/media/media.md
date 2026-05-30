@@ -23,7 +23,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés 
 
 ## Capture d'écran
 
-![Médias](../../../fr/images/media/media.png)
+![Médias](../../../fr/images/media/media/01-media.png)
 
 ## Zone d'affichage des images
 

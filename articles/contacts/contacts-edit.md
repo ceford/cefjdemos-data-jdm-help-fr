@@ -26,7 +26,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés 
 
 ## Capture d'écran
 
-![Contacts modifier l'onglet contact](../../../fr/images/contacts/contacts-edit-contact-tab.png)
+![Contacts modifier l'onglet contact](../../../fr/images/contacts/contacts-edit/01-contacts-edit-contact-tab.png)
 
 ## Champs de Formulaire
 
@@ -70,13 +70,13 @@ Ici, vous entrez les informations de base concernant le contact.
 
 ### Onglet Informations Diverses
 
-![Onglet Modifier Contact](../../../fr/images/contacts/contacts-edit-miscellaneous-tab.png)
+![Onglet Modifier Contact](../../../fr/images/contacts/contacts-edit/02-contacts-edit-miscellaneous-tab.png)
 
 D'autres informations sur ce Contact peuvent être entrées en utilisant l'éditeur.
 
 ### Onglet Affichage
 
-![Onglet Modifier Contact](../../../fr/images/contacts/contacts-edit-display-tab.png)
+![Onglet Modifier Contact](../../../fr/images/contacts/contacts-edit/03-contacts-edit-display-tab.png)
 
 - **Afficher la Catégorie** Afficher ou masquer la catégorie du Contact.
 - **Afficher la Liste des Contacts** Afficher ou masquer la liste des Contacts.
@@ -104,7 +104,7 @@ D'autres informations sur ce Contact peuvent être entrées en utilisant l'édit
 
 ### Onglet Formulaire
 
-![Onglet Modifier Contact](../../../fr/images/contacts/contacts-edit-form-tab.png)
+![Onglet Modifier Contact](../../../fr/images/contacts/contacts-edit/04-contacts-edit-form-tab.png)
 
 - **Formulaire de Contact** Afficher ou masquer le formulaire d'e-mail. Si Afficher est sélectionné, un formulaire s'affiche permettant à l'utilisateur d'envoyer un e-mail au Contact depuis le site web.
 - **Envoyer une Copie à l'Expéditeur** Afficher ou masquer la case à cocher : *Envoyer une copie de ce message à votre propre adresse*.

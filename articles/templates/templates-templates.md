@@ -23,7 +23,7 @@ Certains éléments de cette page sont traités dans des articles d'aide distinc
 
 Les écrans de l'administrateur et des modèles de site utilisent la même mise en page. L'écran du modèle de site est illustré ici.
 
-![Liste des modèles de site](../../../fr/images/templates/templates-site-templates-list.png)
+![Liste des modèles de site](../../../fr/images/templates/templates-templates/01-templates-site-templates-list.png)
 
 ## Filtres de liste
 

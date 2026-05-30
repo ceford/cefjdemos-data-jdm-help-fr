@@ -6,7 +6,7 @@ De nombreuses pages de l'administrateur Joomla sont des listes d'articles. Les p
 
 Les opérations qui peuvent être effectuées varient selon la liste. La capture d'écran suivante montre la boîte de dialogue de traitement par lot pour les Articles :
 
-![Capture d'écran du traitement par lot des articles](../../../fr/images/common-elements/articles-list-batch.png)
+![Capture d'écran du traitement par lot des articles](../../../fr/images/common-elements/list-batch-process/01-articles-list-batch.png)
 
 ## Exemple : Comment traiter par lots un groupe d'articles :
 

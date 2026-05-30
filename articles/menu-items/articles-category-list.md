@@ -36,7 +36,7 @@ Pour modifier un élément de menu :
 
 ## Capture d'écran
 
-![Élément de menu Liste de catégories](../../../fr/images/menu-items/articles-category-list-details-tab.png)
+![Élément de menu Liste de catégories](../../../fr/images/menu-items/articles-category-list/01-articles-category-list-details-tab.png)
 
 ## Champs du formulaire
 

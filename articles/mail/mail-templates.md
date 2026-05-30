@@ -21,7 +21,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide distinc
 
 ## Capture d'écran
 
-![Liste des modèles de mail](../../../fr/images/mail/mail-templates.png)
+![Liste des modèles de mail](../../../fr/images/mail/mail-templates/01-mail-templates.png)
 
 ## En-têtes de Colonne
 

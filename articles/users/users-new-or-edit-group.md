@@ -15,7 +15,7 @@ La page *Utilisateurs : Nouveau ou Modifier le Groupe* est utilisée pour créer
 
 ## Capture d'écran
 
-![nouvel onglet des détails du groupe des utilisateurs](../../../fr/images/users/users-new-group-details-tab.png)
+![nouvel onglet des détails du groupe des utilisateurs](../../../fr/images/users/users-new-or-edit-group/01-users-new-group-details-tab.png)
 
 ## Détails du Groupe d'Utilisateurs
 

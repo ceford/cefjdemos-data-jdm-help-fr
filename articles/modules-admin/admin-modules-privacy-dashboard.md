@@ -25,7 +25,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![onglet du module tableau de bord de confidentialité des modules](../../../fr/images/modules-admin/modules-privacy-dashboard-module-tab.png)
+![onglet du module tableau de bord de confidentialité des modules](../../../fr/images/modules-admin/admin-modules-privacy-dashboard/01-modules-privacy-dashboard-module-tab.png)
 
 ## Champs de formulaire
 

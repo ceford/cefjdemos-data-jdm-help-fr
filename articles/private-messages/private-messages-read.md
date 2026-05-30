@@ -18,7 +18,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![vue des messages privés](../../../fr/images/private-messages/private-messages-view.png)
+![vue des messages privés](../../../fr/images/private-messages/private-messages-read/01-private-messages-view.png)
 
 ## Détails
 

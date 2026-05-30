@@ -34,13 +34,13 @@ Pour modifier un élément de menu Lister Tous les Tags existant :
 
 ## Capture d'écran
 
-![Liste compacte d'éléments étiquetés, onglet des détails](../../../fr/images/menu-items/tags-list-all-tags-details-tab.png)
+![Liste compacte d'éléments étiquetés, onglet des détails](../../../fr/images/menu-items/tags-list-all-tags/01-tags-list-all-tags-details-tab.png)
 
 ## Champs de Formulaire
 
 ### Onglet Options
 
-![Liste Compacte des Articles Étiquetés, onglet détails](../../../fr/images/menu-items/tags-list-all-tags-options-tab.png)
+![Liste Compacte des Articles Étiquetés, onglet détails](../../../fr/images/menu-items/tags-list-all-tags/02-tags-list-all-tags-options-tab.png)
 
 - **Nombre de Colonnes** Le nombre de colonnes pour disposer les étiquettes.
   Notez que ce nombre peut ne pas être affiché si 12 ne le divise pas 
@@ -62,7 +62,7 @@ Pour modifier un élément de menu Lister Tous les Tags existant :
 
 ### Onglet Options de Sélection
 
-![Liste Compacte des Articles Étiquetés, onglet détails](../../../fr/images/menu-items/tags-list-all-tags-selection-options-tab.png)
+![Liste Compacte des Articles Étiquetés, onglet détails](../../../fr/images/menu-items/tags-list-all-tags/03-tags-list-all-tags-selection-options-tab.png)
 
 - **Articles Maximaux** Le nombre maximal de résultats à retourner.
 - **Champ Filtre** Afficher ou masquer le Champ de Filtre utilisé pour filtrer 

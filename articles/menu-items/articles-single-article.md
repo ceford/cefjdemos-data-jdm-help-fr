@@ -35,7 +35,7 @@ Pour modifier un élément de menu :
 
 ## Capture d'écran
 
-![Onglet Détails des articles - Article unique](../../../fr/images/menu-items/articles-single-article-details-tab.png)
+![Onglet Détails des articles - Article unique](../../../fr/images/menu-items/articles-single-article/01-articles-single-article-details-tab.png)
 
 ## Champs du formulaire
 

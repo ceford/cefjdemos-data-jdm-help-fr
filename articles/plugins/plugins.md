@@ -21,7 +21,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![Liste des plugins](../../../fr/images/plugins/plugins-list.png)
+![Liste des plugins](../../../fr/images/plugins/plugins/01-plugins-list.png)
 
 ## Astuces
 

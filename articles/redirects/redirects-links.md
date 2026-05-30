@@ -31,7 +31,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![Redirige les liens](../../../fr/images/redirects/redirects-links.png)
+![Redirige les liens](../../../fr/images/redirects/redirects-links/01-redirects-links.png)
 
 ## En-têtes de colonne
 

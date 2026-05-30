@@ -25,7 +25,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide distinc
 
 ## Capture d'écran
 
-![modules sample data module tab](../../../fr/images/modules-admin/modules-sample-data-module-tab.png)
+![modules sample data module tab](../../../fr/images/modules-admin/admin-modules-sample-data/01-modules-sample-data-module-tab.png)
 
 ## Champs de formulaire
 

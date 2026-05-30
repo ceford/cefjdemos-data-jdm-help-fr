@@ -17,7 +17,7 @@ Sélectionnez le bouton **Options** dans la barre d'outils de n'importe quelle p
 
 ## Capture d'écran
 
-![Capture d'écran des options d'articles](../../../fr/images/articles/articles-options-articles-tab.png)
+![Capture d'écran des options d'articles](../../../fr/images/articles/articles-options/01-articles-options-articles-tab.png)
 
 ## Champs de formulaire
 
@@ -67,7 +67,7 @@ Ces paramètres s'appliquent pour les mises en page d'articles sauf s'ils sont m
 
 Ces options contrôlent la mise en page de la page d'édition des articles.
 
-![Capture d'écran des options de mise en page de l'édition des articles](../../../fr/images/articles/articles-options-editing-layout-tab.png)
+![Capture d'écran des options de mise en page de l'édition des articles](../../../fr/images/articles/articles-options/02-articles-options-editing-layout-tab.png)
 
 - **Autoriser Captcha lors de la soumission** Sélectionnez le plugin captcha qui sera utilisé dans le formulaire de soumission d'article. Si *Utiliser global* est sélectionné, assurez-vous qu'un plugin captcha est sélectionné dans la configuration globale.
 - **Options de publication** Masquer l'onglet Options de publication dans l'interface d'administration lors de l'édition des articles. Cela signifie que les utilisateurs de l'interface d'administration ne pourront pas modifier les champs de cet onglet. Ces champs seront toujours définis sur leurs valeurs par défaut.
@@ -93,7 +93,7 @@ Ces options contrôlent la mise en page de la page d'édition des articles.
 
 Ces paramètres s'appliquent aux options de catégories d'articles, sauf s'ils sont modifiés par les paramètres individuels de la catégorie ou du menu.
 
-![Options des catégories d'articles](../../../fr/images/articles/articles-options-category-tab.png)
+![Options des catégories d'articles](../../../fr/images/articles/articles-options/03-articles-options-category-tab.png)
 
 - **Choisir une mise en page** Sélectionnez la mise en page par défaut à afficher lorsqu'un lien de catégorie est sélectionné.
 - **Titre de la catégorie** Afficher le titre de la catégorie.
@@ -111,7 +111,7 @@ Ces paramètres s'appliquent aux options de catégories d'articles, sauf s'ils s
 
 Ces paramètres s'appliquent aux options des catégories d'articles, sauf s'ils sont modifiés par les paramètres individuels de la catégorie ou du menu.
 
-![Options des catégories d'articles](../../../fr/images/articles/articles-options-categories-tab.png)
+![Options des catégories d'articles](../../../fr/images/articles/articles-options/04-articles-options-categories-tab.png)
 
 - **Description de la catégorie de niveau supérieur** Afficher la description de la catégorie de niveau supérieur.
 - **Niveaux de sous-catégories** Contrôlez combien de niveaux de sous-catégories afficher.
@@ -123,7 +123,7 @@ Ces paramètres s'appliquent aux options des catégories d'articles, sauf s'ils 
 
 Ces paramètres s'appliquent aux mises en page blog ou en vedette, sauf s'ils sont modifiés pour un élément de menu spécifique.
 
-![Options des mises en page blog et en vedette](../../../fr/images/articles/articles-options-blog-layouts-tab.png)
+![Options des mises en page blog et en vedette](../../../fr/images/articles/articles-options/05-articles-options-blog-layouts-tab.png)
 
 - **# Articles principaux** Nombre d'articles à afficher en utilisant toute la largeur de la zone d'affichage principale. "0" signifie qu'aucun article ne sera affiché en utilisant toute la largeur. Si un article contient une coupure "Lire la suite...", seule la partie avant cette coupure (le texte d'introduction) sera affichée.
 - **Classe des articles principaux** Ajouter une classe CSS pour personnaliser la mise en page. Ajouter une bordure supérieure avec la classe *boxed*. Pour la position de l'image, utilisez par exemple *image-left*, *image-right*. Ajoutez *image-alternate* pour un ordre alterné des images d'introduction.
@@ -144,7 +144,7 @@ Ces paramètres s'appliquent aux mises en page blog ou en vedette, sauf s'ils so
 
 Ces paramètres s'appliquent aux options des mises en page liste, sauf s'ils sont modifiés pour un élément de menu ou une catégorie spécifique.
 
-![Options des mises en page liste](../../../fr/images/articles/articles-options-list-layouts-tab.png)
+![Options des mises en page liste](../../../fr/images/articles/articles-options/06-articles-options-list-layouts-tab.png)
 
 - **Sélecteur d'affichage** Afficher le contrôle Sélectionner \# qui permet à l'utilisateur de choisir le nombre d'articles à afficher.
 - **Champ de filtre** Afficher un champ de texte dans le Frontend où un utilisateur peut filtrer les articles. Options dans le menu d'édition du Backend.
@@ -168,7 +168,7 @@ Ces paramètres s'appliquent aux options des mises en page liste, sauf s'ils son
 
 Ces paramètres s'appliquent aux options partagées dans les mises en page Liste, Blog et En vedette, sauf s'ils sont modifiés par les paramètres du menu.
 
-![Options partagées des articles](../../../fr/images/articles/articles-options-shared-tab.png)
+![Options partagées des articles](../../../fr/images/articles/articles-options/07-articles-options-shared-tab.png)
 
 - **Ordre des catégories**
   - *Pas d'ordre* Les articles sont triés uniquement par l'Ordre des articles, sans tenir compte de la catégorie.
@@ -204,7 +204,7 @@ Ces paramètres s'appliquent aux options partagées dans les mises en page Liste
 
 Ces paramètres déterminent comment le composant d'articles s'intégrera avec d'autres extensions.
 
-![Options d'intégration des articles](../../../fr/images/articles/articles-options-integration-tab.png)
+![Options d'intégration des articles](../../../fr/images/articles/articles-options/08-articles-options-integration-tab.png)
 
 #### Panneau Flux RSS
 

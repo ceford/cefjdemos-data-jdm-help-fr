@@ -23,7 +23,7 @@ Certains éléments de cette page sont abordés dans des articles d'aide distinc
 
 ## Capture d'écran
 
-![modules articles dernier onglet du module](../../../fr/images/modules-admin/modules-articles-latest-module-tab.png)
+![modules articles dernier onglet du module](../../../fr/images/modules-admin/admin-modules-articles-latest/01-modules-articles-latest-module-tab.png)
 
 ## Champs de formulaire
 

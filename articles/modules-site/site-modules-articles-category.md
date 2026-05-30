@@ -27,7 +27,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![onglet module catégorie articles](../../../fr/images/modules-site/modules-articles-category-module-tab.png)
+![onglet module catégorie articles](../../../fr/images/modules-site/site-modules-articles-category/01-modules-articles-category-module-tab.png)
 
 ## Champs de Formulaire
 
@@ -42,7 +42,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ### Onglet Options de Filtrage
 
-![onglet options de filtrage des catégories d'articles](../../../fr/images/modules-site/modules-articles-category-filtering-options-tab.png)
+![onglet options de filtrage des catégories d'articles](../../../fr/images/modules-site/site-modules-articles-category/02-modules-articles-category-filtering-options-tab.png)
 
 - **Articles en Vedette** Afficher ou masquer ou sélectionner uniquement les articles en vedette.
 - **Nombre** Le nombre d'éléments à afficher. La valeur par défaut de 0 affichera tous les articles.
@@ -63,14 +63,14 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ### Onglet Options de Classement
 
-![onglet options de classement des catégories d'articles](../../../fr/images/modules-site/modules-articles-category-ordering-options-tab.png)
+![onglet options de classement des catégories d'articles](../../../fr/images/modules-site/site-modules-articles-category/03-modules-articles-category-ordering-options-tab.png)
 
 - **Champ d'Article à Classer** Sélectionnez un champ de la liste. Le classement des articles en vedette ne doit être utilisé que lorsque l'option de filtrage pour les articles en vedette est définie sur *Uniquement*.
 - **Direction du Classement** Sélectionnez la direction du classement des articles.
 
 ### Onglet Options de Groupement
 
-![onglet options de groupement des catégories d'articles](../../../fr/images/modules-site/modules-articles-category-grouping-options-tab.png)
+![onglet options de groupement des catégories d'articles](../../../fr/images/modules-site/site-modules-articles-category/04-modules-articles-category-grouping-options-tab.png)
 
 - **Groupement d'Article** Sélectionnez une méthode de groupement des articles dans la liste.
 - **Direction du Groupement** Sélectionnez la direction du classement.
@@ -78,7 +78,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ### Onglet Options d'Affichage
 
-![onglet options d'affichage des catégories d'articles](../../../fr/images/modules-site/modules-articles-category-display-options-tab.png)
+![onglet options d'affichage des catégories d'articles](../../../fr/images/modules-site/site-modules-articles-category/05-modules-articles-category-display-options-tab.png)
 
 - **Titres Liés** Afficher les titres comme des liens vers les articles.
 - **Date** Afficher ou masquer la date de l'article.

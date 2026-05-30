@@ -10,7 +10,7 @@ S'il y a beaucoup de boutons, ils s'étendront sur deux rangées. Voici quelques
 
 ### Barre d'outils de modification d'article
 
-![Barre d'outils de modification d'article](../../../fr/images/common-elements/article-edit-toolbar.png)
+![Barre d'outils de modification d'article](../../../fr/images/common-elements/toolbars/01-article-edit-toolbar.png)
 
 Les boutons sans chevron vers le bas opèrent immédiatement. Ainsi, **Enregistrer** sauvegardera la page et reviendra avec un message de confirmation vert ou un message d'erreur rouge. Notez que, dans la plupart des cas, le bouton **Annuler** fermera une page de modification sans enregistrer les changements.
 
@@ -22,7 +22,7 @@ Veuillez explorer ce que font les différents boutons !
 
 ### Barre d'outils de la liste des plugins
 
-![Barre d'outils de la liste des plugins](../../../fr/images/common-elements/plugins-list-toolbar.png)
+![Barre d'outils de la liste des plugins](../../../fr/images/common-elements/toolbars/02-plugins-list-toolbar.png)
 
 Dans cet exemple de barre d'outils, les boutons sont gris pour indiquer qu'ils sont inactifs. Ils deviennent lumineux et actifs lorsqu'une case à cocher d'un élément de plugin est sélectionnée, rendant ainsi possible l'activation, la désactivation ou le check-in. Plusieurs éléments de la liste peuvent être sélectionnés pour une action simultanée, ce qui est l'objectif principal de ces boutons de barre d'outils. Les éléments individuels peuvent être traités avec les icônes de chaque rangée (non montrées).
 

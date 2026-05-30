@@ -25,7 +25,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![demande d'informations de révision de confidentialité](../../../fr/images/privacy/privacy-review-information-request.png)
+![demande d'informations de révision de confidentialité](../../../fr/images/privacy/privacy-review-information-request/01-privacy-review-information-request.png)
 
 ## Détails
 

@@ -22,7 +22,7 @@ Certains aspects de cette page sont traités dans des articles d'aide distincts 
 
 ## Capture d'écran
 
-![Éditer la visite guidée](../../../fr/images/guided-tours/guided-tours-edit-tour.png)
+![Éditer la visite guidée](../../../fr/images/guided-tours/guided-tours-edit-tour/01-guided-tours-edit-tour.png)
 
 
 ## Champs de formulaire

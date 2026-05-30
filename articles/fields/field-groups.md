@@ -29,7 +29,7 @@ catégorie, et courrier dans le composant de contact. Ils nécessitent une certa
 
 ## Capture d'écran
 
-![Liste des groupes de champs d'articles](../../../fr/images/fields/articles-field-groups-list.png)
+![Liste des groupes de champs d'articles](../../../fr/images/fields/field-groups/01-articles-field-groups-list.png)
 
 *Traduit par openai.com*
 

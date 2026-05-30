@@ -19,7 +19,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![consentements de confidentialité](../../../fr/images/privacy/privacy-consents.png)
+![consentements de confidentialité](../../../fr/images/privacy/privacy-consents/01-privacy-consents.png)
 
 ## En-têtes de colonne
 

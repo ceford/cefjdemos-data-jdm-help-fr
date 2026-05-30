@@ -28,7 +28,7 @@ expérience en codage pour préparer des substitutions de modèle appropriées.
 
 Cet exemple est une page *Articles : Modifier le groupe de champs*. *Contacts : Modifier le groupe de champs* et *Utilisateurs : Modifier le groupe de champs* sont similaires.
 
-![groupe de champs de modification des articles](../../../fr/images/fields/articles-edit-field-group.png)
+![groupe de champs de modification des articles](../../../fr/images/fields/field-groups-edit/01-articles-edit-field-group.png)
 
 ## Champs de Formulaire
 

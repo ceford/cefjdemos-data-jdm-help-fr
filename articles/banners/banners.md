@@ -29,7 +29,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide distinc
 
 ## Capture d'écran
 
-![Liste des bannières](../../../fr/images/banners/banners-list.png)
+![Liste des bannières](../../../fr/images/banners/banners/01-banners-list.png)
 
 ## En-têtes de colonnes
 

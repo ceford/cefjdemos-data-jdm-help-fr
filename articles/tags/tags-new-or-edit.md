@@ -18,7 +18,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide distincts 
 
 ## Capture d'écran
 
-![édition des balises, onglet des détails de la balise](../../../fr/images/tags/tags-edit-tag-details-tab.png)
+![édition des balises, onglet des détails de la balise](../../../fr/images/tags/tags-new-or-edit/01-tags-edit-tag-details-tab.png)
 
 ## Champs de Formulaire
 
@@ -48,7 +48,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide distincts 
 
 ### Onglet Options
 
-![étiquettes modifier l'onglet des options](../../../fr/images/tags/tags-edit-options-tab.png)
+![étiquettes modifier l'onglet des options](../../../fr/images/tags/tags-new-or-edit/02-tags-edit-options-tab.png)
 
 #### Panneau Options
 
@@ -67,7 +67,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide distincts 
 
 ### Onglet Publication
 
-![étiquettes modifier l'onglet publication](../../../fr/images/tags/tags-edit-publishing-tab.png)
+![étiquettes modifier l'onglet publication](../../../fr/images/tags/tags-new-or-edit/03-tags-edit-publishing-tab.png)
 
 #### Panneau de Publication
 

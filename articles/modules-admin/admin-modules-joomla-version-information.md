@@ -25,7 +25,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![module joomla version module onglet](../../../fr/images/modules-admin/modules-joomla-version-module-tab.png)
+![module joomla version module onglet](../../../fr/images/modules-admin/admin-modules-joomla-version-information/01-modules-joomla-version-module-tab.png)
 
 ## Champs de formulaire
 

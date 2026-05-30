@@ -17,7 +17,7 @@ Sélectionnez **Utilisateurs → Confidentialité → Fonctionnalités** dan
 
 ## Capture d'écran
 
-![capacités d'extension de confidentialité](../../../fr/images/privacy/privacy-capabilities.png)
+![capacités d'extension de confidentialité](../../../fr/images/privacy/privacy-extension-capabilities/01-privacy-capabilities.png)
 
 Il n'y a aucune action utilisateur sur cette page à part pour agrandir et lire les
 rapports individuels.

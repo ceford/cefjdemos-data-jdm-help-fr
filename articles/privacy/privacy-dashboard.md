@@ -18,7 +18,7 @@ La page du *Tableau de bord de la confidentialité* liste le type de demande de 
 
 ## Capture d'écran
 
-![tableau de bord de confidentialité](../../../fr/images/privacy/privacy-dashboard.png)
+![tableau de bord de confidentialité](../../../fr/images/privacy/privacy-dashboard/01-privacy-dashboard.png)
 
 ## Panneaux de Tableau de Bord
 

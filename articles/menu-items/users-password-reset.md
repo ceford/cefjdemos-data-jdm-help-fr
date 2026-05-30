@@ -33,7 +33,7 @@ Pour modifier un élément de menu *Réinitialisation du mot de passe* existant 
 
 ## Capture d'écran
 
-![Onglet des détails de la réinitialisation du mot de passe](../../../fr/images/menu-items/users-password-reset-details-tab.png)
+![Onglet des détails de la réinitialisation du mot de passe](../../../fr/images/menu-items/users-password-reset/01-users-password-reset-details-tab.png)
 
 Tous les champs de saisie du formulaire sont couverts dans les *Éléments Communs*.
 

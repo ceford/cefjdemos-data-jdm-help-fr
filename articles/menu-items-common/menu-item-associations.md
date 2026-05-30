@@ -15,7 +15,7 @@ Si la langue de l'élément de menu est définie sur *Tous*, cette page afficher
 
 ## Capture d'écran
 
-![onglet des associations d'éléments de menu](../../../fr/images/menu-items-common/menu-item-associations.png)
+![onglet des associations d'éléments de menu](../../../fr/images/menu-items-common/menu-item-associations/01-menu-item-associations.png)
 
 ## Champs de formulaire
 

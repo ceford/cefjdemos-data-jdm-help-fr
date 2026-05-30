@@ -19,7 +19,7 @@ Certains aspects de cette page sont abordés dans des articles d'aide séparés 
 
 ## Capture d'écran
 
-![Options de mise à jour de Joomla](../../../fr/images/joomla-update/joomla-update-options.png)
+![Options de mise à jour de Joomla](../../../fr/images/joomla-update/joomla-update-options/01-joomla-update-options.png)
 
 ## Champs de Formulaire
 

@@ -33,7 +33,7 @@ Pour modifier un élément de menu Formulaire d'Inscription existant :
 
 ## Capture d'écran
 
-![Détails de l'onglet du formulaire d'inscription](../../../fr/images/menu-items/users-registration-form-details-tab.png)
+![Détails de l'onglet du formulaire d'inscription](../../../fr/images/menu-items/users-registration-form/01-users-registration-form-details-tab.png)
 
 Tous les champs de saisie du formulaire sont couverts dans les *Éléments Communs*.
 

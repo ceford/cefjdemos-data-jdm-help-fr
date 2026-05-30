@@ -23,7 +23,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![liste des notes d'utilisateur](../../../fr/images/users/users-user-notes-list.png)
+![liste des notes d'utilisateur](../../../fr/images/users/user-notes/01-users-user-notes-list.png)
 
 ## Conseils
 

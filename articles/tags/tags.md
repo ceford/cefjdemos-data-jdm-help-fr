@@ -21,7 +21,7 @@ Sélectionnez **Composants → Tags** dans le menu Administrateur.
 
 ## Capture d'écran
 
-![liste des tags](../../../fr/images/tags/tags-list.png)
+![liste des tags](../../../fr/images/tags/tags/01-tags-list.png)
 
 ## Conseils
 

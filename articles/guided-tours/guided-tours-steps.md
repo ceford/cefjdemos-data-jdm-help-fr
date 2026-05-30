@@ -23,7 +23,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![Liste des étapes des visites guidées](../../../fr/images/guided-tours/guided-tours-steps-list.png)
+![Liste des étapes des visites guidées](../../../fr/images/guided-tours/guided-tours-steps/01-guided-tours-steps-list.png)
 
 ## Conseils
 

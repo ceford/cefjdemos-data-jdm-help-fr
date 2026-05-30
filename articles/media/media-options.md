@@ -18,7 +18,7 @@ Certains aspects de cette page sont abordés dans des articles d'aide séparés 
 
 ## Capture d'écran
 
-![Options des médias](../../../fr/images/media/media-options.png)
+![Options des médias](../../../fr/images/media/media-options/01-media-options.png)
 
 ## Champs du formulaire
 

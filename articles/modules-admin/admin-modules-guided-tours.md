@@ -26,7 +26,7 @@ Administrateur. Ensuite...
 
 ## Capture d'écran
 
-![onglet du module de visites guidées des modules](../../../fr/images/modules-admin/modules-guided-tours-module-tab.png)
+![onglet du module de visites guidées des modules](../../../fr/images/modules-admin/admin-modules-guided-tours/01-modules-guided-tours-module-tab.png)
 
 ## Champs de formulaire
 

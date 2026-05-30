@@ -8,7 +8,7 @@ Les catégories sont utilisées par les Articles, Bannières, Contacts et autres
 
 Cet exemple de capture d'écran utilise le formulaire "Articles : Modifier la catégorie".
 
-![Modifier la catégorie, onglet catégorie](../../../fr/images/common-elements/articles-edit-category-category-tab.png)
+![Modifier la catégorie, onglet catégorie](../../../fr/images/common-elements/edit-category/01-articles-edit-category-category-tab.png)
 
 ## Champs de Formulaire
 

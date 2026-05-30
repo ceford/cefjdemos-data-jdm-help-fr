@@ -19,7 +19,7 @@ Certains aspects de cette page sont abordés dans des articles d'aide séparés 
 
 ## Capture d'écran
 
-![maintenance global check in](../../../fr/images/maintenance/maintenance-global-check-in.png)
+![maintenance global check in](../../../fr/images/maintenance/maintenance-global-check-in/01-maintenance-global-check-in.png)
 
 ## Conseils
 

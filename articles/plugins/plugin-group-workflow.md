@@ -8,7 +8,7 @@ Pour plus d'informations, consultez le [Tutoriel de Workflow](https://docs.jooml
 
 Ajoutez des actions de mise en avant aux transitions de workflow pour vos éléments.
 
-![Formulaire de mise en avant du workflow](../../../en/images/plugins/plugin-group-workflow-featuring.png)
+![Formulaire de mise en avant du workflow](../../../en/images/plugins/plugin-group-workflow/01-plugin-group-workflow-featuring.png)
 
 - **Liste blanche d'extensions**
 - **Liste noire d'extensions**

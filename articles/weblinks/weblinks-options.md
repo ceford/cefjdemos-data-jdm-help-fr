@@ -18,7 +18,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide distinc
 
 ## Capture d'écran
 
-![options de liens web](../../../fr/images/weblinks/weblinks-options-web-link-tab.png)
+![options de liens web](../../../fr/images/weblinks/weblinks-options/01-weblinks-options-web-link-tab.png)
 
 ### Onglet Lien Web
 

@@ -19,7 +19,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![édition de lien web](../../../fr/images/weblinks/web-link-edit-web-link-tab.png)
+![édition de lien web](../../../fr/images/weblinks/weblinks-links-edit/01-web-link-edit-web-link-tab.png)
 
 ## Champs de Formulaire
 
@@ -30,7 +30,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ### Onglet Images
 
-![onglet d'édition des images de lien web](../../../fr/images/weblinks/web-link-edit-web-link-images-tab.png)
+![onglet d'édition des images de lien web](../../../fr/images/weblinks/weblinks-links-edit/02-web-link-edit-web-link-images-tab.png)
 
 - **Première Image** Cliquez sur Sélectionner pour choisir une image à afficher avec cet élément sur le front-end.
 - **Alignement de l'image** Emplacement de l'image par rapport au texte sur la page.
@@ -43,7 +43,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ### Onglet Publication
 
-![onglet d'édition de la publication de lien web](../../../fr/images/weblinks/web-link-edit-web-link-publishing-tab.png)
+![onglet d'édition de la publication de lien web](../../../fr/images/weblinks/weblinks-links-edit/03-web-link-edit-web-link-publishing-tab.png)
 
 - **Début de publication** Date et heure de début de la publication. Utilisez ce champ si vous souhaitez saisir du contenu à l'avance et le publier automatiquement à une date ultérieure.
 - **Fin de publication** Date et heure de fin de la publication. Utilisez ce champ si vous souhaitez que le contenu soit automatiquement changé à l'état Non publié à une date ultérieure (par exemple, lorsqu'il n'est plus applicable).
@@ -68,7 +68,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ### Onglet Options
 
-![onglet d'édition des options de lien web](../../../fr/images/weblinks/web-link-edit-web-link-options-tab.png)
+![onglet d'édition des options de lien web](../../../fr/images/weblinks/weblinks-links-edit/04-web-link-edit-web-link-options-tab.png)
 
 - **Cible** Comment ouvrir le lien. Les options sont :
   - Ouvrir dans la fenêtre parente. Ouvrir le lien dans la fenêtre actuelle du navigateur, permettant une navigation avant et arrière.

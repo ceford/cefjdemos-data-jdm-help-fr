@@ -30,7 +30,7 @@ Pour éditer un utilisateur :
 
 ## Capture d'écran
 
-![liste des utilisateurs](../../../fr/images/users/users-list.png)
+![liste des utilisateurs](../../../fr/images/users/users/01-users-list.png)
 
 ## En-têtes de colonne
 

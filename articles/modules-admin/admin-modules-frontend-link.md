@@ -23,7 +23,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![modules frontend link module tab](../../../fr/images/modules-admin/modules-frontend-link-module-tab.png)
+![modules frontend link module tab](../../../fr/images/modules-admin/admin-modules-frontend-link/01-modules-frontend-link-module-tab.png)
 
 ## Champs de formulaire
 

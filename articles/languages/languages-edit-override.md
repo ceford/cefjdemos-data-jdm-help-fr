@@ -23,7 +23,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés 
 
 ## Capture d'écran
 
-![Substitution de l'édition des langues](../../../fr/images/languages/languages-edit-override.png)
+![Substitution de l'édition des langues](../../../fr/images/languages/languages-edit-override/01-languages-edit-override.png)
 
 ## Champs de Formulaire
 

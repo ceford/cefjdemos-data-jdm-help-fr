@@ -34,7 +34,7 @@ Pour modifier une Catégorie existante :
   
   ## Capture d'écran
 
-![Capture d'écran de l'édition de catégorie](../../../fr/images/articles/articles-edit-category-category-tab.png)
+![Capture d'écran de l'édition de catégorie](../../../fr/images/articles/articles-edit-category/01-articles-edit-category-category-tab.png)
 
 ## Champs de Formulaire
 

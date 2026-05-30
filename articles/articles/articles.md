@@ -40,7 +40,7 @@ Il existe deux chemins pour accéder à la page de la liste des articles :
 
 ## Capture d'écran
 
-![Liste des articles](../../../fr/images/articles/articles-list.png)
+![Liste des articles](../../../fr/images/articles/articles/01-articles-list.png)
 
 ## En-têtes de colonnes
 

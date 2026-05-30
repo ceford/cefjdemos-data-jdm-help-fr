@@ -4,7 +4,7 @@
 
 Les plugins editors-xtd ajoutent des boutons à la liste déroulante de Contenu CMS dans l'éditeur TinyMCE.
 
-![Exemple de rendu des boutons dans TinyMCE](../../../en/images/plugins/plugin-group-editors-extended.png)
+![Exemple de rendu des boutons dans TinyMCE](../../../en/images/plugins/plugin-group-editors-xtd/01-plugin-group-editors-extended.png)
 
 ### Bouton - Article
 

@@ -10,7 +10,7 @@ La page *Recherche Intelligente : Analyse des Termes de Recherche* affiche une l
 
 ## Capture d'écran
 
-![analyse des termes de recherche Smart Search](../../../fr/images/smart-search/smart-search-search-term-analysis.png)
+![analyse des termes de recherche Smart Search](../../../fr/images/smart-search/smart-search-search-term-analysis/01-smart-search-search-term-analysis.png)
 
 ## Colonnes
 

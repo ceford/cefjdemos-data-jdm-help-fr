@@ -15,7 +15,7 @@ Par exemple, la mise en page Options de Catégorie : Articles offre :
 ```
 [À Faire] Exemples pour montrer le changement d'apparence avec différentes options.
 
-![Onglet options de catégorie d'édition des articles](../../../fr/images/common-elements/articles-edit-category-options-tab.png)
+![Onglet options de catégorie d'édition des articles](../../../fr/images/common-elements/edit-category-options/01-articles-edit-category-options-tab.png)
 
 ## Onglet Options
 

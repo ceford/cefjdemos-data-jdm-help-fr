@@ -5,7 +5,7 @@
 
 Les icônes rapides apparaissent dans les panneaux du tableau de bord d'accueil pour offrir un accès visuel facile aux fonctionnalités de Joomla comme alternative à l'utilisation des menus de l'administrateur. Certaines des icônes rapides obtiennent des informations supplémentaires après l'affichage initial. Les plugins sont utilisés pour obtenir ces informations supplémentaires. Par exemple, voici le panneau de vérification des mises à jour montrant que deux mises à jour d'extensions sont disponibles.
 
-![Panneau de vérification des mises à jour du tableau de bord d'accueil](../../../en/images/plugins/plugin-group-quick-icon-update-checks.png)
+![Panneau de vérification des mises à jour du tableau de bord d'accueil](../../../en/images/plugins/plugin-group-quick-icon/01-plugin-group-quick-icon-update-checks.png)
 
 Si vous regardez attentivement le chargement ou le rechargement de la page, vous verrez les icônes changer de couleur, passant du bleu au vert ou au rouge, indiquant respectivement s’ils sont à jour ou non. Si vous désactivez un plugin, il n'apparaîtra pas sur le tableau de bord d'accueil.
 
@@ -13,7 +13,7 @@ Si vous regardez attentivement le chargement ou le rechargement de la page, vous
 
 Vérifie les mises à jour de vos extensions tierces installées et vous en informe lorsque vous visitez la page du tableau de bord d'accueil.
 
-![Formulaire de modification de la notification des mises à jour des extensions Joomla](../../../en/images/plugins/plugin-group-quick-icon-extensions-updates-notification.png)
+![Formulaire de modification de la notification des mises à jour des extensions Joomla](../../../en/images/plugins/plugin-group-quick-icon/02-plugin-group-quick-icon-extensions-updates-notification.png)
 
 - **Groupe** Le groupe de ce plugin (cette valeur est comparée avec le groupe utilisé dans les modules d'icônes rapides pour injecter des icônes).
 
@@ -31,7 +31,7 @@ Vérifie les demandes de confidentialité qui doivent être traitées et vous en
 
 Vérifie les mises à jour de Joomla et vous en informe lorsque vous visitez la page du tableau de bord d'accueil.
 
-![Formulaire de modification de la notification des mises à jour Joomla](../../../en/images/plugins/plugin-group-quick-icon-joomla-update-notification.png)
+![Formulaire de modification de la notification des mises à jour Joomla](../../../en/images/plugins/plugin-group-quick-icon/03-plugin-group-quick-icon-joomla-update-notification.png)
 
 - **Groupe** Le groupe de ce plugin (cette valeur est comparée avec le groupe utilisé dans les modules d'icônes rapides pour injecter des icônes).
 

@@ -22,7 +22,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide distinc
 
 ## Capture d'écran
 
-![Éléments de référence et de cible côte à côte](../../../fr/images/multilingual-associations/multilingual-associations-edit.png)
+![Éléments de référence et de cible côte à côte](../../../fr/images/multilingual-associations/multilingual-associations-edit/01-multilingual-associations-edit.png)
 
 Dans cet exemple, les éléments sont des Articles. Chacun est une fenêtre défilante avec les options de l'élément sous la zone d'édition de texte (non affichée).
 

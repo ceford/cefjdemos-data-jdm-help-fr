@@ -23,7 +23,7 @@ Certains éléments de cette page sont abordés dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![modules état multilingue onglet module](../../../fr/images/modules-admin/modules-multilingual-status-module-tab.png)
+![modules état multilingue onglet module](../../../fr/images/modules-admin/admin-modules-multilingual-status/01-modules-multilingual-status-module-tab.png)
 
 ## Champs de Formulaire
 

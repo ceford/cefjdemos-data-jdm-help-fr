@@ -20,7 +20,7 @@ Sélectionnez **Composants → Liens Web → Liens** depuis le menu de l'Adm
 
 ## Capture d'écran
 
-![liste de liens web](../../../fr/images/weblinks/weblinks-list.png)
+![liste de liens web](../../../fr/images/weblinks/weblinks-links/01-weblinks-list.png)
 
 *Traduit par openai.com*
 

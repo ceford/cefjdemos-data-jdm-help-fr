@@ -14,7 +14,7 @@ La page *Templates : Personnaliser* est utilisée pour modifier le code source d
 
 Les écrans des Templates du site et des Templates de l'administrateur utilisent la même disposition. L'écran des Templates du site est illustré ici.
 
-![personnalisation des templates onglet cassiopeia éditeur](../../../fr/images/templates/templates-customise-cassiopeia-editor-tab.png)
+![personnalisation des templates onglet cassiopeia éditeur](../../../fr/images/templates/templates-customise/01-templates-customise-cassiopeia-editor-tab.png)
 
 ## Champs de formulaire
 
@@ -24,14 +24,14 @@ Les écrans des Templates du site et des Templates de l'administrateur utilisent
 
 ### Onglet Créer des surcharges
 
-![personnalisation des templates onglet cassiopeia créer des surcharges](../../../fr/images/templates/templates-customise-cassiopeia-create-overrides-tab.png)
+![personnalisation des templates onglet cassiopeia créer des surcharges](../../../fr/images/templates/templates-customise/02-templates-customise-cassiopeia-create-overrides-tab.png)
 
 - Sélectionnez un élément à surcharger. Les éléments marqués d'une icône de fichier plein s'ouvrent pour révéler une liste d'éléments. Les éléments marqués d'icônes de page superposées (ouverte et remplie) créent immédiatement une surcharge sans demander de confirmation. La surcharge est placée à l'emplacement approprié. Un message de confirmation apparaît, par exemple :
   *Surcharge créée dans /templates/cassiopeia/html/mod_whosonline*.
 
 ### Onglet Fichiers mis à jour
 
-![personnalisation des templates onglet cassiopeia fichiers mis à jour](../../../fr/images/templates/templates-customise-cassiopeia-updated-files-tab.png)
+![personnalisation des templates onglet cassiopeia fichiers mis à jour](../../../fr/images/templates/templates-customise/03-templates-customise-cassiopeia-updated-files-tab.png)
 
 Si aucune mise à jour du template n'a eu lieu depuis la création des surcharges, cet onglet contiendra un message simple :
 
@@ -44,7 +44,7 @@ Si des mises à jour ont eu lieu, un tableau affichera une liste des surcharges 
 
 ### Onglet Description du template
 
-![personnalisation des templates onglet cassiopeia description du template](../../../fr/images/templates/templates-customise-cassiopeia-template-description-tab.png)
+![personnalisation des templates onglet cassiopeia description du template](../../../fr/images/templates/templates-customise/04-templates-customise-cassiopeia-template-description-tab.png)
 
 - **Vignette et description** Informations sur ce template.
 

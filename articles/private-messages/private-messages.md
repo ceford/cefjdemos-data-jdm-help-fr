@@ -19,7 +19,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![messages privés](../../../fr/images/private-messages/private-messages.png)
+![messages privés](../../../fr/images/private-messages/private-messages/01-private-messages.png)
 
 
 ## Conseils

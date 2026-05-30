@@ -18,7 +18,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![Redirige les liens](../../../fr/images/redirects/redirects-edit.png)
+![Redirige les liens](../../../fr/images/redirects/redirects-new-or-edit/01-redirects-edit.png)
 
 ## Champs de formulaire
 

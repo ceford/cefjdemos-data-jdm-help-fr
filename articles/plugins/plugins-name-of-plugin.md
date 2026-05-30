@@ -51,7 +51,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![Onglet du plugin Plugins](../../../fr/images/plugins/plugins-plugin-tab.png)
+![Onglet du plugin Plugins](../../../fr/images/plugins/plugins-name-of-plugin/01-plugins-plugin-tab.png)
 
 ## Champs de Formulaire
 

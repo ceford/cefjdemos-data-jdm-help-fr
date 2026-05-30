@@ -40,7 +40,7 @@ Une seule méthode est nécessaire pour installer une extension donnée. La proc
 
 ## Onglet Télécharger le fichier du package
 
-![Onglet installer extension télécharger le fichier du package](../../../fr/images/extensions/install-upload-package-file.png)
+![Onglet installer extension télécharger le fichier du package](../../../fr/images/extensions/extensions-install/01-install-upload-package-file.png)
 
 - Faites glisser et déposez ou parcourez jusqu'à l'emplacement où vous avez téléchargé le fichier d'archive de l'extension.
 
@@ -48,7 +48,7 @@ Le téléchargement commence automatiquement. Notez la **Taille maximale de tél
 
 ## Onglet Installer depuis un dossier
 
-![Onglet installer extension depuis un dossier](../../../fr/images/extensions/install-from-folder.png)
+![Onglet installer extension depuis un dossier](../../../fr/images/extensions/extensions-install/02-install-from-folder.png)
 
 1.  Créez un répertoire temporaire sur votre disque dur local et décompressez le fichier d'archive de l'extension dans ce répertoire temporaire.
 2.  Utilisez FTP pour télécharger le contenu de ce répertoire (y compris les fichiers et sous-répertoires) vers un répertoire sur votre serveur.
@@ -59,7 +59,7 @@ Notez qu'il est courant de placer le dossier contenant votre extension décompre
 
 ## Onglet Installer depuis une URL
 
-![Onglet installer extension depuis une URL](../../../fr/images/extensions/install-from-url.png)
+![Onglet installer extension depuis une URL](../../../fr/images/extensions/extensions-install/03-install-from-url.png)
 
 Au lieu de télécharger le fichier d'archive sur votre ordinateur local, spécifiez simplement l'URL du fichier d'archive cible. Ensuite, cliquez sur le bouton "Vérifier et installer" et Joomla! l'installera automatiquement directement depuis cette URL. *Notez qu'avec cette méthode, vous n'aurez pas de copie du fichier d'archive sur votre ordinateur local.*
 
@@ -67,7 +67,7 @@ Au lieu de télécharger le fichier d'archive sur votre ordinateur local, spéci
 
 Pour installer une extension directement depuis le Joomla Extension Directory (JED). Vous pouvez sélectionner des extensions à lister par catégorie ou vous pouvez rechercher par nom partiel.
 
-![Onglet installer extension depuis le Web](../../../fr/images/extensions/install-from-web.png)
+![Onglet installer extension depuis le Web](../../../fr/images/extensions/extensions-install/04-install-from-web.png)
 
 ## Conseils
 

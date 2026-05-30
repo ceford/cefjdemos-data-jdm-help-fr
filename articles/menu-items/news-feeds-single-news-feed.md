@@ -32,7 +32,7 @@ Pour éditer un élément de menu "Single News Feed" existant :
 
 ## Capture d'écran
 
-![Détail de l'onglet d'un article unique dans le flux d'actualités du menu](../../../fr/images/menu-items/news-feeds-single-news-feed-details-tab.png)
+![Détail de l'onglet d'un article unique dans le flux d'actualités du menu](../../../fr/images/menu-items/news-feeds-single-news-feed/01-news-feeds-single-news-feed-details-tab.png)
 
 ## Champs de formulaire
 
@@ -41,7 +41,7 @@ Pour éditer un élément de menu "Single News Feed" existant :
 
 ### Onglet Options d'affichage du flux
 
-![Onglet des détails d'un élément de menu pour un flux de nouvelles unique](../../../fr/images/menu-items/news-feeds-single-news-feed-feed-display-options-tab.png)
+![Onglet des détails d'un élément de menu pour un flux de nouvelles unique](../../../fr/images/menu-items/news-feeds-single-news-feed/02-news-feeds-single-news-feed-feed-display-options-tab.png)
 
 En plus des options Oui/Non ou Masquer/Afficher, vous pouvez sélectionner l'option "Utiliser les paramètres globaux". Cela utilise la valeur par défaut de l'écran des options des flux de nouvelles.
 

@@ -25,7 +25,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![Liste de découverte des extensions](../../../fr/images/extensions/discover-list.png)
+![Liste de découverte des extensions](../../../fr/images/extensions/extensions-discover/01-discover-list.png)
 
 ## En-têtes de colonne
 

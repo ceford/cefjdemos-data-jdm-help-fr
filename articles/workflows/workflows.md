@@ -29,7 +29,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![liste des flux de travail](../../../fr/images/workflows/workflows-list.png)
+![liste des flux de travail](../../../fr/images/workflows/workflows/01-workflows-list.png)
 
 ## En-têtes de colonnes
 

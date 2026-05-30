@@ -25,7 +25,7 @@ Il existe deux manières d'accéder à la page de liste des Catégories :
 
 ## Capture d'écran
 
-![Articles : Liste des catégories](../../../fr/images/articles/articles-categories-list.png)
+![Articles : Liste des catégories](../../../fr/images/articles/articles-categories/01-articles-categories-list.png)
 
 ## En-têtes des colonnes
 

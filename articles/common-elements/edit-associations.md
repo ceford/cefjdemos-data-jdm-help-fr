@@ -8,7 +8,7 @@ L'onglet Associations permet de faire cela dans le formulaire de modification de
 
 ## Exemple : Articles : Onglet Modifier les Associations
 
-![Onglet modifier les associations de l'article](../../../fr/images/common-elements/articles-edit-association-tab.png)
+![Onglet modifier les associations de l'article](../../../fr/images/common-elements/edit-associations/01-articles-edit-association-tab.png)
 
 Dans cette illustration, un article a été créé en allemand. C'est celui qui est en cours de modification. La liste des associations montre les langues disponibles autres que l'allemand. Une association avec le même article en anglais a été faite. Elle peut être éditée ou effacée. Des associations avec le même article dans d'autres langues peuvent être faites en choisissant un article parmi ceux déjà disponibles ou en créant un nouvel article.
 

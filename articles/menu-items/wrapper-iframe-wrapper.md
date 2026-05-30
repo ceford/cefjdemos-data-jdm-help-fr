@@ -33,13 +33,13 @@ Pour modifier un élément de menu *IFrame Wrapper* existant :
 
 ## Capture d'écran
 
-![Onglet de détails de l'encapsuleur d'iframe](../../../fr/images/menu-items/wrapper-iframe-wrapper-details-tab.png)
+![Onglet de détails de l'encapsuleur d'iframe](../../../fr/images/menu-items/wrapper-iframe-wrapper/01-wrapper-iframe-wrapper-details-tab.png)
 
 ## Champs de Formulaire
 
 ### Onglet des Paramètres de la Barre de Défilement
 
-![Onglet des paramètres de la barre de défilement du wrapper Iframe](../../../fr/images/menu-items/wrapper-scroll-bar-parameters-tab.png)
+![Onglet des paramètres de la barre de défilement du wrapper Iframe](../../../fr/images/menu-items/wrapper-iframe-wrapper/02-wrapper-scroll-bar-parameters-tab.png)
 
 - **Largeur** Largeur de la fenêtre IFrame. Entrez un nombre de pixels ou un
   pourcentage. Par exemple, *550* signifie 550 pixels ; *75%* signifie 75% de la
@@ -50,7 +50,7 @@ Pour modifier un élément de menu *IFrame Wrapper* existant :
 
 ### Onglet Avancé
 
-![Onglet avancé du wrapper Iframe](../../../fr/images/menu-items/wrapper-advanced-tab.png)
+![Onglet avancé du wrapper Iframe](../../../fr/images/menu-items/wrapper-iframe-wrapper/03-wrapper-advanced-tab.png)
 
 - **Hauteur automatique** Définir automatiquement la hauteur à celle de la page externe.
   *Remarque* - cela ne fonctionnera que si la page externe se trouve sur le **même

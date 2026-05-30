@@ -22,7 +22,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide distinc
 
 ## Capture d'écran
 
-![Liste des mises à jour des extensions](../../../fr/images/extensions/update-list.png)
+![Liste des mises à jour des extensions](../../../fr/images/extensions/extensions-update/01-update-list.png)
 
 ## Conseils
 

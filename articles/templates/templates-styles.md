@@ -20,4 +20,4 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![Liste des styles des templates du site](../../../fr/images/templates/templates-site-styles-list.png)
+![Liste des styles des templates du site](../../../fr/images/templates/templates-styles/01-templates-site-styles-list.png)

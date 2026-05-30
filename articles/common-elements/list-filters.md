@@ -8,7 +8,7 @@ Par exemple, les éléments mis à la corbeille ne sont généralement pas affic
 
 ## Options de Filtrage de la Liste des Articles
 
-![Liste des articles](../../../fr/images/common-elements/articles-list-filter-options.png)
+![Liste des articles](../../../fr/images/common-elements/list-filters/01-articles-list-filter-options.png)
 
 Pour **afficher** ou **masquer** les options, sélectionnez le bouton **Options de Filtre**. Notez que les Options sont toujours affichées lorsque vous revenez sur une page dans laquelle une Option a été sélectionnée.
 

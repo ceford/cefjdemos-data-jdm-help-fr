@@ -21,7 +21,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés 
 
 ## Capture d'écran
 
-![options de modèles onglet modèles](../../../fr/images/templates/templates-options-templates-tab.png)
+![options de modèles onglet modèles](../../../fr/images/templates/template-options/01-templates-options-templates-tab.png)
 
 ## Champs de formulaire
 

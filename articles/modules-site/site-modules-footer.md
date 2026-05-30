@@ -26,7 +26,7 @@ Certains éléments de cette page sont traités dans des articles d'aide distinc
 
 ## Capture d'écran
 
-![onglet module de pied de page](../../../fr/images/modules-site/modules-footer-module-tab.png)
+![onglet module de pied de page](../../../fr/images/modules-site/site-modules-footer/01-modules-footer-module-tab.png)
 
 ## Champs de Formulaire
 

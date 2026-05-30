@@ -33,7 +33,7 @@ Pour éditer un élément de menu *Rappel de nom d'utilisateur* existant :
 
 ## Capture d'écran
 
-![Onglet des détails du profil utilisateur](../../../fr/images/menu-items/users-username-reminder-request-details-tab.png)
+![Onglet des détails du profil utilisateur](../../../fr/images/menu-items/users-username-reminder-request/01-users-username-reminder-request-details-tab.png)
 
 Tous les champs de saisie du formulaire sont couverts dans les *Éléments Communs*.
 

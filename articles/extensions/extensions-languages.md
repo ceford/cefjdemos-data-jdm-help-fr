@@ -22,7 +22,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide distinc
 
 ## Capture d'écran
 
-![Installer des langues des extensions](../../../fr/images/extensions/languages-install.png)
+![Installer des langues des extensions](../../../fr/images/extensions/extensions-languages/01-languages-install.png)
 
 ## En-têtes de colonnes
 

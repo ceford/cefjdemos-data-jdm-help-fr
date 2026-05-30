@@ -25,7 +25,7 @@ Certains éléments de cette page sont expliqués dans des articles d'aide disti
 
 ## Capture d'écran
 
-![modules des utilisateurs connectés onglet module](../../../fr/images/modules-admin/modules-logged-in-users-module-tab.png)
+![modules des utilisateurs connectés onglet module](../../../fr/images/modules-admin/admin-modules-logged-in-users/01-modules-logged-in-users-module-tab.png)
 
 ## Champs de Formulaire
 

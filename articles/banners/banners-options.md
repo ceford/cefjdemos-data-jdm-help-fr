@@ -20,7 +20,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide distinc
 
 ## Capture d'écran
 
-![Options des bannières onglet client](../../../fr/images/banners/banners-options-client-tab.png)
+![Options des bannières onglet client](../../../fr/images/banners/banners-options/01-banners-options-client-tab.png)
 
 ## Champs de Formulaire
 
@@ -42,7 +42,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide distinc
 Cette section vous permet de définir les options d'historique des versions pour les Bannières,
 les Clients de Bannières et les Catégories de Bannières.
 
-![Onglet historique des options des Bannières](../../../fr/images/banners/banners-options-history-tab.png)
+![Onglet historique des options des Bannières](../../../fr/images/banners/banners-options/02-banners-options-history-tab.png)
 
 - **Activer les Versions** Indiquez si vous souhaitez enregistrer l'historique des versions
   pour ce composant. Si Non, l'historique des versions ne sera pas enregistré pour

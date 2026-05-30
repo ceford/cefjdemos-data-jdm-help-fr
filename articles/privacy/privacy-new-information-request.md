@@ -17,7 +17,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![nouvelle demande d'information](../../../fr/images/privacy/privacy-new-information-request.png)
+![nouvelle demande d'information](../../../fr/images/privacy/privacy-new-information-request/01-privacy-new-information-request.png)
 
 ## Champs du formulaire
 

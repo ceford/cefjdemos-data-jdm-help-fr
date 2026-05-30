@@ -19,7 +19,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés 
 
 ## Capture d'écran
 
-![Base de données de maintenance](../../../fr/images/maintenance/maintenance-database.png)
+![Base de données de maintenance](../../../fr/images/maintenance/maintenance-database/01-maintenance-database.png)
 
 ## En-têtes de colonne
 

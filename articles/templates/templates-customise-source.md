@@ -18,7 +18,7 @@ La page *Templates : Personnaliser la Source* est l'endroit où le code source d
 
 ## Capture d'écran
 
-![Personnalisation des modèles avec l'onglet de l'éditeur de Cassiopeia](../../../fr/images/templates/templates-customise-cassiopeia-edit-component-editor-tab.png)
+![Personnalisation des modèles avec l'onglet de l'éditeur de Cassiopeia](../../../fr/images/templates/templates-customise-source/01-templates-customise-cassiopeia-edit-component-editor-tab.png)
 
 
 ## Champs de formulaire

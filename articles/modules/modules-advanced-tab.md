@@ -6,7 +6,7 @@ L'onglet Module : Avancé est utilisé avec quelques variations mineures dans to
 
 ## Capture d'écran
 
-![Onglet avancé des modules](../../../fr/images/modules/modules-custom-advanced-tab.png)
+![Onglet avancé des modules](../../../fr/images/modules/modules-advanced-tab/01-modules-custom-advanced-tab.png)
 
 ## Champs de Formulaire
 

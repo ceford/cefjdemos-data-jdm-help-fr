@@ -20,7 +20,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide distinc
 
 ## Capture d'écran
 
-![mettre à jour la liste des sites](../../../fr/images/update-sites/update-sites-list.png)
+![mettre à jour la liste des sites](../../../fr/images/update-sites/update-sites/01-update-sites-list.png)
 
 *Traduit par openai.com*
 

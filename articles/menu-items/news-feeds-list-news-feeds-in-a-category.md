@@ -33,13 +33,13 @@ Pour éditer un élément de menu existant Lister les flux d'actualités dans un
 
 ## Capture d'écran
 
-![Liste des éléments du menu Flux de nouvelles dans l'onglet Détails d'une catégorie](../../../fr/images/menu-items/news-feeds-list-newsfeeds-in-a-category-details-tab.png)
+![Liste des éléments du menu Flux de nouvelles dans l'onglet Détails d'une catégorie](../../../fr/images/menu-items/news-feeds-list-news-feeds-in-a-category/01-news-feeds-list-newsfeeds-in-a-category-details-tab.png)
 
 ## Champs de formulaire
 
 ### Onglet Options d'affichage du flux
 
-![Liste des éléments de menu Flux d'actualités dans un onglet de détails de catégorie](../../../fr/images/menu-items/news-feeds-list-newfeeds-in-a-category-feed-display-options-tab.png)
+![Liste des éléments de menu Flux d'actualités dans un onglet de détails de catégorie](../../../fr/images/menu-items/news-feeds-list-news-feeds-in-a-category/02-news-feeds-list-newfeeds-in-a-category-feed-display-options-tab.png)
 
 - **Image du flux** Afficher ou masquer l'image des flux d'actualités.
 - **Description du flux** Afficher ou masquer la description du flux d'actualités.

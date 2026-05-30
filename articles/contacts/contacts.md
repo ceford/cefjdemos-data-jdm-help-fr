@@ -24,4 +24,4 @@ Certains éléments de cette page sont couverts dans des articles d'aide distinc
 
 ## Capture d'écran
 
-![Liste des contacts](../../../fr/images/contacts/contacts-list.png)
+![Liste des contacts](../../../fr/images/contacts/contacts/01-contacts-list.png)

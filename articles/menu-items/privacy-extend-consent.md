@@ -33,7 +33,7 @@ Pour modifier un élément de menu Extend Consent existant :
 
 ## Capture d'écran
 
-![Détail de l'onglet Créer une demande de confidentialité dans le menu](../../../fr/images/menu-items/privacy-extend-consent-details-tab.png)
+![Détail de l'onglet Créer une demande de confidentialité dans le menu](../../../fr/images/menu-items/privacy-extend-consent/01-privacy-extend-consent-details-tab.png)
 
 Tous les champs de saisie du formulaire sont abordés dans les *Éléments Communs*.
 

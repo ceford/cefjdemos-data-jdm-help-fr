@@ -6,13 +6,13 @@ Sélectionnez le bouton Options dans la barre d'outils pour configurer les tâch
 
 ### Configurer l'onglet Tâches
 
-![task timeout setting](../../../fr/images/maintenance/scheduled-tasks-options-configure-tasks.png)
+![task timeout setting](../../../fr/images/maintenance/scheduled-tasks-configuration/01-scheduled-tasks-options-configure-tasks.png)
 
 - **Délai d'attente de la tâche** La valeur par défaut est de 300 secondes.
 
 ### Onglet Planificateur Paresseux
 
-![lazy schedule setting](../../../fr/images/maintenance/scheduled-tasks-options-lazy-scheduler.png)
+![lazy schedule setting](../../../fr/images/maintenance/scheduled-tasks-configuration/02-scheduled-tasks-options-lazy-scheduler.png)
 
 - **Activé** Les tâches sont déclenchées par les visiteurs du site.
 - **Désactivé** Les tâches doivent être déclenchées par une tâche cron externe.
@@ -20,7 +20,7 @@ Sélectionnez le bouton Options dans la barre d'outils pour configurer les tâch
 
 ### Onglet Web Cron
 
-![web cron setting](../../../fr/images/maintenance/scheduled-tasks-options-webcron.png)
+![web cron setting](../../../fr/images/maintenance/scheduled-tasks-configuration/03-scheduled-tasks-options-webcron.png)
 
 - **Web Cron** Désactivé est le paramètre par défaut. Activé nécessite un hash pour déclencher la tâche. Avant la première sauvegarde, un message indique qu'une clé est requise. Après la sauvegarde, il y a un champ contenant une URL de lien Webcron à copier.
 

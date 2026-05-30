@@ -28,7 +28,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![onglet module tags populaires](../../../fr/images/modules-site/modules-tags-popular-module-tab.png)
+![onglet module tags populaires](../../../fr/images/modules-site/site-modules-tags-popular/01-modules-tags-popular-module-tab.png)
 
 ## Champs de Formulaire
 

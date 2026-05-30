@@ -25,7 +25,7 @@ Naviguez jusqu'à la liste des Catégories de Bannières :
 
 ## Capture d'écran
 
-![Modifier la catégorie des bannières](../../../fr/images/banners/banners-edit-category-category-tab.png)
+![Modifier la catégorie des bannières](../../../fr/images/banners/banners-edit-category/01-banners-edit-category-category-tab.png)
 
 Voir les Éléments Communs pour plus d'informations.
 

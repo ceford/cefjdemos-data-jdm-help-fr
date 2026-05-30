@@ -19,7 +19,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés 
 
 ## Capture d'écran
 
-![tableau de bord d'accueil](../../../fr/images/site/system-information-tab.png)
+![tableau de bord d'accueil](../../../fr/images/site/site-system-information/01-system-information-tab.png)
 
 ## Onglets de Formulaire
 
@@ -51,7 +51,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés 
 
 ### Onglet de Paramètres PHP
 
-![tableau de bord accueil](../../../fr/images/site/php-settings-tab.png)
+![tableau de bord accueil](../../../fr/images/site/site-system-information/02-php-settings-tab.png)
 
 Cet écran affiche les informations des paramètres PHP. Si l'un d'entre eux
 est mis en évidence comme incorrect, il doit être corrigé.
@@ -76,7 +76,7 @@ est mis en évidence comme incorrect, il doit être corrigé.
 
 ### Onglet Fichier de Configuration
 
-![tableau de bord accueil](../../../fr/images/site/configuration-file-tab.png)
+![tableau de bord accueil](../../../fr/images/site/site-system-information/03-configuration-file-tab.png)
 
 Cet onglet affiche le contenu du fichier *configuration.php* actuel de Joomla! 
 qui est stocké dans le répertoire `path-to-joomla-root`. Ce fichier est créé automatiquement
@@ -88,7 +88,7 @@ apporter des modifications.
 
 ### Onglet Permissions des Dossiers
 
-![tableau de bord accueil](../../../fr/images/site/folder-permissions-tab.png)
+![tableau de bord accueil](../../../fr/images/site/site-system-information/04-folder-permissions-tab.png)
 
 Cet onglet affiche une liste des répertoires auxquels le serveur web doit
 avoir accès en écriture. Veuillez noter que tous les répertoires listés sur cette
@@ -98,7 +98,7 @@ configuration.php est inclus et affiché comme **Unwritable**.
 
 ### Onglet Information PHP
 
-![tableau de bord accueil](../../../fr/images/site/php-information-tab.png)
+![tableau de bord accueil](../../../fr/images/site/site-system-information/05-php-information-tab.png)
 
 Cet onglet affiche les paramètres de configuration du langage de script serveur PHP
 utilisé par Joomla!, ainsi que toutes les informations système associées à la 

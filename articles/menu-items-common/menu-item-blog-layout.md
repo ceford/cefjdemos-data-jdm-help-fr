@@ -13,7 +13,7 @@ Tous les éléments du menu ont une disposition similaire, mais certains des cha
 
 ## Capture d'écran
 
-![Onglet disposition du blog de l'élément de menu](../../../fr/images/menu-items-common/articles-category-blog-blog-layout-tab.png)
+![Onglet disposition du blog de l'élément de menu](../../../fr/images/menu-items-common/menu-item-blog-layout/01-articles-category-blog-blog-layout-tab.png)
 
 ## Champs de formulaire
 

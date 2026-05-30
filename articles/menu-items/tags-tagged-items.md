@@ -21,13 +21,13 @@ Pour modifier un élément de menu Éléments Tagués existant :
 
 ## Capture d'écran
 
-![Onglet Détails des éléments tagués](../../../fr/images/menu-items/tags-tagged-items-details-tab.png)
+![Onglet Détails des éléments tagués](../../../fr/images/menu-items/tags-tagged-items/01-tags-tagged-items-details-tab.png)
 
 ## Champs de Formulaire
 
 ### Onglet Options d'Étiquette
 
-![Détails des articles étiquetés onglet options d'étiquette](../../../fr/images/menu-items/tags-tagged-items-tag-options-tab.png)
+![Détails des articles étiquetés onglet options d'étiquette](../../../fr/images/menu-items/tags-tagged-items/02-tags-tagged-items-tag-options-tab.png)
 
 - **Nom de l'Étiquette** Afficher ou masquer le nom de l'étiquette pour une disposition avec une étiquette.
 - **Image de l'Étiquette** Afficher ou masquer l'image de l'étiquette pour une disposition avec une étiquette.
@@ -41,7 +41,7 @@ Pour modifier un élément de menu Éléments Tagués existant :
 
 ### Onglet Options d'Article
 
-![Détails des articles étiquetés onglet options d'article](../../../fr/images/menu-items/tags-tagged-items-item-options-tab.png)
+![Détails des articles étiquetés onglet options d'article](../../../fr/images/menu-items/tags-tagged-items/03-tags-tagged-items-item-options-tab.png)
 
 - **Image de l'Article** Afficher ou masquer l'image pour chaque article.
 - **Description de l'Article** Afficher ou masquer la description pour chaque article de la liste.
@@ -50,7 +50,7 @@ Pour modifier un élément de menu Éléments Tagués existant :
 
 ### Onglet Options de Pagination
 
-![Détails des articles étiquetés onglet options de pagination](../../../fr/images/menu-items/tags-tagged-items-pagination-options-tab.png)
+![Détails des articles étiquetés onglet options de pagination](../../../fr/images/menu-items/tags-tagged-items/04-tags-tagged-items-pagination-options-tab.png)
 
 - **Sélecteur d'Affichage** Afficher ou masquer le contrôle \# qui permet à l'utilisateur de sélectionner le nombre d'articles à afficher dans la liste. Notez que si vous avez un grand nombre d'articles, il peut être utile d'utiliser les options de Filtrage pour limiter les articles affichés.
 - **Pagination** Afficher ou masquer le support de la pagination. La pagination fournit des liens de page en bas de la page qui permettent à l'utilisateur de naviguer vers des pages supplémentaires.
@@ -58,7 +58,7 @@ Pour modifier un élément de menu Éléments Tagués existant :
 
 ### Onglet Options de Sélection d'Article
 
-![Détails des articles étiquetés onglet options de sélection d'article](../../../fr/images/menu-items/tags-tagged-items-item-selection-options-tab.png)
+![Détails des articles étiquetés onglet options de sélection d'article](../../../fr/images/menu-items/tags-tagged-items/05-tags-tagged-items-item-selection-options-tab.png)
 
 - **Type de Correspondance** Tous renverra les articles qui ont toutes les étiquettes. N'importe quel renverra les articles qui ont au moins une des étiquettes.
 - **Étiquettes Enfant** Inclure ou exclure les étiquettes enfant de la liste des résultats pour une étiquette.

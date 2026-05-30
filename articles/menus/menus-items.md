@@ -23,7 +23,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![liste de tous les éléments de menu](../../../fr/images/menus/menus-all-menu-items-list.png)
+![liste de tous les éléments de menu](../../../fr/images/menus/menus-items/01-menus-all-menu-items-list.png)
 
 ## Conseils
 

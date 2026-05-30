@@ -23,7 +23,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide distinc
 
 ## Capture d'écran
 
-![modules login form module tab](../../../fr/images/modules-admin/modules-login-form-module-tab.png)
+![modules login form module tab](../../../fr/images/modules-admin/admin-modules-login-form/01-modules-login-form-module-tab.png)
 
 ## Champs de formulaire
 

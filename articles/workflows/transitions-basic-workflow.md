@@ -30,7 +30,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![liste de flux de travail de transitions de base](../../../fr/images/workflows/transitions-basic-workflow-list.png)
+![liste de flux de travail de transitions de base](../../../fr/images/workflows/transitions-basic-workflow/01-transitions-basic-workflow-list.png)
 
 *Traduit par openai.com*
 

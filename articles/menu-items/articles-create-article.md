@@ -33,7 +33,7 @@ Pour modifier un élément de menu :
 
 ## Capture d'écran
 
-![Onglet Détails Créer un article](../../../fr/images/menu-items/articles-create-article-details-tab.png)
+![Onglet Détails Créer un article](../../../fr/images/menu-items/articles-create-article/01-articles-create-article-details-tab.png)
 
 ## Champs du formulaire
 
@@ -55,7 +55,7 @@ Pour modifier un élément de menu :
 
 ### Options
 
-![Onglet Options Créer un article](../../../fr/images/menu-items/articles-create-article-options-tab.png)
+![Onglet Options Créer un article](../../../fr/images/menu-items/articles-create-article/02-articles-create-article-options-tab.png)
 
 - **Catégorie spécifique**
   - *Oui* Les articles seront attribués à la catégorie spécifiée. L'utilisateur ne pourra pas sélectionner une catégorie.
@@ -69,7 +69,7 @@ Pour modifier un élément de menu :
 
 Cette capture d'écran montre le modèle Frontend par défaut de Joomla **Cassiopeia** avec toutes les options de mise en page d'édition définies sur 'Cacher'.
 
-![articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article-frontend.png)
+![articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article/03-articles-create-article-frontend.png)
 
 ## Conseils
 

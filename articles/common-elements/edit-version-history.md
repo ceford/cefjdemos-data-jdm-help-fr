@@ -14,7 +14,7 @@ Sélectionnez le bouton **Versions** dans la barre d'outils d'une page de modifi
 
 ## Capture d'écran
 
-![Popup de l'historique des versions](../../../fr/images/common-elements/articles-edit-versions.png)
+![Popup de l'historique des versions](../../../fr/images/common-elements/edit-version-history/01-articles-edit-versions.png)
 
 ## En-têtes de Colonne
 

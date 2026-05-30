@@ -18,15 +18,15 @@ De plus, dans le **Système → Panneau de mise à jour → Joomla**, une coche 
 
 Si votre site est à jour, vous verrez cet écran :
 
-![Télécharger & Mettre à jour](../../../en/images/joomla-update/upload-update-up-to-date.png)
+![Télécharger & Mettre à jour](../../../en/images/joomla-update/joomla-update/01-upload-update-up-to-date.png)
 
 Si une mise à jour est disponible, vous verrez cet écran :
 
-![Télécharger & Mettre à jour](../../../en/images/joomla-update/upload-update-available.png)
+![Télécharger & Mettre à jour](../../../en/images/joomla-update/joomla-update/02-upload-update-available.png)
 
 Si vous mettez à jour une version majeure ou mineure, vous verrez un écran de vérification avant mise à jour :
 
-![Vérification avant mise à jour](../../../en/images/joomla-update/upload-update-pre-update-check.png)
+![Vérification avant mise à jour](../../../en/images/joomla-update/joomla-update/03-upload-update-pre-update-check.png)
 
 Sélectionnez chacun des trois éléments du menu pour vérifier si des éléments nécessitent une attention particulière.
 
@@ -42,7 +42,7 @@ Vous pouvez utiliser ce bouton pour mettre à jour Joomla si votre serveur est d
 
 Vous devez avoir les paramètres PHP *upload_max_filesize* et *post_max_size* réglés à 64 Mo et votre limite de mémoire PHP réglée à 256 Mo. Sinon, la mise à jour pourrait échouer. Une bonne raison de faire une sauvegarde !
 
-![télécharger et installer](../../../en/images/joomla-update/upload-update-upload-install.png)
+![télécharger et installer](../../../en/images/joomla-update/joomla-update/04-upload-update-upload-install.png)
 
 ## Options de mise à jour
 
