@@ -27,7 +27,7 @@ Certains éléments de cette page sont traités dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![notes utilisateur nouvel utilisateur ou modification](../../../fr/images/users/user-notes-new-or-edit/01-users-user-notes-new-or-edit.png)
+![notes utilisateur nouvel utilisateur ou modification](../../../fr/images/users/user-notes-new-or-edit/01-edit-form.png)
 
 ## Champs de formulaire
 

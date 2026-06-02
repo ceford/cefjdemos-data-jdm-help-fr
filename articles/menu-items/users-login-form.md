@@ -33,13 +33,13 @@ Pour modifier un élément de menu Formulaire de Connexion existant :
 
 ## Capture d'écran
 
-![Onglet des détails du formulaire de connexion](../../../fr/images/menu-items/users-login-form/01-users-login-form-details-tab.png)
+![Onglet des détails du formulaire de connexion](../../../fr/images/menu-items/users-login-form/01-details-tab.png)
 
 ## Champs de Formulaire
 
 ### Onglet Options
 
-![Onglet des détails du formulaire de connexion](../../../fr/images/menu-items/users-login-form/02-users-login-form-options-tab.png)
+![Onglet des détails du formulaire de connexion](../../../fr/images/menu-items/users-login-form/02-options-tab.png)
 
 #### Panneau de Connexion
 

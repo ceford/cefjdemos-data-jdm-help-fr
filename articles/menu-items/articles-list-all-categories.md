@@ -38,7 +38,7 @@ Pour modifier un élément de menu :
 
 ## Capture d'écran
 
-![Onglet Détails des articles Lister toutes les catégories](../../../fr/images/menu-items/articles-list-all-categories/01-articles-list-all-categories-details-tab.png)
+![Onglet Détails des articles Lister toutes les catégories](../../../fr/images/menu-items/articles-list-all-categories/01-details-tab.png)
 
 ## Champs du formulaire
 
@@ -63,7 +63,7 @@ Pour modifier un élément de menu :
 
 ### Onglet Catégories
 
-![Onglet Catégories des articles Lister toutes les catégories](../../../fr/images/menu-items/articles-list-all-categories/02-articles-list-all-categories-categories-tab.png)
+![Onglet Catégories des articles Lister toutes les catégories](../../../fr/images/menu-items/articles-list-all-categories/02-categories-tab.png)
 
 - **Description de la catégorie de niveau supérieur** Affiche la description de la catégorie de niveau supérieur.
 - **Description alternative** Saisissez une description pour remplacer la description de la catégorie pour cet élément de menu.
@@ -82,7 +82,7 @@ Le formulaire de mise en page du blog a une disposition différente de celle des
 
 Les options partagées s'appliquent pour les options partagées dans les listes, les blogs et les articles en vedette, à moins qu'elles ne soient modifiées par les paramètres du menu.
 
-![Onglet Partagé des articles Lister toutes les catégories](../../../fr/images/menu-items/articles-list-all-categories/03-articles-list-all-categories-shared-tab.png)
+![Onglet Partagé des articles Lister toutes les catégories](../../../fr/images/menu-items/articles-list-all-categories/03-shared-tab.png)
 
 - **Pagination** La pagination fournit des liens en bas de la page qui permettent à l'utilisateur de naviguer vers des pages supplémentaires. Cela est nécessaire si les articles ne tiennent pas sur une seule page.
   - *Masquer* Les liens de pagination ne sont pas affichés. *Note* Les utilisateurs ne pourront pas naviguer vers des pages supplémentaires.

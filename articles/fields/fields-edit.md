@@ -59,7 +59,7 @@ Paramètres pour tous les champs :
 
 ### Onglet Options
 
-![Onglet Options de modification du champ des articles](../../../fr/images/fields/fields-edit/02-articles-edit-field-options-tab.png)
+![Onglet Options de modification du champ des articles](../../../fr/images/fields/fields-edit/02-options-tab.png)
 
 #### Options du formulaire
 

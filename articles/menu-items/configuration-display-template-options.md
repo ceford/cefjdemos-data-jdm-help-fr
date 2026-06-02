@@ -32,11 +32,11 @@ Pour modifier un élément de menu Options du Modèle d'Affichage existant :
 
 ## Capture d'écran
 
-![Onglet détails des options du modèle d'affichage](../../../fr/images/menu-items/configuration-display-template-options/01-configuration-display-template-options-details.png)
+![Onglet détails des options du modèle d'affichage](../../../fr/images/menu-items/configuration-display-template-options/01-details-tab.png)
 
 ## Capture d'écran du Front End
 
-![Options de modèle d'affichage du formulaire front end](../../../en/images/menu-items/configuration-display-template-options/02-configuration-display-template-options-frontend.png)
+![Options de modèle d'affichage du formulaire front end](../../../en/images/menu-items/configuration-display-template-options/02-frontend.png)
 
 *Traduit par openai.com*
 

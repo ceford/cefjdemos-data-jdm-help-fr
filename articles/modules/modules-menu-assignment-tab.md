@@ -6,7 +6,7 @@ L'onglet *Module: Assignation de Menu* est utilisé avec de légères variations
 
 ## Capture d'écran
 
-![Onglet des modules avancés](../../../fr/images/modules/modules-menu-assignment-tab/01-modules-custom-menu-assignment-tab.png)
+![Onglet des modules avancés](../../../fr/images/modules/modules-menu-assignment-tab/01-menu-assignment-tab.png)
 
 ## Champs de Formulaire
 

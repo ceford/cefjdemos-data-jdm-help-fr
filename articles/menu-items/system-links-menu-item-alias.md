@@ -33,7 +33,7 @@ Pour éditer un Élément de Menu existant :
 
 ## Capture d'écran
 
-![Alias de l'élément de menu](../../../fr/images/menu-items/system-links-menu-item-alias/01-system-links-menu-item-alias-details-tab.png)
+![Alias de l'élément de menu](../../../fr/images/menu-items/system-links-menu-item-alias/01-details-tab.png)
 
 Tous les champs de saisie du formulaire sont couverts dans les *Éléments Communs*.
 

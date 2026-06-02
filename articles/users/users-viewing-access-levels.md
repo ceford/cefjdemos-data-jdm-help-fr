@@ -20,7 +20,7 @@ Certains éléments de cette page sont traités dans des articles d'aide distinc
 
 ## Capture d'écran
 
-![niveaux d'accès des utilisateurs](../../../fr/images/users/users-viewing-access-levels/01-users-edit-viewing-access-level-details-tab.png)
+![niveaux d'accès des utilisateurs](../../../fr/images/users/users-viewing-access-levels/01-details-tab.png)
 
 ### Onglet Détails du niveau
 
@@ -29,7 +29,7 @@ Certains éléments de cette page sont traités dans des articles d'aide distinc
 
 ### Onglet Groupes d'utilisateurs avec accès en vue
 
-![niveaux d'accès des utilisateurs](../../../fr/images/users/users-viewing-access-levels/02-users-edit-viewing-access-level-ugwva-tab.png)
+![niveaux d'accès des utilisateurs](../../../fr/images/users/users-viewing-access-levels/02-ugwva-tab.png)
 
 Sélectionnez une case à cocher pour ajouter un groupe d'utilisateurs à un niveau d'accès. Dans l'exemple montré, tous les groupes sont des enfants du groupe Public, il n'est donc pas nécessaire de cocher l'un des groupes enfants. Ils héritent des permissions d'accès publiques. Cette fonctionnalité ne doit être utilisée que pour des groupes personnalisés !
 

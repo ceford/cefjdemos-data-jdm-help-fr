@@ -32,7 +32,7 @@ Pour modifier un élément de menu Créer une Demande existant :
 
 ## Capture d'écran
 
-![Onglet Détails de la demande de création de confidentialité du menu](../../../fr/images/menu-items/privacy-create-request/01-privacy-create-request-details-tab.png)
+![Onglet Détails de la demande de création de confidentialité du menu](../../../fr/images/menu-items/privacy-create-request/01-details-tab.png)
 
 Tous les champs de saisie du formulaire sont expliqués dans les *Éléments Communs*.
 

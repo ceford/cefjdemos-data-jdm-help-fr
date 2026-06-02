@@ -24,7 +24,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![cartes de contenu de recherche intelligente](../../../fr/images/smart-search/smart-search-search-filters/01-smart-search-search-filters.png)
+![cartes de contenu de recherche intelligente](../../../fr/images/smart-search/smart-search-search-filters/01-search-filters.png)
 
 
 *Traduit par openai.com*

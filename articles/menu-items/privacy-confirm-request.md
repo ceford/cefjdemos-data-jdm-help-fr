@@ -33,7 +33,7 @@ Pour modifier un élément de menu Demande de Confirmation existant :
 
 ## Capture d'écran
 
-![Élément de menu Détails de la demande de confirmation de confidentialité](../../../fr/images/menu-items/privacy-confirm-request/01-privacy-confirm-request-details-tab.png)
+![Élément de menu Détails de la demande de confirmation de confidentialité](../../../fr/images/menu-items/privacy-confirm-request/01-details-tab.png)
 
 Tous les champs de saisie du formulaire sont couverts dans les *Éléments Communs*.
 

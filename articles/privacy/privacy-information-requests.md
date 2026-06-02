@@ -28,7 +28,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![demandes d'informations sur la confidentialité](../../../fr/images/privacy/privacy-information-requests/01-privacy-information-requests.png)
+![demandes d'informations sur la confidentialité](../../../fr/images/privacy/privacy-information-requests/01-requests-list.png)
 
 ## En-têtes de Colonne
 

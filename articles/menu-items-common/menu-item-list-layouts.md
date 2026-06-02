@@ -15,7 +15,7 @@ Les paramètres de mise en page des listes varient d'un composant à l'autre. Le
 
 ### Disposition de la liste des catégories d'articles
 
-![Type d'élément de menu Liste des catégories - onglet des dispositions de listes](../../../fr/images/menu-items/menu-item-list-layouts/01-articles-category-list-list-layouts-tab.png)
+![Type d'élément de menu Liste des catégories - onglet des dispositions de listes](../../../fr/images/menu-items-common/menu-item-list-layouts/01-articles-category-list-list-layouts-tab.png)
 
 - **Display Select** Afficher ou masquer le contrôle Display \# qui permet à l'utilisateur de sélectionner le nombre d'articles à afficher.
 - **Champ de filtrage** Afficher ou masquer un champ de texte dans le Frontend où un utilisateur peut filtrer les articles.
@@ -69,7 +69,7 @@ Les paramètres de mise en page des listes varient d'un composant à l'autre. Le
 
 ### Disposition de la liste des contacts en vedette
 
-![Onglet des dispositions de listes de contacts en vedette](../../../fr/images/menu-items/menu-item-list-layouts/02-contacts-featured-contacts-list-layouts-tab.png)
+![Onglet des dispositions de listes de contacts en vedette](../../../fr/images/menu-items-common/menu-item-list-layouts/02-contacts-featured-contacts-list-layouts-tab.png)
 
 - **Champ de filtrage** Afficher ou masquer le filtre de la liste.
 - **Display Select** Afficher ou masquer le nombre d'éléments à afficher dans la liste.
@@ -93,7 +93,7 @@ Les paramètres de mise en page des listes varient d'un composant à l'autre. Le
 
 ### Dispositions de la liste des flux d'actualités
 
-![Onglet des dispositions de la liste des catégories de flux de nouvelles](../../../fr/images/menu-items/menu-item-list-layouts/03-news-feeds-list-all-categories-tree-list-layouts-tab.png)
+![Onglet des dispositions de la liste des catégories de flux de nouvelles](../../../fr/images/menu-items-common/menu-item-list-layouts/03-news-feeds-list-layouts-tab.png)
 
 - **Champ de filtrage** Afficher ou masquer un champ de filtrage pour la liste.
 - **Display Select** Afficher ou masquer le contrôle Display \# qui permet à l'utilisateur de sélectionner le nombre d'éléments à afficher dans la liste.
@@ -110,7 +110,7 @@ Les paramètres de mise en page des listes varient d'un composant à l'autre. Le
 
 ### Dispositions de la liste des étiquettes
 
-![Liste compacte des éléments étiquetés détails onglet](../../../fr/images/menu-items/menu-item-list-layouts/04-tags-compact-list-of-tagged-items-list-layouts-tab.png)
+![Liste compacte des éléments étiquetés détails onglet](../../../fr/images/menu-items-common/menu-item-list-layouts/04-tags-list-layouts-tab.png)
 
 - **Image de l'élément** Afficher ou masquer l'image de chaque élément.
 - **Description de l'élément** Afficher ou masquer la description de chaque élément dans la liste. La longueur peut être limitée en utilisant l'option Nombre maximum de caractères.

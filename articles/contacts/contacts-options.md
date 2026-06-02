@@ -19,7 +19,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide distincts 
 
 ## Capture d'écran
 
-![Capture d'écran des options des contacts](../../../fr/images/contacts/contacts-options/01-contacts-options-contact-tab.png)
+![Capture d'écran des options des contacts](../../../fr/images/contacts/contacts-options/01-contact-tab.png)
 
 ## Champs de Formulaire
 
@@ -68,7 +68,7 @@ Ces paramètres s'appliquent à un seul contact sauf s'ils sont modifiés pour u
 
 ### Onglet Icônes
 
-![Onglet icônes des options des contacts](../../../fr/images/contacts/contacts-options/02-contacts-options-icons-tab.png)
+![Onglet icônes des options des contacts](../../../fr/images/contacts/contacts-options/02-icons-tab.png)
 
 Ces paramètres s'appliquent à un seul contact sauf s'ils sont modifiés pour un élément de menu spécifique ou un contact.
 
@@ -84,7 +84,7 @@ Ces paramètres s'appliquent à un seul contact sauf s'ils sont modifiés pour u
 
 Les options de catégorie contrôlent comment les contacts seront affichés lorsque vous accédez à une catégorie pour voir ses contacts.
 
-![Onglet catégorie des options des contacts](../../../fr/images/contacts/contacts-options/03-contacts-options-category-tab.png)
+![Onglet catégorie des options des contacts](../../../fr/images/contacts/contacts-options/03-category-tab.png)
 
 - **Choisir une Mise en Page** (Blog/Liste/défini par l'utilisateur). Cela vous permet de sélectionner la mise en page par défaut à afficher lorsque vous cliquez sur un lien de catégorie. Si vous créez une mise en page alternative pour une mise en page de catégorie, vous pouvez la sélectionner comme mise en page par défaut.
 - **Titre de la Catégorie** Afficher ou masquer le titre de la catégorie.
@@ -100,13 +100,13 @@ Les options de catégorie contrôlent comment les contacts seront affichés lors
 
 Ces paramètres s'appliquent aux options des catégories de contact sauf s'ils sont modifiés pour un élément de menu spécifique.
 
-![Onglet catégories des options des contacts](../../../fr/images/contacts/contacts-options/04-contacts-options-categories-tab.png)
+![Onglet catégories des options des contacts](../../../fr/images/contacts/contacts-options/04-categories-tab.png)
 
 ### Onglet Dispositions des Listes
 
 Ces paramètres s'appliquent aux options de liste de contacts sauf s'ils sont modifiés pour un élément de menu spécifique.
 
-![Onglet dispositions des listes des options des contacts](../../../fr/images/contacts/contacts-options/05-contacts-options-list-layouts-tab.png)
+![Onglet dispositions des listes des options des contacts](../../../fr/images/contacts/contacts-options/05-list-layouts-tab.png)
 
 - **Champ de Filtrage** Le champ de filtrage crée un champ de texte où un utilisateur peut entrer un champ à utiliser pour filtrer les articles affichés dans la liste. Les options possibles pour ceci (dans l'édition des éléments de menu back-end) sont indiquées ci-dessous.
     - *Masquer* Ne pas afficher un champ de filtrage.
@@ -136,7 +136,7 @@ Ces paramètres s'appliquent aux options de liste de contacts sauf s'ils sont mo
 
 Ces paramètres s'appliquent à un seul contact sauf s'ils sont modifiés pour un élément de menu spécifique ou un contact.
 
-![Onglet formulaire des options des contacts](../../../fr/images/contacts/contacts-options/06-contacts-options-form-tab.png)
+![Onglet formulaire des options des contacts](../../../fr/images/contacts/contacts-options/06-form-tab.png)
 
 - **Autoriser le Captcha sur le Contact** Utiliser la valeur par défaut ou aucun sélectionné. Sélectionnez le plugin captcha qui sera utilisé dans le formulaire de contact. Captcha est le nom d'une technique pour prévenir les inscriptions d'utilisateurs par spam en demandant à un utilisateur de saisir des caractères à partir d'une image déformée ou de marquer *Je ne suis pas un robot*. Il se peut que vous deviez entrer des informations supplémentaires pour votre plugin Captcha dans le gestionnaire de plugins.
 - **Formulaire de Contact** Afficher ou masquer le formulaire de contact.

@@ -33,7 +33,7 @@ Pour modifier un élément de menu Créer un Contact existant :
 
 ## Capture d'écran
 
-![Élément de menu Créer un contact](../../../fr/images/menu-items/contacts-create-contact/01-contacts-create-contact-details-tab.png)
+![Élément de menu Créer un contact](../../../fr/images/menu-items/contacts-create-contact/01-details-tab.png)
 
 ## Champs de formulaire
 

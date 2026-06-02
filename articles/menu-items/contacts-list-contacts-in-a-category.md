@@ -34,7 +34,7 @@ Pour modifier un élément de menu **Lister les contacts dans une catégorie** e
 
 ## Capture d'écran
 
-![Liste des éléments de menu Contacts dans l'onglet des détails d'une catégorie](../../../fr/images/menu-items/contacts-list-contacts-in-a-category/01-contacts-list-contacts-in-a-category-details-tab.png)
+![Liste des éléments de menu Contacts dans l'onglet des détails d'une catégorie](../../../fr/images/menu-items/contacts-list-contacts-in-a-category/01-details-tab.png)
 
 ## Champs de Formulaire
 
@@ -48,7 +48,7 @@ Pour modifier un élément de menu **Lister les contacts dans une catégorie** e
 Les Options de Catégorie contrôlent la façon dont les informations de catégorie sont affichées
 dans la mise en page. La Mise en Page Liste de Catégorie a les Options de Catégorie suivantes, comme indiqué ci-dessous.
 
-![Onglet catégorie Liste des contacts dans une catégorie](../../../fr/images/menu-items/contacts-list-contacts-in-a-category/02-contacts-list-contacts-in-a-category-category-tab.png)
+![Onglet catégorie Liste des contacts dans une catégorie](../../../fr/images/menu-items/contacts-list-contacts-in-a-category/02-category-tab.png)
 
 - **Titre de la Catégorie** Afficher ou masquer le Titre de la Catégorie qui
   apparaîtra comme un sous-titre sur la page. Le sous-titre est généralement
@@ -68,7 +68,7 @@ dans la mise en page. La Mise en Page Liste de Catégorie a les Options de Caté
 ### Onglet Affichage du Contact
 
 Les champs d'Affichage du Contact contrôlent l'apparence de la mise en page de la liste.
-![Onglet d'affichage du contact Liste des contacts dans une catégorie](../../../fr/images/menu-items/contacts-list-contacts-in-a-category/03-contacts-featured-contacts-form-tab.png)
+![Onglet d'affichage du contact Liste des contacts dans une catégorie](../../../fr/images/menu-items/contacts-list-contacts-in-a-category/03-featured-contacts-form-tab.png)
 
 - **Choisir une Mise en Page** Sélectionner parmi la liste des modèles.
 - **Catégorie de Contact** Afficher ou masquer la vue d'affichage de la Catégorie de Contact.
@@ -110,7 +110,7 @@ Les champs d'Affichage du Contact contrôlent l'apparence de la mise en page de 
 Les Options de Courriel de Contact contrôlent l'apparence du *Formulaire de Contact*
 s'il est activé.
 
-![Onglet options de courriel Liste des contacts dans une catégorie](../../../fr/images/menu-items/contacts-list-contacts-in-a-category/04-contacts-featured-contacts-mail-options-tab.png)
+![Onglet options de courriel Liste des contacts dans une catégorie](../../../fr/images/menu-items/contacts-list-contacts-in-a-category/04-featured-contacts-mail-options-tab.png)
 
 - **Formulaire de Contact** Afficher ou masquer le *formulaire de contact* du contact.
 - **Envoyer une Copie au Soumettant** Afficher ou masquer une case à cocher

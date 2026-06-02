@@ -20,7 +20,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide distincts 
 
 ## Capture d'écran
 
-![Étape d'édition des visites guidées](../../../fr/images/guided-tours/guided-tours-edit-step/01-guided-tours-edit-step.png)
+![Étape d'édition des visites guidées](../../../fr/images/guided-tours/guided-tours-edit-step/01-edit-step-tab.png)
 
 ## Champs de Formulaire
 
@@ -58,7 +58,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide distincts 
 
 ### Onglet Options
 
-![Onglet des options d'édition des étapes des visites guidées](../../../fr/images/guided-tours/guided-tours-edit-step/02-guided-tours-edit-step-options-tab.png)
+![Onglet des options d'édition des étapes des visites guidées](../../../fr/images/guided-tours/guided-tours-edit-step/02-options-tab.png)
 
 ## Conseils
 

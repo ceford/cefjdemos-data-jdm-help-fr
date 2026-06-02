@@ -25,7 +25,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide distinc
 
 ## Capture d'écran
 
-![onglet du module de changement de langue](../../../fr/images/modules-site/site-modules-language-switcher/01-modules-language-switcher-module-tab.png)
+![onglet du module de changement de langue](../../../fr/images/modules-site/site-modules-language-switcher/01-module-tab.png)
 
 ## Champs de Formulaire
 

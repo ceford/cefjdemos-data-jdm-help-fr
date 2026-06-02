@@ -18,7 +18,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide distinc
 
 ## Capture d'écran
 
-![Options de recherche intelligente onglet de recherche intelligente](../../../fr/images/smart-search/smart-search-options/01-smart-search-options-smart-search-tab.png)
+![Options de recherche intelligente onglet de recherche intelligente](../../../fr/images/smart-search/smart-search-options/01-smart-search-tab.png)
 
 ## Champs de Formulaire
 
@@ -47,7 +47,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide distinc
 
 ### Onglet Index
 
-![Onglet index des options de recherche intelligente](../../../fr/images/smart-search/smart-search-options/02-smart-search-options-index-tab.png)
+![Onglet index des options de recherche intelligente](../../../fr/images/smart-search/smart-search-options/02-index-tab.png)
 
 - **Rechercher des Phrases** Désactivé pour améliorer les performances ou activé pour améliorer la qualité des résultats.
 - **Taille de Lot de l'Indexeur** La taille du lot contrôle le nombre d'éléments traités par lot. Les grandes tailles de lot nécessitent beaucoup de mémoire tandis que les petites tailles de lot nécessitent moins de mémoire mais exécutent plus de requêtes, ce qui tend à prendre plus de temps.

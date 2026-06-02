@@ -4,7 +4,7 @@
 
 ### Utilisateur - Créateur de Contact
 
-![Formulaire du créateur de contact utilisateur](../../../en/images/plugins/plugin-group-user/01-plugin-group-user-contact-creator.png)
+![Formulaire du créateur de contact utilisateur](../../../en/images/plugins/plugin-group-user/01-contact-creator.png)
 
 - **Page Web Automatique** Une chaîne formatée pour générer automatiquement la page web d'un contact. [name] est remplacé par le nom, [username] est remplacé par le nom d'utilisateur, [userid] est remplacé par l'ID utilisateur et [email] est remplacé par l'email.
 - **Catégorie** Catégorie à affecter aux contacts par défaut.
@@ -14,13 +14,13 @@
 
 Permet la gestion des jetons de sécurité utilisés pour l'authentification à l'application API Joomla (accès à distance). Ces jetons sont strictement personnels. Vous pouvez voir votre propre jeton, mais vous pouvez seulement désactiver ou réinitialiser les jetons d'autres utilisateurs.
 
-![Formulaire de jeton API Joomla utilisateur](../../../en/images/plugins/plugin-group-user/02-plugin-group-user-joomla-api-token.png)
+![Formulaire de jeton API Joomla utilisateur](../../../en/images/plugins/plugin-group-user/02-joomla-api-token.png)
 
 - **Groupes d'Utilisateurs Autorisés** Sélectionnez un ou plusieurs pour permettre à un groupe d'utiliser les jetons Joomla pour s'authentifier à l'application API Joomla.
 
 ### Utilisateur - Joomla!
 
-![Formulaire de Joomla utilisateur](../../../en/images/plugins/plugin-group-user/03-plugin-group-user-joomla.png)
+![Formulaire de Joomla utilisateur](../../../en/images/plugins/plugin-group-user/03-joomla.png)
 
 - **Création Automatique d'Utilisateurs** Créer automatiquement ou non des utilisateurs Joomla! enregistrés lorsque cela est possible. La valeur par défaut est *Oui*.
 - **Email de Notification à l'Utilisateur** Lorsque l'administrateur crée un compte utilisateur, cela détermine si un email, contenant son nom d'utilisateur et son mot de passe, est envoyé à l'utilisateur.
@@ -34,7 +34,7 @@ Ce plugin ajoute des capacités de profil utilisateur à un site web. Les utilis
 - **Optionnel** Le champ est visible dans les profils des utilisateurs mais est optionnel et les utilisateurs n'ont pas besoin de le remplir.
 - **Désactivé** Le champ est désactivé et non visible dans les profils des utilisateurs.
 
-![Formulaire de profil utilisateur](../../../en/images/plugins/plugin-group-user/04-plugin-group-user-profile.png)
+![Formulaire de profil utilisateur](../../../en/images/plugins/plugin-group-user/04-profile.png)
 
 - **Tous les champs** Les trois options sont disponibles sauf pour le champ des Conditions Générales d'Utilisation qui offre un choix entre *Requis* et *Désactivé*.
 
@@ -42,7 +42,7 @@ Ce plugin ajoute des capacités de profil utilisateur à un site web. Les utilis
 
 Ce plugin permet de collecter le consentement des utilisateurs aux termes et conditions du site.
 
-![Formulaire des termes et conditions utilisateur](../../../en/images/plugins/plugin-group-user/05-plugin-group-user-terms-and-conditions.png)
+![Formulaire des termes et conditions utilisateur](../../../en/images/plugins/plugin-group-user/05-terms-and-conditions.png)
 
 - **Termes & Conditions Courtes** Permet l'entrée d'un résumé des Termes & Conditions ou l'utilisation de la langue par défaut.
 - **Article des Termes & Conditions** Sélectionnez ou créez un article pour les Termes & Conditions afin de le lier au formulaire de l'utilisateur.

@@ -41,7 +41,7 @@ pour préparer les substitutions de modèles appropriées.
 
 ## Capture d'écran
 
-![Liste des champs des articles](../../../fr/images/fields/fields/01-articles-fields-list.png)
+![Liste des champs des articles](../../../fr/images/fields/fields/01-fields-list.png)
 
 Il y a 16 types de champs disponibles, chacun implémenté sous forme de plugin. D'autres sont 
 susceptibles de devenir disponibles à l'avenir.

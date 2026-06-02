@@ -33,7 +33,7 @@ Pour modifier un élément de menu *Profil utilisateur* existant :
 
 ## Capture d'écran
 
-![Onglet des détails du profil utilisateur](../../../fr/images/menu-items/users-user-profile/01-users-user-profile-details-tab.png)
+![Onglet des détails du profil utilisateur](../../../fr/images/menu-items/users-user-profile/01-details-tab.png)
 
 Tous les champs de saisie du formulaire sont couverts dans les *Éléments Communs*.
 

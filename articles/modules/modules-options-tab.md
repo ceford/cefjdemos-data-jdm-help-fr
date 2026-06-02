@@ -6,7 +6,7 @@ L'onglet *Modules : Options* est utilisé avec de légères variations dans tous
 
 ## Capture d'écran
 
-![Onglet avancé des modules](../../../fr/images/modules/modules-options-tab/01-modules-custom-options-tab.png)
+![Onglet avancé des modules](../../../fr/images/modules/modules-options-tab/01-options-tab.png)
 
 ## Champs de Formulaire
 

@@ -37,7 +37,7 @@ Pour modifier un élément de menu :
 
 ## Capture d'écran
 
-![Blog de catégorie](../../../fr/images/menu-items/articles-category-blog/01-articles-category-blog-details-tab.png)
+![Blog de catégorie](../../../fr/images/menu-items/articles-category-blog/01-details-tab.png)
 
 ## Champs du formulaire
 

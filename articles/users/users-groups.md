@@ -25,7 +25,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![groupes d'utilisateurs](../../../fr/images/users/users-groups/01-users-groups-list.png)
+![groupes d'utilisateurs](../../../fr/images/users/users-groups/01-groups-list.png)
 
 ## Conseils
 

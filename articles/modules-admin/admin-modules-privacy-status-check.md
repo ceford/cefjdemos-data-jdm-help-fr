@@ -25,7 +25,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![modules onglet de vérification du statut de confidentialité](../../../fr/images/modules-admin/admin-modules-privacy-status-check/01-modules-privacy-status-check-module-tab.png)
+![modules onglet de vérification du statut de confidentialité](../../../fr/images/modules-admin/admin-modules-privacy-status-check/01-module-tab.png)
 
 ## Champs du formulaire
 

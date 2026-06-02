@@ -57,7 +57,7 @@ la liste des Élément de Menu.
 
 ## Capture d'écran
 
-![Éléments de menu Conteneur du menu Composants](../../../en/images/menu-items/administrator-components-menu-container/01-administrator-components-menu-container.png)
+![Éléments de menu Conteneur du menu Composants](../../../en/images/menu-items/administrator-components-menu-container/01-details-tab.png)
 
 ## Champs de formulaire
 

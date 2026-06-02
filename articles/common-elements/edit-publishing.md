@@ -10,7 +10,7 @@ Les métadonnées des articles sont également incluses dans l'onglet Publicatio
 
 L'onglet de publication des articles :
 
-![L’onglet de modification de la publication des articles](../../../fr/images/common-elements/edit-publishing/01-articles-edit-publishing-tab.png)
+![L’onglet de modification de la publication des articles](../../../fr/images/common-elements/edit-publishing/01-publishing-tab.png)
 
 La plupart des champs de formulaire ont des valeurs par défaut permettant d'enregistrer l'élément. Vous pouvez souhaiter prendre des mesures appropriées pour les champs suivants :
 

@@ -35,13 +35,13 @@ Pour modifier un élément de menu existant *Liste Compacte d'Éléments Étique
 
 ## Capture d'écran
 
-![Liste compacte des éléments marqués, onglet des détails](../../../fr/images/menu-items/tags-compact-list-of-tagged-items/01-tags-compact-list-of-tagged-items-details-tab.png)
+![Liste compacte des éléments marqués, onglet des détails](../../../fr/images/menu-items/tags-compact-list-of-tagged-items/01-details-tab.png)
 
 ## Champs de Formulaire
 
 ### Onglet Options de Tags
 
-![Liste Compact des Éléments Tagués onglet options de tags](../../../fr/images/menu-items/tags-compact-list-of-tagged-items/02-tags-compact-list-of-tagged-items-tag-options-tab.png)
+![Liste Compact des Éléments Tagués onglet options de tags](../../../fr/images/menu-items/tags-compact-list-of-tagged-items/02-tag-options-tab.png)
 
 - **Afficher le Nom du Tag** Pour une mise en page avec un tag, afficher ou masquer le nom du tag.
 - **Image du Tag** Pour une mise en page avec un tag, afficher ou masquer l'image du tag.
@@ -56,7 +56,7 @@ Pour modifier un élément de menu existant *Liste Compacte d'Éléments Étique
 
 ### Onglet Options de Sélection d’Élément
 
-![Liste Compact des Éléments Tagués onglet détails](../../../fr/images/menu-items/tags-compact-list-of-tagged-items/03-tags-compact-list-of-tagged-items-item-selection-options-tab.png)
+![Liste Compact des Éléments Tagués onglet détails](../../../fr/images/menu-items/tags-compact-list-of-tagged-items/03-item-selection-options-tab.png)
 
 - **Type de Correspondance** Sélectionner les éléments avec l'un des tags ou 
   tous les tags. Si "l'un" est choisi, cela retournera les éléments qui ont 

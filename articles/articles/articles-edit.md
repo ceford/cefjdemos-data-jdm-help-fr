@@ -29,7 +29,7 @@ Vous pouvez également créer un nouvel article en sélectionnant l'icône **+**
 
 ## Capture d'écran
 
-![Capture d'écran de la modification des articles](../../../fr/images/articles/articles-edit/01-articles-edit-content-tab.png)
+![Capture d'écran de la modification des articles](../../../fr/images/articles/articles-edit/01-content-tab.png)
 
 ## Champs du formulaire
 
@@ -66,7 +66,7 @@ Vous pouvez également créer un nouvel article en sélectionnant l'icône **+**
 
 **Remarque :** Cet onglet peut être masqué dans *Article : Options* par un utilisateur avec des permissions d'administration. Il permet d'afficher des images et des liens dans les articles en utilisant des mises en page standardisées.
 
-![Onglet images et liens](../../../fr/images/articles/articles-edit/02-articles-edit-images-tab.png)
+![Onglet images et liens](../../../fr/images/articles/articles-edit/02-images-tab.png)
 
 #### Image d'introduction
 
@@ -102,7 +102,7 @@ Vous pouvez également créer un nouvel article en sélectionnant l'icône **+**
 
 **Remarque :** Cet onglet peut être masqué par un utilisateur avec des permissions d'administration dans Article : Options. Il s'agit d'un ensemble d'options utilisées pour contrôler comment cet article s'affichera dans l'interface.
 
-![Onglet Options](../../../fr/images/articles/articles-edit/03-articles-edit-options-tab.png)
+![Onglet Options](../../../fr/images/articles/articles-edit/03-options-tab.png)
 
 #### Mise en page
 
@@ -156,13 +156,13 @@ Vous pouvez également créer un nouvel article en sélectionnant l'icône **+**
 
 Cette section affiche les champs personnalisés définis pour cet article. Ce sont des champs qui ne sont pas assignés à un groupe de champs. Chaque groupe de champs, s'il est défini, apparaîtra comme un onglet séparé.
 
-![Onglet Champs](../../../fr/images/articles/articles-edit/04-articles-edit-fields-tab.png)
+![Onglet Champs](../../../fr/images/articles/articles-edit/04-fields-tab.png)
 
 ### Onglet Configurer l'écran de modification
 
 **Remarque :** Cet onglet peut être masqué par un utilisateur avec des permissions d'administration dans Article : Options.
 
-![Onglet Configurer l'écran de modification](../../../fr/images/articles/articles-edit/05-articles-edit-configure-edit-screen-tab.png)
+![Onglet Configurer l'écran de modification](../../../fr/images/articles/articles-edit/05-editor-tab.png)
 
 - **Options de publication** Si Masquer, l'onglet Options de publication ne s'affichera pas dans l'interface. Cela signifie que les utilisateurs du backend ne pourront pas modifier les champs de cet onglet. Ces champs seront toujours définis sur leurs valeurs par défaut.
 - **Options de l'article** Si Masquer, l'onglet Options de l'article ne s'affichera pas dans l'interface. Cela signifie que les utilisateurs du backend ne pourront pas modifier les champs de cet onglet. Ces champs seront toujours définis sur leurs valeurs par défaut.

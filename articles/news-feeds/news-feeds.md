@@ -21,7 +21,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![Liste des flux d'actualités](../../../fr/images/news-feeds/news-feeds/01-news-feeds-list.png)
+![Liste des flux d'actualités](../../../fr/images/news-feeds/news-feeds/01-feeds-list.png)
 
 *Traduit par openai.com*
 

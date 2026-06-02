@@ -24,7 +24,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide distinc
 
 ## Capture d'écran
 
-![onglet module fil d'Ariane](../../../fr/images/modules-site/site-modules-breadcrumbs/01-modules-breadcrumbs-module-tab.png)
+![onglet module fil d'Ariane](../../../fr/images/modules-site/site-modules-breadcrumbs/01-module-tab.png)
 
 ## Champs du formulaire
 

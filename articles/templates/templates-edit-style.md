@@ -20,7 +20,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![modèles cassiopeia éditer l'onglet de l'éditeur de style](../../../fr/images/templates/templates-edit-style/01-templates-site-edit-style-details-tab.png)
+![modèles cassiopeia éditer l'onglet de l'éditeur de style](../../../fr/images/templates/templates-edit-style/01-details-tab.png)
 
 ## Champs de Formulaire
 
@@ -32,7 +32,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ### Onglet Avancé
 
-![onglet avancé de l'éditeur de style modèle cassiopeia](../../../fr/images/templates/templates-edit-style/02-templates-site-edit-style-advanced-tab.png)
+![onglet avancé de l'éditeur de style modèle cassiopeia](../../../fr/images/templates/templates-edit-style/02-advanced-tab.png)
 
 Cette section peut ne pas être présente pour tous les styles. Si un modèle à partir duquel un style est dérivé dispose d'options configurables, elles seront présentes ici. Ce sont ces options configurables supplémentaires qui vous permettent d'avoir plusieurs styles différents de modèles avec des variations de ces options. Les options disponibles varient selon les options mises à disposition par le développeur du modèle.
 
@@ -52,7 +52,7 @@ Si vous fournissez votre propre Petite Marque, vous devez également fournir une
 
 ### Onglet Attribution des Menus
 
-![onglet attribution des menus de l'éditeur de style modèle cassiopeia](../../../fr/images/templates/templates-edit-style/03-templates-site-edit-style-menu-assignment-tab.png)
+![onglet attribution des menus de l'éditeur de style modèle cassiopeia](../../../fr/images/templates/templates-edit-style/03-menu-assignment-tab.png)
 
 Cette section contient tous les éléments de menu configurés sur votre site Joomla! Pour appliquer le style actuel à la page web correspondante de l'élément de menu, cochez la case à côté de l'élément de menu. Vous pouvez appuyer sur le bouton *Basculer la Sélection* pour inverser les sélections des éléments de menu.
 

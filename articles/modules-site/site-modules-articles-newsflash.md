@@ -24,7 +24,7 @@ Certains éléments de cette page sont abordés dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![module d'articles newsflash](../../../fr/images/modules-site/site-modules-articles-newsflash/01-modules-articles-newsflash-module-tab.png)
+![module d'articles newsflash](../../../fr/images/modules-site/site-modules-articles-newsflash/01-module-tab.png)
 
 ## Champs de formulaire
 

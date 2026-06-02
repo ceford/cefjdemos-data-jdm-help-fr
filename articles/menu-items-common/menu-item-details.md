@@ -11,7 +11,7 @@ Tous les éléments du menu ont une mise en page similaire, mais certains champs
 
 ## Capture d'écran
 
-![onglet détails de l'élément de menu](../../../fr/images/menu-items-common/menu-item-details/01-menu-item-details.png)
+![onglet détails de l'élément de menu](../../../fr/images/menu-items-common/menu-item-details/01-details-tab.png)
 
 Les captures d'écran dans chacune des pages d'aide des types d'éléments diffèrent dans les détails de cette capture d'écran.
 

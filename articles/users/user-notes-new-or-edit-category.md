@@ -24,7 +24,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide distinc
 
 ## Capture d'écran
 
-![liste des notes des utilisateurs utilisateurs](../../../fr/images/users/user-notes-new-or-edit-category/01-users-user-notes-edit-category.png)
+![liste des notes des utilisateurs utilisateurs](../../../fr/images/users/user-notes-new-or-edit-category/01-category-tab.png)
 
 ## Champs de Formulaire
 

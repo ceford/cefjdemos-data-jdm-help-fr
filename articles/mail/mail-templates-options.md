@@ -18,7 +18,7 @@ Certaines parties de cette page sont couvertes dans des articles d'aide séparé
 
 ## Capture d'écran
 
-![Options des modèles d'e-mails](../../../fr/images/mail/mail-templates-options/01-mail-templates-options-mails-tab.png)
+![Options des modèles d'e-mails](../../../fr/images/mail/mail-templates-options/01-mails-tab.png)
 
 ## Champs de Formulaire
 

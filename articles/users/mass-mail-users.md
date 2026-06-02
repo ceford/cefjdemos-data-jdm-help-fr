@@ -19,7 +19,7 @@ Sélectionnez **Utilisateurs → Utilisateurs de courriers en masse** dans le 
 
 ## Capture d'écran
 
-![utilisateurs de courrier de masse](../../../fr/images/users/mass-mail-users/01-mass-mail-users.png)
+![utilisateurs de courrier de masse](../../../fr/images/users/mass-mail-users/01-mail-form.png)
 
 ## Détails et Message
 

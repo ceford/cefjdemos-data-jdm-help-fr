@@ -20,7 +20,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés 
 
 ## Capture d'écran
 
-![Modifier les bannières du client](../../../fr/images/banners/banners-edit-client/01-banners-edit-client-details-tab.png)
+![Modifier les bannières du client](../../../fr/images/banners/banners-edit-client/01-details-tab.png)
 
 ## Champs de Formulaire
 
@@ -43,7 +43,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés 
 
 ### Onglet Métadonnées
 
-![Onglet métadonnées de modification de client de bannières](../../../fr/images/banners/banners-edit-client/02-banners-edit-client-metadata-tab.png)
+![Onglet métadonnées de modification de client de bannières](../../../fr/images/banners/banners-edit-client/02-metadata-tab.png)
 
 - **Mots-Clés** Entrée facultative pour les mots-clés. Ils doivent être saisis séparés par des virgules (par exemple, "chats, chiens, animaux domestiques") et peuvent être saisis en majuscules ou en minuscules. (Par exemple, "CHATS" correspondra à "chats" ou "Chats"). Les mots-clés peuvent être utilisés de plusieurs manières :
   1.  Pour aider les moteurs de recherche et d'autres systèmes à classer le contenu de l'article.

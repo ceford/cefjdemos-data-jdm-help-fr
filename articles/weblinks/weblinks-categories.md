@@ -20,7 +20,7 @@ Sélectionnez **Composants → Liens Web → Catégories** dans le menu Admi
 
 ## Capture d'écran
 
-![liste des liens web](../../../fr/images/weblinks/weblinks-categories/01-web-links-categories-list.png)
+![liste des liens web](../../../fr/images/weblinks/weblinks-categories/01-categories-list.png)
 
 *Traduit par openai.com*
 

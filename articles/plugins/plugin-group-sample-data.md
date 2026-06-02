@@ -4,7 +4,7 @@
 
 Ces plugins fournissent des données d'exemple pour le module de Données d'exemple qui peuvent être affichées sur le Tableau de bord principal. Si un plugin est désactivé, il n’apparaîtra pas là.
 
-![Panneau de données d'exemple dans le tableau de bord principal](../../../en/images/plugins/plugin-group-sample-data/01-plugin-group-sample-data.png)
+![Panneau de données d'exemple dans le tableau de bord principal](../../../en/images/plugins/plugin-group-sample-data/01-sample-data-module.png)
 
 ### Données d'exemple - Blog
 

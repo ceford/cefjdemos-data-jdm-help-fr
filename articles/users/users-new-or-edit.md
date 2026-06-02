@@ -31,7 +31,7 @@ Pour créer un nouvel utilisateur :
 
 ## Capture d'écran
 
-![modifier les détails de l'utilisateur](../../../fr/images/users/users-new-or-edit/01-users-edit-account-details-tab.png)
+![modifier les détails de l'utilisateur](../../../fr/images/users/users-new-or-edit/01-account-details-tab.png)
 
 ## Champs de formulaire
 
@@ -53,13 +53,13 @@ Pour créer un nouvel utilisateur :
 
 ### Onglet Groupes d'utilisateurs assignés
 
-![user edit assigned user groups tab](../../../fr/images/users/users-new-or-edit/02-users-edit-assigned-user-groups-tab.png)
+![user edit assigned user groups tab](../../../fr/images/users/users-new-or-edit/02-assigned-user-groups-tab.png)
 
 La valeur par défaut est *Enregistré* mais peut être modifiée dans la page *Utilisateur : Options*.
 
 ### Paramètres de base
 
-![user edit basic settings tab](../../../fr/images/users/users-new-or-edit/03-users-edit-basic-settings-tab.png)
+![user edit basic settings tab](../../../fr/images/users/users-new-or-edit/03-basic-settings-tab.png)
 
 - **Style de modèle Backend** Sélectionnez un style de modèle pour l'interface Backend de l'administrateur. Cela n'affectera que cet utilisateur.
 - **Langue Backend** Sélectionnez la langue pour l'interface Backend de l'administrateur. Cela n'affectera que cet utilisateur.
@@ -69,7 +69,7 @@ La valeur par défaut est *Enregistré* mais peut être modifiée dans la page *
 
 ### Paramètres d'accessibilité
 
-![user edit accessibility settings tab](../../../fr/images/users/users-new-or-edit/04-users-edit-accessibility-settings-tab.png)
+![user edit accessibility settings tab](../../../fr/images/users/users-new-or-edit/04-accessibility-settings-tab.png)
 
 - **Monochrome** Oui/Non
 - **Contraste élevé** Oui/Non
@@ -97,7 +97,7 @@ Le jeton n'est visible que pour votre propre compte.
 
 ### Authentification multi-facteurs
 
-![user edit multi factor authentication tab](../../../fr/images/users/users-new-or-edit/05-users-edit-multi-factor-authentication-tab.png)
+![user edit multi factor authentication tab](../../../fr/images/users/users-new-or-edit/05-multi-factor-authentication-tab.png)
 
 Cet onglet vous permet de configurer une ou plusieurs méthodes pour permettre l'accès à votre compte après connexion avec le nom d'utilisateur et le mot de passe. Il n'est présent que lorsque vous éditez votre propre profil. Plusieurs méthodes sont disponibles. Si vous perdez l'accès à une méthode pour une raison quelconque, vous pouvez choisir une autre méthode à partir de l'écran de vérification post-connexion. Les méthodes alternatives doivent avoir été configurées à l'avance !
 

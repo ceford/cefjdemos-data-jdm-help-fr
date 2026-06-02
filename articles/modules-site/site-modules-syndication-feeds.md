@@ -26,7 +26,7 @@ Certains éléments de cette page sont couverts dans des articles d'Aide sépar�
 
 ## Capture d'écran
 
-![onglet du module de flux de syndication](../../../fr/images/modules-site/site-modules-syndication-feeds/01-modules-syndication-feeds-module-tab.png)
+![onglet du module de flux de syndication](../../../fr/images/modules-site/site-modules-syndication-feeds/01-module-tab.png)
 
 ## Champs de Formulaire
 

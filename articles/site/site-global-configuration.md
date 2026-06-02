@@ -18,7 +18,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés 
 
 ## Capture d'écran
 
-![onglet site de la configuration globale](../../../fr/images/site/site-global-configuration/01-global-configuration-site-tab.png)
+![onglet site de la configuration globale](../../../fr/images/site/site-global-configuration/01-site-tab.png)
 
 ## Champs du formulaire
 
@@ -74,7 +74,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés 
 
 ### Onglet Système
 
-![onglet système de la configuration globale](../../../fr/images/site/site-global-configuration/02-global-configuration-system-tab.png)
+![onglet système de la configuration globale](../../../fr/images/site/site-global-configuration/02-system-tab.png)
 
 #### Panneau Débogage
 
@@ -108,7 +108,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés 
 
 ### Onglet Serveur
 
-![onglet serveur de la configuration globale](../../../fr/images/site/site-global-configuration/03-global-configuration-server-tab.png)
+![onglet serveur de la configuration globale](../../../fr/images/site/site-global-configuration/03-server-tab.png)
 
 #### Panneau Serveur
 
@@ -179,7 +179,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés 
 
 ### Onglet Journalisation
 
-![onglet journalisation de la configuration globale](../../../fr/images/site/site-global-configuration/04-global-configuration-logging-tab.png)
+![onglet journalisation de la configuration globale](../../../fr/images/site/site-global-configuration/04-logging-tab.png)
 
 #### Panneau Journalisation
 
@@ -195,7 +195,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés 
 
 ### Onglet Filtres de texte
 
-![onglet filtres de texte de la configuration globale](../../../fr/images/site/site-global-configuration/05-global-configuration-text-filters-tab.png)
+![onglet filtres de texte de la configuration globale](../../../fr/images/site/site-global-configuration/05-text-filters-tab.png)
 
 Ces paramètres de filtres de texte s'appliqueront à tous les
 

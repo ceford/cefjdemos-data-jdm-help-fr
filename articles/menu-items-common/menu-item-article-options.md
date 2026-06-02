@@ -13,7 +13,7 @@ Tous les éléments de menu ont une mise en page similaire, mais certains des ch
 
 ## Capture d'écran
 
-![détails de l'élément du menu dans l'onglet](../../../fr/images/menu-items-common/menu-item-article-options/01-articles-article-options.png)
+![détails de l'élément du menu dans l'onglet](../../../fr/images/menu-items-common/menu-item-article-options/01-options-tab.png)
 
 ## Champs de formulaire
 

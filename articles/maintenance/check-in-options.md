@@ -19,7 +19,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide distincts 
 
 ## Capture d'écran
 
-![Options d'enregistrement](../../../fr/images/maintenance/check-in-options/01-check-in-options.png)
+![Options d'enregistrement](../../../fr/images/maintenance/check-in-options/01-permissions-tab.png)
 
 ## Conseils
 

@@ -25,7 +25,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide distinc
 
 ## Capture d'écran
 
-![Liste des catégories de bannières](../../../fr/images/banners/banners-categories/01-banners-categories-list.png)
+![Liste des catégories de bannières](../../../fr/images/banners/banners-categories/01-categories-list.png)
 
 ## Conseils
 

@@ -20,7 +20,7 @@ Un élément de cette page est couvert dans un article d'aide séparé :
 
 ## Capture d'écran
 
-![Modifier le modèle de courrier](../../../fr/images/mail/mail-template-edit/01-edit-mail-template.png)
+![Modifier le modèle de courrier](../../../fr/images/mail/mail-template-edit/01-mail-tab.png)
 
 Les options de courrier permettent d'envoyer des messages en texte brut ou en HTML, ou les deux. Si une seule méthode est sélectionnée, l'alternative ne sera pas présente dans le formulaire de modification du message.
 

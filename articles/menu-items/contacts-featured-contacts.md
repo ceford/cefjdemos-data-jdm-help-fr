@@ -34,13 +34,13 @@ Pour éditer un Élément de Menu Contacts en vedette existant :
 
 ## Capture d'écran
 
-![Détails de l'onglet Contacts en vedette dans le menu](../../../fr/images/menu-items/contacts-featured-contacts/01-contacts-featured-contacts-details-tab.png)
+![Détails de l'onglet Contacts en vedette dans le menu](../../../fr/images/menu-items/contacts-featured-contacts/01-details-tab.png)
 
 ## Champs de Formulaire
 
 ### Onglet Formulaire
 
-![Onglet formulaire Contacts en vedette du menu](../../../fr/images/menu-items/contacts-featured-contacts/02-contacts-featured-contacts-form-tab.png)
+![Onglet formulaire Contacts en vedette du menu](../../../fr/images/menu-items/contacts-featured-contacts/02-form-tab.png)
 
 - **Étiquettes** Afficher ou masquer les *Étiquettes* du contact.
 - **Informations de Contact** Afficher ou masquer les *Informations de Contact* du contact.
@@ -55,7 +55,7 @@ Pour éditer un Élément de Menu Contacts en vedette existant :
 
 Les Options de Mail du contact contrôlent l'apparence du *Formulaire de Contact* du contact s'il est activé.
 
-![Onglet options de mail Contacts en vedette du menu](../../../fr/images/menu-items/contacts-featured-contacts/03-contacts-featured-contacts-mail-options-tab.png)
+![Onglet options de mail Contacts en vedette du menu](../../../fr/images/menu-items/contacts-featured-contacts/03-mail-options-tab.png)
 
 - **Formulaire de Contact** Afficher ou masquer le *formulaire de contact* du contact.
 - **Envoyer une Copie à l’Expéditeur** Afficher ou masquer une case à cocher pour permettre à un Expéditeur de s'envoyer une copie de l'email.

@@ -32,7 +32,7 @@ Pour modifier un élément de menu **Soumettre un Lien Web** existant :
 
 ## Capture d'écran
 
-![Élément de menu soumettre un lien web](../../../fr/images/menu-items/weblinks-weblink-submit/01-weblinks-submit-a-web-link-details-tab.png)
+![Élément de menu soumettre un lien web](../../../fr/images/menu-items/weblinks-weblink-submit/01-details-tab.png)
 
 Tous les champs de saisie du formulaire sont couverts dans les *Éléments Communs*.
 

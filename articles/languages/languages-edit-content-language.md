@@ -18,7 +18,7 @@ Certains aspects de cette page sont abordés dans des articles d'aide distincts 
 
 ## Capture d'écran
 
-![Détails de l'édition de la langue de contenu dans l'onglet Langues](../../../fr/images/languages/languages-edit-content-language/01-languages-edit-content-language-details-tab.png)
+![Détails de l'édition de la langue de contenu dans l'onglet Langues](../../../fr/images/languages/languages-edit-content-language/01-details-tab.png)
 
 
 ## Champs de Formulaire
@@ -46,7 +46,7 @@ Certains aspects de cette page sont abordés dans des articles d'aide distincts 
 
 ### Onglet Options
 
-![Options de langue du contenu d'édition des langues](../../../fr/images/languages/languages-edit-content-language/02-languages-edit-content-language-options-tab.png)
+![Options de langue du contenu d'édition des langues](../../../fr/images/languages/languages-edit-content-language/02-options-tab.png)
 
 * Le **Nom Personnalisé du Site** peut être différent dans différentes langues !
 * La **Description Meta** doit être différente dans différentes langues !

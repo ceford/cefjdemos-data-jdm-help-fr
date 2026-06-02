@@ -12,7 +12,7 @@ Tous les éléments du menu ont une disposition similaire, mais certains champs 
 
 ## Capture d'écran
 
-![onglet type de lien d'élément de menu](../../../fr/images/menu-items-common/menu-item-link-type/01-menu-item-link-type.png)
+![onglet type de lien d'élément de menu](../../../fr/images/menu-items-common/menu-item-link-type/01-link-type-tab.png)
 
 ## Champs de formulaire
 

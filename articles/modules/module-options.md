@@ -19,7 +19,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![Onglet général des options du module](../../../fr/images/modules/module-options/01-module-options-general-tab.png)
+![Onglet général des options du module](../../../fr/images/modules/module-options/01-general-tab.png)
 
 ## Champs de Formulaire
 
@@ -49,7 +49,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
   et peut être utilisé pour restreindre la visibilité d'un module
   Administrateur à une seule langue.
 
-![Onglet général des options du module](../../../fr/images/modules/module-options/02-module-options-administrator-modules-tab.png)
+![Onglet général des options du module](../../../fr/images/modules/module-options/02-administrator-modules-tab.png)
 
 ## Conseils
 

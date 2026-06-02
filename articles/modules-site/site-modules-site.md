@@ -22,11 +22,11 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran - Liste des modules installés sur le site
 
-![liste des modules de l'administrateur](../../../fr/images/modules-site/site-modules-site/01-modules-site-list.png)
+![liste des modules de l'administrateur](../../../fr/images/modules-site/site-modules-site/01-site-list.png)
 
 ## Capture d'écran - Liste des modules de site disponibles
 
-![modules d'administrateur disponibles](../../../fr/images/modules-site/site-modules-site/02-modules-site-available.png)
+![modules d'administrateur disponibles](../../../fr/images/modules-site/site-modules-site/02-site-available.png)
 
 ## Positions des Modules
 

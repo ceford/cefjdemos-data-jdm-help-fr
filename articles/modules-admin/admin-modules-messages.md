@@ -23,7 +23,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![onglet du module messages des modules](../../../fr/images/modules-admin/admin-modules-messages/01-modules-messages-module-tab.png)
+![onglet du module messages des modules](../../../fr/images/modules-admin/admin-modules-messages/01-module-tab.png)
 
 ## Champs de Formulaire
 

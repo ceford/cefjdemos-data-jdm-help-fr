@@ -32,13 +32,13 @@ Pour modifier un élément de menu existant **Lister Toutes les Catégories de L
 
 ## Capture d'écran
 
-![Type d'élément de menu Lister toutes les catégories de liens Web](../../../fr/images/menu-items/weblinks-weblink-categories/01-weblinks-list-all-web-link-categories-details-tab.png)
+![Type d'élément de menu Lister toutes les catégories de liens Web](../../../fr/images/menu-items/weblinks-weblink-categories/01-details-tab.png)
 
 ## Champs de Formulaire
 
 ### Onglet Catégories
 
-![Type d'élément de menu Liste de toutes les catégories de liens Web](../../../fr/images/menu-items/weblinks-weblink-categories/02-weblinks-list-all-web-link-categories-categories-tab.png)
+![Type d'élément de menu Liste de toutes les catégories de liens Web](../../../fr/images/menu-items/weblinks-weblink-categories/02-categories-tab.png)
 
 - **Description de la Catégorie de Niveau Supérieur** Afficher ou masquer la description de la catégorie de niveau supérieur. Notez que cette description peut être remplacée pour ce layout en saisissant une Description Alternative ci-dessous.
 - **Description Alternative** Entrez une description facultative pour remplacer la description de la catégorie pour ce layout. Si l'option Description de Niveau Supérieur est réglée sur *Afficher*, cette description saisie apparaîtra à la place de la description normale de la catégorie.

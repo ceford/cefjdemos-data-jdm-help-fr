@@ -21,7 +21,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![Liste des substitutions de langues](../../../fr/images/languages/languages-overrides/01-languages-overrides-list.png)
+![Liste des substitutions de langues](../../../fr/images/languages/languages-overrides/01-overrides-list.png)
 
 ## En-têtes de colonne
 

@@ -19,7 +19,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![options de confidentialité](../../../fr/images/privacy/privacy-options/01-privacy-options.png)
+![options de confidentialité](../../../fr/images/privacy/privacy-options/01-options-tab.png)
 
 ## Champs de formulaire
 

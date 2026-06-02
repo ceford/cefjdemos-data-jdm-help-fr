@@ -36,7 +36,7 @@ Pour modifier un élément de menu existant Liste de toutes les catégories de c
 
 ## Capture d'écran
 
-![Élément de menu Contacts Liste Toutes les catégories onglet détails de l'arborescence](../../../fr/images/menu-items/contacts-list-all-contact-categories/01-contacts-list-all-categories-tree-details-tab.png)
+![Élément de menu Contacts Liste Toutes les catégories onglet détails de l'arborescence](../../../fr/images/menu-items/contacts-list-all-contact-categories/01-details-tab.png)
 
 ## Champs de Formulaire
 
@@ -45,7 +45,7 @@ Pour modifier un élément de menu existant Liste de toutes les catégories de c
 Les Options des Catégories contrôlent la manière dont les informations 
 des catégories sont affichées dans la mise en page. Vous pouvez modifier :
 
-![Onglet Catégories arbre de la liste de tous les contacts des éléments de menu](../../../fr/images/menu-items/contacts-list-all-contact-categories/02-contacts-list-all-categories-tree-categories-tab.png)
+![Onglet Catégories arbre de la liste de tous les contacts des éléments de menu](../../../fr/images/menu-items/contacts-list-all-contact-categories/02-categories-tab.png)
 
 - **Description de la catégorie de premier niveau** Afficher ou masquer 
   la description de la catégorie de premier niveau ou éventuellement la remplacer 
@@ -63,7 +63,7 @@ des catégories sont affichées dans la mise en page. Vous pouvez modifier :
 
 Les Options d'affichage des contacts contrôlent l'apparence de la mise en page de la liste.
 
-![Onglet Options d'affichage des contacts arbre de la liste de tous les contacts des éléments de menu](../../../fr/images/menu-items/contacts-list-all-contact-categories/03-contacts-list-all-categories-tree-contact-display-options.png)
+![Onglet Options d'affichage des contacts arbre de la liste de tous les contacts des éléments de menu](../../../fr/images/menu-items/contacts-list-all-contact-categories/03-contact-display-options.png)
 
 - **Catégorie des contacts** Afficher ou masquer la vue d'affichage de la catégorie des contacts.
     - *Utiliser Global* Utiliser la valeur par défaut de l'écran des options des contacts.
@@ -95,7 +95,7 @@ Les Options d'affichage des contacts contrôlent l'apparence de la mise en page 
 
 ### Onglet Options de courrier
 
-![Onglet Options de courrier arbre de la liste de tous les contacts des éléments de menu](../../../fr/images/menu-items/contacts-list-all-contact-categories/04-contacts-list-all-categories-tree-mail-options-tab.png)
+![Onglet Options de courrier arbre de la liste de tous les contacts des éléments de menu](../../../fr/images/menu-items/contacts-list-all-contact-categories/04-mail-options-tab.png)
 
 - **Formulaire de contact** Afficher ou masquer le *formulaire de contact* du contact.
 - **Envoyer une copie au soumettant** Afficher ou masquer une case à cocher 

@@ -22,7 +22,7 @@ Plus d'informations : [Un guide pour les nuls sur les tests de bugs Joomla](http
 
 ## Capture d'écran
 
-![Formulaire des options de Patchtester](../../../fr/images/joomla-patchtester/patchtester-options/01-patchtester-options-github-repository-tab.png)
+![Formulaire des options de Patchtester](../../../fr/images/joomla-patchtester/patchtester-options/01-github-repository-tab.png)
 
 ## Champs de formulaire
 
@@ -34,7 +34,7 @@ Plus d'informations : [Un guide pour les nuls sur les tests de bugs Joomla](http
 
 Vous avez besoin d'un compte GitHub et d'un jeton GitHub. Tout est gratuit - consultez l'onglet Authentification GitHub pour plus de détails.
 
-![Options Patchtester onglet d'authentification GitHub](../../../fr/images/joomla-patchtester/patchtester-options/02-patchtester-options-github-authentication-tab.png)
+![Options Patchtester onglet d'authentification GitHub](../../../fr/images/joomla-patchtester/patchtester-options/02-github-authentication-tab.png)
 
 - **Méthode d'authentification GitHub** Choisissez la méthode du jeton. La méthode des identifiants ne fonctionnera plus à partir de septembre 2020.
 - **Jeton GitHub** Collez le jeton obtenu sur GitHub.
@@ -43,7 +43,7 @@ Vous avez besoin d'un compte GitHub et d'un jeton GitHub. Tout est gratuit - con
 
 Ces paramètres sont utilisés pour les tests automatisés. Utilisez les valeurs par défaut pour les tests manuels.
 
-![Options Patchtester onglet des paramètres du serveur CI](../../../fr/images/joomla-patchtester/patchtester-options/03-patchtester-options-ci-server-settings-tab.png)
+![Options Patchtester onglet des paramètres du serveur CI](../../../fr/images/joomla-patchtester/patchtester-options/03-ci-server-settings-tab.png)
 
 - **Adresse du serveur CI** Par défaut : `https://ci.joomla.org`
 - **Activer l'intégration CI** Par défaut : Désactivé

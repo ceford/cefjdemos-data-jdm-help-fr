@@ -20,7 +20,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![permissions des utilisateurs pour le groupe](../../../fr/images/users/permissions-for-group/01-users-permissions-for-group.png)
+![permissions des utilisateurs pour le groupe](../../../fr/images/users/permissions-for-group/01-permissions-list.png)
 
 Au-dessus du tableau des permissions, des éléments sélectionnés montrent les permissions d'accès
 à l'aide d'icônes pour *Autorisé*, *Non autorisé* et *Interdit*. La légende des icônes se trouve

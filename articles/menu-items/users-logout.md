@@ -33,13 +33,13 @@ Pour modifier un élément de menu Déconnexion existant :
 
 ## Capture d'écran
 
-![Onglet des détails de déconnexion](../../../fr/images/menu-items/users-logout/01-users-logout-details-tab.png)
+![Onglet des détails de déconnexion](../../../fr/images/menu-items/users-logout/01-details-tab.png)
 
 ## Champs de formulaire
 
 ### Onglet Options
 
-![Onglet des options de déconnexion](../../../fr/images/menu-items/users-logout/02-users-logout-options-tab.png)
+![Onglet des options de déconnexion](../../../fr/images/menu-items/users-logout/02-options-tab.png)
 
 - **Page de redirection après déconnexion** Sélectionnez ou créez la page vers laquelle 
   l'utilisateur sera redirigé après avoir mis fin à sa session en se déconnectant. 

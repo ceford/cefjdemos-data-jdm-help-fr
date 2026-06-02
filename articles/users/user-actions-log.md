@@ -19,7 +19,7 @@ Sélectionnez **Utilisateurs → Journal des actions des utilisateurs** dans l
 
 ## Capture d'écran
 
-![liste des journaux d'actions des utilisateurs](../../../fr/images/users/user-actions-log/01-user-actions-log-list.png)
+![liste des journaux d'actions des utilisateurs](../../../fr/images/users/user-actions-log/01-log-list.png)
 
 *Traduit par openai.com*
 

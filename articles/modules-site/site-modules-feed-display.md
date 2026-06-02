@@ -28,7 +28,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![onglet du module d'affichage de flux](../../../fr/images/modules-site/site-modules-feed-display/01-modules-feed-display-module-tab.png)
+![onglet du module d'affichage de flux](../../../fr/images/modules-site/site-modules-feed-display/01-module-tab.png)
 
 ## Champs du formulaire
 

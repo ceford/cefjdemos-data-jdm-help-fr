@@ -25,7 +25,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![onglet du module qui est en ligne](../../../fr/images/modules-site/site-modules-whos-online/01-modules-whos-online-module-tab.png)
+![onglet du module qui est en ligne](../../../fr/images/modules-site/site-modules-whos-online/01-module-tab.png)
 
 ## Champs de formulaire
 

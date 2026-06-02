@@ -20,7 +20,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés 
 
 ## Capture d'écran
 
-![menus modifier l'onglet des détails](../../../fr/images/menus/menus-edit/01-menus-edit-menu-details-tab.png)
+![menus modifier l'onglet des détails](../../../fr/images/menus/menus-edit/01-menu-details-tab.png)
 
 ## Champs de formulaire
 

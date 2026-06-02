@@ -24,7 +24,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide distinc
 
 ## Capture d'écran
 
-![modules administrateur tableau de bord menu onglet module](../../../fr/images/modules-admin/admin-modules-administrator-dashboard-menu/01-modules-administrator-dashboard-menu-module-tab.png)
+![modules administrateur tableau de bord menu onglet module](../../../fr/images/modules-admin/admin-modules-administrator-dashboard-menu/01-module-tab.png)
 
 ## Champs de Formulaire
 

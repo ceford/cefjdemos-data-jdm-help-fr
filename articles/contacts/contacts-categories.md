@@ -21,7 +21,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![liste des catégories de contacts](../../../fr/images/contacts/contacts-categories/01-contacts-categories-list.png)
+![liste des catégories de contacts](../../../fr/images/contacts/contacts-categories/01-categories-list.png)
 
 *Traduit par openai.com*
 

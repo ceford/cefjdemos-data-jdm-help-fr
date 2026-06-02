@@ -18,7 +18,7 @@ La page *Utilisateurs : Options* est utilisée pour définir des options globale
 
 ## Capture d'écran
 
-![options des utilisateurs onglet options utilisateurs](../../../fr/images/users/users-options/01-users-options-user-options-tab.png)
+![options des utilisateurs onglet options utilisateurs](../../../fr/images/users/users-options/01-user-options-tab.png)
 
 ## Champs de formulaire
 
@@ -44,7 +44,7 @@ La page *Utilisateurs : Options* est utilisée pour définir des options globale
 
 ### Onglet Options de domaine d'email
 
-![options des utilisateurs onglet domaines d'email](../../../fr/images/users/users-options/02-users-options-email-domain-options-tab.png)
+![options des utilisateurs onglet domaines d'email](../../../fr/images/users/users-options/02-email-domain-options-tab.png)
 
 - **Nom de domaine** Saisissez une liste de domaines d'email autorisés ou interdits. Par défaut, tous les domaines sont autorisés. Les jokers (\*) sont pris en charge. Par exemple :
   - \* (Astérisque) : Autorise ou interdit tous les domaines.
@@ -54,7 +54,7 @@ La page *Utilisateurs : Options* est utilisée pour définir des options globale
 
 ### Onglet Options de mot de passe
 
-![options des utilisateurs onglet options de mot de passe](../../../fr/images/users/users-options/03-users-options-password-options-tab.png)
+![options des utilisateurs onglet options de mot de passe](../../../fr/images/users/users-options/03-password-options-tab.png)
 
 - **Nombre maximum de réinitialisations** Le nombre maximum de réinitialisations de mot de passe autorisées pendant une période donnée. Zéro indique qu'il n'y a pas de limite.
 - **Durée de réinitialisation** La période, en heures, pour le compteur de réinitialisation.
@@ -66,7 +66,7 @@ La page *Utilisateurs : Options* est utilisée pour définir des options globale
 
 ### Onglet Authentification multi-facteurs
 
-![options des utilisateurs onglet authentification multi-facteurs](../../../fr/images/users/users-options/04-users-options-multi-factor-authentication-tab.png)
+![options des utilisateurs onglet authentification multi-facteurs](../../../fr/images/users/users-options/04-multi-factor-authentication-tab.png)
 
 - **Positions de modules autorisées en frontend** Lors de l'affichage de la page d'authentification multi-facteurs en frontend, tous les modules seront masqués, sauf ceux dans les positions sélectionnées ici.
 - **Afficher le titre en frontend** Afficher un titre sur la page de vérification de l'authentification multi-facteurs en frontend ? Le titre est toujours affiché en backend. Si vous avez besoin de modifier le titre, remplacez la clé de langue `COM_USERS_HEADING_MFA` en utilisant l'option *Langues : Remplacements*.
@@ -81,21 +81,21 @@ La page *Utilisateurs : Options* est utilisée pour définir des options globale
 
 ### Onglet Historique des notes utilisateur
 
-![options des utilisateurs onglet historique des notes utilisateur](../../../fr/images/users/users-options/05-users-options-user-notes-history-tab.png)
+![options des utilisateurs onglet historique des notes utilisateur](../../../fr/images/users/users-options/05-user-notes-history-tab.png)
 
 - **Activer les versions** Enregistrer l'historique des versions des notes utilisateur.
 - **Nombre maximum de versions** Le nombre maximum de versions à stocker pour une note utilisateur. Si une note utilisateur est enregistrée et que le nombre maximum de versions a été atteint, la version la plus ancienne sera supprimée automatiquement. Si réglé à 0, les versions ne seront jamais supprimées automatiquement.
 
 ### Onglet Email de masse aux utilisateurs
 
-![options des utilisateurs onglet email de masse aux utilisateurs](../../../fr/images/users/users-options/06-users-options-mass-mail-users-tab.png)
+![options des utilisateurs onglet email de masse aux utilisateurs](../../../fr/images/users/users-options/06-mass-mail-users-tab.png)
 
 - **Préfixe de sujet** Saisissez du texte optionnel à insérer automatiquement avant le sujet de l'email de masse.
 - **Suffixe du corps du mail** Saisissez du texte optionnel à insérer automatiquement après le corps de l'email (par exemple, une signature).
 
 ### Onglet Intégration
 
-![onglet d'intégration des options utilisateurs](../../../fr/images/users/users-options/07-users-options-integration-tab.png)
+![onglet d'intégration des options utilisateurs](../../../fr/images/users/users-options/07-integration-tab.png)
 
 - **Activer les champs personnalisés** Activer la création de champs personnalisés.
 

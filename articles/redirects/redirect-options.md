@@ -28,7 +28,7 @@ Sélectionnez le lien **Plugin système de redirection** et activez le plugin da
 
 ## Capture d'écran
 
-![Onglet avancé des options de redirection](../../../fr/images/redirects/redirect-options/01-redirect-options-advanced-tab.png)
+![Onglet avancé des options de redirection](../../../fr/images/redirects/redirect-options/01-advanced-tab.png)
 
 ## Champs de Formulaire
 

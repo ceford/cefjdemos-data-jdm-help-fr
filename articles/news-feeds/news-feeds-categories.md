@@ -20,7 +20,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![Liste des flux d'actualités](../../../fr/images/news-feeds/news-feeds-categories/01-news-feeds-categories.png)
+![Liste des flux d'actualités](../../../fr/images/news-feeds/news-feeds-categories/01-categories-list.png)
 
 
 *Traduit par openai.com*

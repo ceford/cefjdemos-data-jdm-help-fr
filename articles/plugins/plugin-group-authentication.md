@@ -6,7 +6,7 @@ Les plugins de ce groupe sont utilisés pour la connexion standard des utilisate
 
 ## Authentification - Cookie
 
-![plugin d'authentification par cookie](../../../en/images/plugins/plugin-group-authentication/01-plugin-group-authentication-cookie.png)
+![plugin d'authentification par cookie](../../../en/images/plugins/plugin-group-authentication/01-authentication-cookie-plugin-tab.png)
 
 - **Durée de vie du cookie** Le nombre de jours avant l'expiration du cookie d'authentification. D'autres facteurs peuvent le faire expirer avant cette date. Des durées plus longues sont moins sécurisées.
 - **Longueur de la clé** La longueur de la clé utilisée pour chiffrer le cookie. Des longueurs plus importantes sont plus sécurisées, mais elles ralentiront les performances.
@@ -19,7 +19,7 @@ Ce plugin traite la méthode d'authentification utilisateur par défaut dans Joo
 
 Ce plugin traite l'authentification des utilisateurs contre un serveur LDAP.
 
-![plugin d'authentification ldap](../../../en/images/plugins/plugin-group-authentication/02-plugin-group-authentication-ldap.png)
+![plugin d'authentification ldap](../../../en/images/plugins/plugin-group-authentication/02-authentication-ldap-plugin-tab.png)
 
 - **Hôte** L'URL de l'hôte. Par exemple, `openldap.mycompany.org`.
 - **Port** Le numéro de port. La valeur par défaut est 389.

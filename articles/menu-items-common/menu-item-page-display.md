@@ -13,7 +13,7 @@ Tous les éléments du menu ont une mise en page similaire, mais certains champs
 
 ## Capture d'écran
 
-![onglet d'affichage de la page de l'élément de menu](../../../fr/images/menu-items-common/menu-item-page-display/01-menu-item-page-display.png)
+![onglet d'affichage de la page de l'élément de menu](../../../fr/images/menu-items-common/menu-item-page-display/01-page-display-tab.png)
 
 ## Champs de Formulaire
 

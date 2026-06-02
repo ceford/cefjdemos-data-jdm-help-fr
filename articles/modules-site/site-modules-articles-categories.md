@@ -25,7 +25,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![onglet de module de catégories d'articles](../../../fr/images/modules-site/site-modules-articles-categories/01-modules-articles-categories-module-tab.png)
+![onglet de module de catégories d'articles](../../../fr/images/modules-site/site-modules-articles-categories/01-module-tab.png)
 
 ## Champs de Formulaire
 

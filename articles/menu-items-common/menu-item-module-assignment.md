@@ -12,7 +12,7 @@ Tous les éléments de menu ont une disposition similaire, mais certains champs 
 
 ## Capture d'écran
 
-![onglet d'affectation de module d'élément de menu](../../../fr/images/menu-items-common/menu-item-module-assignment/01-menu-item-module-assignment.png)
+![onglet d'affectation de module d'élément de menu](../../../fr/images/menu-items-common/menu-item-module-assignment/01-module-assignment-tab.png)
 
 ## Champs de Formulaire
 

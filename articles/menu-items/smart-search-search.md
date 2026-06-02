@@ -33,7 +33,7 @@ Pour modifier un élément de menu de Recherche existant :
 
 ## Capture d'écran
 
-![Détails de l'onglet Recherche intelligente des éléments de menu](../../../fr/images/menu-items/smart-search-search/01-smart-search-search-details-tab.png)
+![Détails de l'onglet Recherche intelligente des éléments de menu](../../../fr/images/menu-items/smart-search-search/01-details-tab.png)
 
 ## Champs de Formulaire
 
@@ -41,7 +41,7 @@ Si *Utiliser Global* est sélectionné pour une option, la valeur par défaut de
 
 ### Onglet Options
 
-![Onglet des options d'élément de menu Recherche Intelligente](../../../fr/images/menu-items/smart-search-search/02-smart-search-search-options-tab.png)
+![Onglet des options d'élément de menu Recherche Intelligente](../../../fr/images/menu-items/smart-search-search/02-search-options-tab.png)
 
 - **Filtres de Date** Afficher ou masquer les filtres de date de début et de fin dans la recherche avancée.
 - **Recherche Avancée** Afficher ou masquer la Recherche Avancée pour l'élément.
@@ -54,7 +54,7 @@ Si *Utiliser Global* est sélectionné pour une option, la valeur par défaut de
 
 ### Onglet Avancé
 
-![Onglet avancé de l'élément de menu Recherche Intelligente](../../../fr/images/menu-items/smart-search-search/03-smart-search-search-advanced-tab.png)
+![Onglet avancé de l'élément de menu Recherche Intelligente](../../../fr/images/menu-items/smart-search-search/03-advanced-tab.png)
 
 - **Afficher Sélection** Afficher ou masquer le contrôle Afficher \# qui permet à l'utilisateur de sélectionner le nombre d'éléments à afficher dans la liste.
 - **Pagination** Afficher ou masquer le support de la Pagination. La pagination fournit des liens de page en bas de la page permettant à l'utilisateur de naviguer vers des pages supplémentaires. Ceci est nécessaire si les éléments listés ne tiennent pas sur une seule page.

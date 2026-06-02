@@ -19,7 +19,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés 
 
 ## Capture d'écran
 
-![options de tags éléments étiquetés onglet](../../../fr/images/tags/tags-options/01-tags-options-tagged-items-tab.png)
+![options de tags éléments étiquetés onglet](../../../fr/images/tags/tags-options/01-tagged-items-tab.png)
 
 ## Champs de Formulaire
 
@@ -42,7 +42,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés 
 
 ### Onglet Sélection d'Élément
 
-![options de tags onglet éléments tagués](../../../fr/images/tags/tags-options/02-tags-options-item-selection-tab.png)
+![options de tags onglet éléments tagués](../../../fr/images/tags/tags-options/02-item-selection-tab.png)
 
 - **Longueur Minimale de Recherche** Ce paramètre contrôle la longueur minimale des caractères pour la recherche et l'ajout de tags en utilisant le mode Ajax du champ de tags.
 - **Type de Correspondance** Tout retournera les éléments qui ont tous les tags. N'importe lequel retournera les éléments qui ont au moins un des tags.
@@ -52,7 +52,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés 
 
 ### Onglet Lister Tous les Tags
 
-![options de tags onglet lister tous les tags](../../../fr/images/tags/tags-options/03-tags-options-list-all-tags-tab.png)
+![options de tags onglet lister tous les tags](../../../fr/images/tags/tags-options/03-list-all-tags-tab.png)
 
 - **Disposition par Défaut de la Liste de Tous les Tags** Choisissez une disposition par défaut pour la liste de tous les tags.
 - **Ordre** Ordre dans lequel les éléments seront affichés.
@@ -64,7 +64,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés 
 
 ### Onglet Disposition Partagée
 
-![options de tags onglet disposition partagée](../../../fr/images/tags/tags-options/04-tags-options-shared-layout-tab.png)
+![options de tags onglet disposition partagée](../../../fr/images/tags/tags-options/04-shared-layout-tab.png)
 
 - **Champ de Filtre** Afficher ou masquer un champ de filtre pour la liste. Sélectionnez Masquer pour masquer le champ de filtre.
 - **Affichage Sélectif** Afficher ou masquer la liste déroulante Affichage Sélectif.
@@ -73,13 +73,13 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés 
 
 ### Onglet Saisie de Données
 
-![options de tags onglet saisie de données](../../../fr/images/tags/tags-options/05-tags-options-data-entry-tab.png)
+![options de tags onglet saisie de données](../../../fr/images/tags/tags-options/05-data-entry-tab.png)
 
 - **Mode de Saisie des Tags** Le mode Ajax recherche les tags pendant la saisie et permet la création de tags à la volée. Les tags imbriqués vous montrent une vue imbriquée avec tous les tags disponibles.
 
 ### Onglet Intégration
 
-![options de tags onglet intégration](../../../fr/images/tags/tags-options/06-tags-options-integration-tab.png)
+![options de tags onglet intégration](../../../fr/images/tags/tags-options/06-integration-tab.png)
 
 - **Afficher le Lien de Flux** Afficher ou masquer un lien de flux RSS. (Un lien de flux apparaîtra comme une icône de flux dans la barre d'adresse de la plupart des navigateurs modernes).
 

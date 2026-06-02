@@ -8,7 +8,7 @@ Les plugins de l'éditeur aident les utilisateurs à entrer du texte avec des ba
 
 L'éditeur CodeMirror est un éditeur de code qui offre un éditeur plus adapté au code source. Il propose une coloration syntaxique pour de nombreux langages de programmation. Il peut afficher les balises non appariées et aide également à maintenir une indentations cohérente du code.
 
-![Options de CodeMirror](../../../en/images/plugins/plugin-group-editors-txt/01-plugin-group-editor-codemirror.png)
+![Options de CodeMirror](../../../en/images/plugins/plugin-group-editors-txt/01-editor-codemirror-plugin-tab.png)
 
 - **Numéros de liste** Afficher les numéros de ligne dans l'éditeur.
 - **Repli de code** Permettre le repli des blocs de code.
@@ -23,7 +23,7 @@ L'éditeur CodeMirror est un éditeur de code qui offre un éditeur plus adapté
 - **Basculer en plein écran** Sélectionner la touche de fonction à utiliser pour basculer en mode plein écran.
 - **Utiliser des modificateurs** Sélectionner les touches de modification à utiliser avec la touche de bascule en plein écran.
 
-![Options avancées de CodeMirror](../../../en/images/plugins/plugin-group-editors-txt/02-plugin-group-editor-codemirror-advanced.png)
+![Options avancées de CodeMirror](../../../en/images/plugins/plugin-group-editors-txt/02-codemirror-appearance-options-tab.png)
 
 - **Thème** Définit les couleurs pour l'éditeur.
 - **Couleur de la ligne active** La couleur à utiliser pour surligner la ligne active. Sera affichée à 50% d'opacité.
@@ -42,7 +42,7 @@ Ce plugin charge un éditeur de texte de base. Cette option peut être utilisée
 
 L'éditeur TinyMCE est un éditeur WYSIWYG et est l'éditeur par défaut pour la saisie de HTML dans Joomla!.
 
-![Options du plugin TinyMCE](../../../en/images/plugins/plugin-group-editors-txt/03-plugin-group-editor-tinymce.png)
+![Options du plugin TinyMCE](../../../en/images/plugins/plugin-group-editors-txt/03-editor-tinymce-plugin-tab.png)
 
 - **Sélectionner l'onglet de sélection** Sélectionnez la fonctionnalité *Set 2*, *Set 1* ou *Set 0*. Avec *Set 2* sélectionné, vous voyez l'éditeur pour l'utilisation *Public*. *Set 1* est sélectionné par défaut pour les Managers et les Inscrits, *Set 0* est sélectionné par défaut pour les Administrateurs, les Éditeurs et les Super Utilisateurs.
 
@@ -77,7 +77,7 @@ Chaque onglet a une longue liste d'options qui ne sont pas illustrées ici. La l
 
 #### Onglet Avancé de TinyMCE
 
-![Options avancées de TinyMCE](../../../en/images/plugins/plugin-group-editors-txt/04-plugin-group-editor-tinymce-advanced.png)
+![Options avancées de TinyMCE](../../../en/images/plugins/plugin-group-editors-txt/04-tinymce-advanced-tab.png)
 
 - **Nombre de jeux** Nombre de jeux pouvant être créés. Minimum 3.
 - **Hauteur en HTML** La hauteur, en pixels, de la fenêtre contextuelle en mode HTML.

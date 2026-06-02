@@ -25,7 +25,7 @@ Une bannière peut être une image cliquable ou un code personnalisé. Le type d
 montré dans la capture d'écran ci-dessous. Le type personnalisé remplace la boîte de sélection
 d'image par une zone de texte pour le code.
 
-![Onglet de modification des détails des bannières](../../../fr/images/banners/banners-edit/01-banners-edit-details-tab.png)
+![Onglet de modification des détails des bannières](../../../fr/images/banners/banners-edit/01-details-tab.png)
 
 ## Champs de formulaire
 
@@ -74,7 +74,7 @@ d'image par une zone de texte pour le code.
 
 ### Onglet Détails de la Bannière
 
-![Onglet des détails d'édition des bannières](../../../fr/images/banners/banners-edit/02-banners-edit-banner-details-tab.png)
+![Onglet des détails d'édition des bannières](../../../fr/images/banners/banners-edit/02-banner-details-tab.png)
 
 - **Impressions Max.** Le nombre d'Impressions achetées pour cette
   Bannière. Les impressions sont le nombre de fois qu'une Bannière sera affichée

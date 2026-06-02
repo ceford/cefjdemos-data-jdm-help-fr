@@ -19,7 +19,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![Liste des pistes des bannières](../../../fr/images/banners/banners-tracks/01-banners-tracks-list.png)
+![Liste des pistes des bannières](../../../fr/images/banners/banners-tracks/01-tracks-list.png)
 
 ## En-têtes de colonnes
 

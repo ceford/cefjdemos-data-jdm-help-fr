@@ -33,7 +33,7 @@ Pour modifier un élément de menu **Lister les Liens Web dans une Catégorie** 
 
 ## Capture d'écran
 
-![Type d'élément de menu Liste des liens Web dans une catégorie](../../../fr/images/menu-items/weblinks-weblink-category/01-weblinks-list-web-links-in-a-category-details-tab.png)
+![Type d'élément de menu Liste des liens Web dans une catégorie](../../../fr/images/menu-items/weblinks-weblink-category/01-details-tab.png)
 
 Tous les champs de saisie du formulaire sont couverts dans les *Éléments communs*.
 

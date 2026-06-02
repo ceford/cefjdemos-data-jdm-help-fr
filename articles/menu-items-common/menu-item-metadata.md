@@ -12,7 +12,7 @@ Tous les éléments de menu ont une disposition similaire, mais certains des cha
 
 ## Capture d'écran
 
-![élément de menu onglet métadonnées](../../../fr/images/menu-items-common/menu-item-metadata/01-menu-item-metadata.png)
+![élément de menu onglet métadonnées](../../../fr/images/menu-items-common/menu-item-metadata/01-metadata-tab.png)
 
 ## Champs de formulaire
 

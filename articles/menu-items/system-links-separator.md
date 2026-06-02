@@ -31,7 +31,7 @@ Pour modifier un élément de menu Séparateur existant :
 
 ## Capture d'écran
 
-![Alias de l'élément de menu](../../../fr/images/menu-items/system-links-separator/01-system-links-separator-details-tab.png)
+![Alias de l'élément de menu](../../../fr/images/menu-items/system-links-separator/01-details-tab.png)
 
 Tous les champs de saisie du formulaire sont couverts dans les *Éléments communs*.
 

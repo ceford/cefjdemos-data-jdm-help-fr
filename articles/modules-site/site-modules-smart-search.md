@@ -24,7 +24,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![onglet du module de recherche intelligente](../../../fr/images/modules-site/site-modules-smart-search/01-modules-smart-search-module-tab.png)
+![onglet du module de recherche intelligente](../../../fr/images/modules-site/site-modules-smart-search/01-module-tab.png)
 
 ## Champs de formulaire
 

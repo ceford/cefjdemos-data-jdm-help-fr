@@ -22,7 +22,7 @@ Certains éléments de cette page sont traités dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![weblinks éditer l'onglet de catégorie](../../../fr/images/weblinks/weblinks-categories-edit/01-web-links-edit-category-category-tab.png)
+![weblinks éditer l'onglet de catégorie](../../../fr/images/weblinks/weblinks-categories-edit/01-category-tab.png)
 
 ## Champs du formulaire
 

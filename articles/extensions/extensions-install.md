@@ -40,7 +40,7 @@ Une seule méthode est nécessaire pour installer une extension donnée. La proc
 
 ## Onglet Télécharger le fichier du package
 
-![Onglet installer extension télécharger le fichier du package](../../../fr/images/extensions/extensions-install/01-install-upload-package-file.png)
+![Onglet installer extension télécharger le fichier du package](../../../fr/images/extensions/extensions-install/01-upload-package-file.png)
 
 - Faites glisser et déposez ou parcourez jusqu'à l'emplacement où vous avez téléchargé le fichier d'archive de l'extension.
 

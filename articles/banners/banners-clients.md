@@ -20,7 +20,7 @@ Certains éléments de cette page sont abordés dans des articles d'aide distinc
 
 ## Capture d'écran
 
-![Bannières Clients](../../../en/images/banners/banners-clients/01-banners-clients-list.png)
+![Bannières Clients](../../../en/images/banners/banners-clients/01-clients-list.png)
 
 ## En-têtes de colonnes
 

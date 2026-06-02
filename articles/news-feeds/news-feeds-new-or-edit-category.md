@@ -22,7 +22,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés 
 
 ## Capture d'écran
 
-![Éditer la catégorie des flux de nouvelles dans l'onglet catégorie](../../../fr/images/news-feeds/news-feeds-new-or-edit-category/01-news-feeds-edit-category-category-tab.png)
+![Éditer la catégorie des flux de nouvelles dans l'onglet catégorie](../../../fr/images/news-feeds/news-feeds-new-or-edit-category/01-category-tab.png)
 
 ## Champs de formulaire
 
@@ -32,7 +32,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés 
 
 ### Onglet Options
 
-![Éditer la catégorie des flux d'actualités onglet des options](../../../fr/images/news-feeds/news-feeds-new-or-edit-category/02-news-feeds-edit-category-options-tab.png)
+![Éditer la catégorie des flux d'actualités onglet des options](../../../fr/images/news-feeds/news-feeds-new-or-edit-category/02-options-tab.png)
 
 - **Disposition** Sélectionnez une disposition parmi les choix disponibles.
 - **Image** Choisissez une image à afficher avec cette catégorie dans le Frontend.

@@ -35,13 +35,13 @@ Pour modifier un élément de menu Liste de Toutes les Catégories de Flux d'Act
 
 ## Capture d'écran
 
-![Menu Item list all News Feed Categories details tab](../../../fr/images/menu-items/news-feeds-list-all-news-feed-categories/01-news-feeds-list-all-categories-details-tab.png)
+![Menu Item list all News Feed Categories details tab](../../../fr/images/menu-items/news-feeds-list-all-news-feed-categories/01-details-tab.png)
 
 ## Champs de Formulaire
 
 ### Onglet Catégories
 
-![Liste des éléments de menu de toutes les catégories de flux de nouvelles onglet catégories](../../../fr/images/menu-items/news-feeds-list-all-news-feed-categories/02-news-feeds-list-all-categories-tree-categories-tab.png)
+![Liste des éléments de menu de toutes les catégories de flux de nouvelles onglet catégories](../../../fr/images/menu-items/news-feeds-list-all-news-feed-categories/02-categories-tab.png)
 
 - **Description de la Catégorie de Premier Niveau** Afficher ou masquer la description de la catégorie de premier niveau. Notez que cette description peut être remplacée pour cette mise en page en saisissant une *Description Alternative*.
 - **Description Alternative** Si vous saisissez du texte dans ce champ, il remplacera la Description de la Catégorie de Premier Niveau, si elle en a une. Si l'option Description de Premier Niveau est définie sur *Afficher*, cette description apparaîtra à la place de la description normale de la catégorie.
@@ -52,7 +52,7 @@ Pour modifier un élément de menu Liste de Toutes les Catégories de Flux d'Act
 
 ### Onglet Options d'Affichage du Flux
 
-![Liste des éléments de menu de toutes les catégories de flux de nouvelles onglet options d'affichage du flux](../../../fr/images/menu-items/news-feeds-list-all-news-feed-categories/03-news-feeds-list-all-categories-tree-feed-display-options-tab.png)
+![Liste des éléments de menu de toutes les catégories de flux de nouvelles onglet options d'affichage du flux](../../../fr/images/menu-items/news-feeds-list-all-news-feed-categories/03-feed-display-options-tab.png)
 
 - **Image du Flux** Afficher ou masquer l'image des flux de nouvelles.
 - **Description du Flux** Afficher ou masquer les descriptions des flux de nouvelles.

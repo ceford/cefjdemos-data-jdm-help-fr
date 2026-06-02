@@ -28,7 +28,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![Liste des associations multilingues](../../../fr/images/multilingual-associations/multilingual-associations/01-multilingual-associations-list.png)
+![Liste des associations multilingues](../../../fr/images/multilingual-associations/multilingual-associations/01-associations-list.png)
 
 Dans cette capture d'écran, un article a été associé à un article dans une autre langue. La liste ne contient que les éléments dont la langue a été définie. Les articles avec la langue réglée sur *Tous* ne seront pas présents.
 

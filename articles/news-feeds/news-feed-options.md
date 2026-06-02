@@ -21,7 +21,7 @@ Certains éléments de cette page sont traités dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![Options des flux d'actualités onglet flux d'actualités](../../../fr/images/news-feeds/news-feed-options/01-news-feeds-options-news-feed-tab.png)
+![Options des flux d'actualités onglet flux d'actualités](../../../fr/images/news-feeds/news-feed-options/01-news-feed-tab.png)
 
 ## Champs de Formulaire
 
@@ -43,7 +43,7 @@ Ces paramètres s'appliquent à tous les flux de nouvelles à moins qu'ils ne so
 
 ### Onglet Catégorie
 
-![Options de la catégorie des flux de nouvelles](../../../fr/images/news-feeds/news-feed-options/02-news-feeds-options-category-tab.png)
+![Options de la catégorie des flux de nouvelles](../../../fr/images/news-feeds/news-feed-options/02-category-tab.png)
 
 - **Choisir une mise en page** Sélectionner Blog, Liste ou une mise en page définie par l'utilisateur à afficher par défaut lorsqu'un lien de catégorie est sélectionné.
 - **Titre de la Catégorie** Afficher ou masquer le titre de la catégorie.
@@ -57,7 +57,7 @@ Ces paramètres s'appliquent à tous les flux de nouvelles à moins qu'ils ne so
 
 ### Onglet Catégories
 
-![Options des catégories des flux de nouvelles](../../../fr/images/news-feeds/news-feed-options/03-news-feeds-options-categories-tab.png)
+![Options des catégories des flux de nouvelles](../../../fr/images/news-feeds/news-feed-options/03-categories-tab.png)
 
 - **Description de la Catégorie de Premier Niveau** Afficher ou masquer la description de la catégorie de premier niveau.
 - **Niveaux de Sous-catégories** Combien de niveaux dans la hiérarchie à afficher.
@@ -67,7 +67,7 @@ Ces paramètres s'appliquent à tous les flux de nouvelles à moins qu'ils ne so
 
 ### Onglet Dispositions en Liste
 
-![Options des dispositions en liste des flux de nouvelles](../../../fr/images/news-feeds/news-feed-options/04-news-feeds-options-list-layouts-tab.png)
+![Options des dispositions en liste des flux de nouvelles](../../../fr/images/news-feeds/news-feed-options/04-list-layouts-tab.png)
 
 - **Champ de Filtrage** Le champ de filtrage crée un champ de texte où un utilisateur peut entrer un champ à utiliser pour filtrer les articles affichés dans la liste.
     - *Masquer* Ne pas afficher de champ de filtrage.

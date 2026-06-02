@@ -22,11 +22,11 @@ Certains éléments de cette page sont couverts dans des articles d'aide distinc
 
 ## Capture d'écran - Liste des modules administrateur installés
 
-![liste des modules administrateur](../../../fr/images/modules-admin/admin-modules-administrator/01-modules-administrator-list.png)
+![liste des modules administrateur](../../../fr/images/modules-admin/admin-modules-administrator/01-administrator-list.png)
 
 ## Capture d'écran - Liste des Modules Administrateurs Disponibles
 
-![modules administrateurs disponibles](../../../fr/images/modules-admin/admin-modules-administrator/02-modules-administrator-available.png)
+![modules administrateurs disponibles](../../../fr/images/modules-admin/admin-modules-administrator/02-available-modules.png)
 
 ## Positions des Modules
 

@@ -6,7 +6,7 @@ L’onglet *Modules : Module* est présent dans tous les formulaires d’éditio
 
 ## Capture d'écran
 
-![journaux d'actions dernier onglet du module](../../../fr/images/modules/modules-module-tab/01-modules-custom-module-tab.png)
+![journaux d'actions dernier onglet du module](../../../fr/images/modules/modules-module-tab/01-module-tab.png)
 
 ## Champs de formulaire
 

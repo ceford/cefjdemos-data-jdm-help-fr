@@ -28,7 +28,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![onglet module personnalisé](../../../fr/images/modules-site/site-modules-custom/01-modules-custom-module-tab.png)
+![onglet module personnalisé](../../../fr/images/modules-site/site-modules-custom/01-module-tab.png)
 
 ## Champs de Formulaire
 

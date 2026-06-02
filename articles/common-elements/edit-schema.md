@@ -21,11 +21,11 @@ Si l'option **Aucun** est sélectionnée, il n'y a pas de données supplémentai
 
 ### Exemple : Schéma d'Article
 
-![Onglet de schéma avec l'option article sélectionnée](../../../fr/images/common-elements/edit-schema/01-articles-edit-schema-tab-article.png)
+![Onglet de schéma avec l'option article sélectionnée](../../../fr/images/common-elements/edit-schema/01-schema-tab-article.png)
 
 ### Exemple : Schéma de Personne
 
-![Onglet de schéma avec l'option personne sélectionnée](../../../fr/images/common-elements/edit-schema/02-articles-edit-schema-tab-person.png)
+![Onglet de schéma avec l'option personne sélectionnée](../../../fr/images/common-elements/edit-schema/02-schema-tab-person.png)
 
 *Traduit par openai.com*
 

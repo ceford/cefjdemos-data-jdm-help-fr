@@ -22,7 +22,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés 
 
 ## Capture d'écran
 
-![Onglet d'édition des flux d'actualités](../../../fr/images/news-feeds/news-feeds-new-or-edit/01-news-feeds-edit-tab.png)
+![Onglet d'édition des flux d'actualités](../../../fr/images/news-feeds/news-feeds-new-or-edit/01-edit-tab.png)
 
 ## Champs de Formulaire
 
@@ -35,7 +35,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide séparés 
 
 ### Onglet Options
 
-![Onglet options des flux de nouvelles](../../../fr/images/news-feeds/news-feeds-new-or-edit/02-news-feeds-options-tab.png)
+![Onglet options des flux de nouvelles](../../../fr/images/news-feeds/news-feeds-new-or-edit/02-options-tab.png)
 
 #### Panneau d’Images
 

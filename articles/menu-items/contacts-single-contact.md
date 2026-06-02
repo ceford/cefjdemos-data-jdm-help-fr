@@ -33,7 +33,7 @@ Pour modifier un élément de menu Contact Unique existant :
 
 ## Capture d'écran
 
-![Élément de menu onglet détails d'un seul contact](../../../fr/images/menu-items/contacts-single-contact/01-contacts-single-contact-details-tab.png)
+![Élément de menu onglet détails d'un seul contact](../../../fr/images/menu-items/contacts-single-contact/01-details-tab.png)
 
 ## Champs de Formulaire
 
@@ -46,7 +46,7 @@ Pour modifier un élément de menu Contact Unique existant :
 
 Les options d'affichage de contact contrôlent l'apparence de la disposition de la liste.
 
-![Onglet des options d'affichage de contact d'un élément de menu unique](../../../fr/images/menu-items/contacts-single-contact/02-contacts-single-contact-contact-display-options-tab.png)
+![Onglet des options d'affichage de contact d'un élément de menu unique](../../../fr/images/menu-items/contacts-single-contact/02-contact-display-options-tab.png)
 
 - **Catégorie de Contact** Afficher ou masquer l'affichage de la vue de la catégorie de contact. 
   Les options suivantes sont disponibles.
@@ -83,7 +83,7 @@ Les options d'affichage de contact contrôlent l'apparence de la disposition de 
 
 ### Options de Mail
 
-![Onglet des options de mail d'un élément de menu unique](../../../fr/images/menu-items/contacts-single-contact/03-contacts-single-contact-mail-options-tab.png)
+![Onglet des options de mail d'un élément de menu unique](../../../fr/images/menu-items/contacts-single-contact/03-mail-options-tab.png)
 
 - **Formulaire de Contact** Afficher ou masquer le *formulaire de contact* du contact.
 - **Envoyer une copie à l'expéditeur** Afficher ou masquer une case à cocher

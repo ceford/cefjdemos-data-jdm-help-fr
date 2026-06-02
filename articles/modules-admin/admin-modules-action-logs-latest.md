@@ -27,7 +27,7 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![dernière image des journaux d'action du module](../../../fr/images/modules-admin/admin-modules-action-logs-latest/01-modules-action-logs-latest-module-tab.png)
+![dernière image des journaux d'action du module](../../../fr/images/modules-admin/admin-modules-action-logs-latest/01-module-tab.png)
 
 ## Champs de Formulaire
 

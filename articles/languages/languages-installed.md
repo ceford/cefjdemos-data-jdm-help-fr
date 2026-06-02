@@ -19,7 +19,7 @@ Certains éléments de cette page sont abordés dans des articles d'aide sépar�
 
 ## Capture d'écran
 
-![Liste des langues installées pour le site](../../../fr/images/languages/languages-installed/01-languages-installed-site.png)
+![Liste des langues installées pour le site](../../../fr/images/languages/languages-installed/01-languages-installed-list.png)
 
 ## Filtres de liste
 

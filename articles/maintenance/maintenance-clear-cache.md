@@ -19,7 +19,7 @@ Certains aspects de cette page sont abordés dans des articles d'aide séparés 
 
 ## Capture d'écran
 
-![Maintenance Vider le Cache](../../../fr/images/maintenance/maintenance-clear-cache/01-maintenance-clear-cache.png)
+![Maintenance Vider le Cache](../../../fr/images/maintenance/maintenance-clear-cache/01-cache-list.png)
 
 ## En-têtes de colonne
 

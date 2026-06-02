@@ -26,7 +26,7 @@ Certains éléments de cette page sont couverts dans des articles d’aide sépa
 
 ## Capture d'écran
 
-![onglet du module des articles les plus lus](../../../fr/images/modules-site/site-modules-articles-most-read/01-modules-articles-most-read-module-tab.png)
+![onglet du module des articles les plus lus](../../../fr/images/modules-site/site-modules-articles-most-read/01-module-tab.png)
 
 ## Champs de formulaire
 
