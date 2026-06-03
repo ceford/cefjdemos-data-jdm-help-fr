@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menus_Menu_Item_Single_Weblink  / Display title: Lien Web Unique -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menus_Menu_Item_Single_Weblink",
+  "title": "Lien Web Unique ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

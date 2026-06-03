@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Media / Display title: Média -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Media",
+  "title": "Média ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

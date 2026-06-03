@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Redirect:_Options  / Display title: Redirection : Options -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Redirect:_Options",
+  "title": "Redirection : Options ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

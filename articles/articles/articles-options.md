@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Articles:_Options / Display title: Articles : Paramètres -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Articles:_Options",
+  "title": "Articles : Paramètres ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

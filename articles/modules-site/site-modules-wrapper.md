@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Wrapper / Display title:  Modules : Fenêtre intégrée (IFrame) -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Wrapper",
+  "title": "Modules : Fenêtre intégrée (IFrame) ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

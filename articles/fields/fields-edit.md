@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Fields:_Edit / Display title: Articles: Modifier le champ -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Fields:_Edit",
+  "title": "Articles: Modifier le champ ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

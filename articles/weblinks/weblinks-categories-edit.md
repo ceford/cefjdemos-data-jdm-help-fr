@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Components_Weblinks_Categories_Edit  / Display title: Liens Web : Modifier la Catégorie -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Components_Weblinks_Categories_Edit",
+  "title": "Liens Web : Modifier la Catégorie ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

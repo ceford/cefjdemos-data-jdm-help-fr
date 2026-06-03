@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Create_Article / Display title: Créer un article -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Create_Article",
+  "title": "Créer un article ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

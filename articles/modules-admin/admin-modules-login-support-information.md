@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Login_Support_Information  / Display title: Modules : Connexion Support Informations  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Login_Support_Information",
+  "title": "Modules : Connexion Support Informations  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

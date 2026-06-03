@@ -1,4 +1,11 @@
-<!-- Filename: Chunk4x:Extensions_Plugin_Manager_Edit_Media_Action_Group  / Display title: Groupe d'action médiatique  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Media_Action_Group",
+  "title": "Groupe d'action médiatique  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description du Groupe
 

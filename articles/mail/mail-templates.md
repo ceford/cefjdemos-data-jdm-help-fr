@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Mail_Templates  / Display title: Modèles de courrier -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Mail_Templates",
+  "title": "Modèles de courrier ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

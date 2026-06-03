@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Articles_-_Most_Read  / Display title: Modules: Articles - Les plus lus -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Articles_-_Most_Read",
+  "title": "Modules: Articles - Les plus lus ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Language_Switcher  / Display title: Modules: Changeur de langue -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Language_Switcher",
+  "title": "Modules: Changeur de langue ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

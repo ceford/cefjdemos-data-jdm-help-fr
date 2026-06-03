@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:List_Batch_Process  / Display title: Liste des Processus par Lot -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:List_Batch_Process",
+  "title": "Liste des Processus par Lot ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Objectif
 

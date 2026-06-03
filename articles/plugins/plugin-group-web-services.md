@@ -1,4 +1,11 @@
-<!-- Filename: Chunk4x:Extensions_Plugin_Manager_Edit_Web_Services_Group  / Display title: Groupe des services Web -->
+<!--
+{
+  "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Web_Services_Group",
+  "title": "Groupe des services Web ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description du groupe
 

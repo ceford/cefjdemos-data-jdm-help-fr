@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Search  / Display title: Rechercher -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Search",
+  "title": "Rechercher ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

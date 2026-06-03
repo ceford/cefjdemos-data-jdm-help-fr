@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Heading  / Display title: Titre du Menu -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Heading",
+  "title": "Titre du Menu ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

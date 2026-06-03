@@ -1,4 +1,11 @@
-<!-- Filename: Chunk4x:Extensions_Plugin_Manager_Edit_Smart_Search_Group  / Display title: Groupe Finder -->
+<!--
+{
+  "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Smart_Search_Group",
+  "title": "Groupe Finder ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description du Groupe
 

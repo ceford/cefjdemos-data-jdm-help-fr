@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Category  / Display title: Catégorie de l'élément de menu  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Category",
+  "title": "Catégorie de l'élément de menu  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

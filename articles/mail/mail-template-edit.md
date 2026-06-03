@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Mail_Template:_Edit  / Display title: Modifier le modèle de courrier  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Mail_Template:_Edit",
+  "title": "Modifier le modèle de courrier  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

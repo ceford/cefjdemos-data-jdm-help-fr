@@ -1,4 +1,11 @@
-<!-- Filename: Chunk4x:Extensions_Plugin_Manager_Edit_Fields_Group  / Display title: Groupe de Champs -->
+<!--
+{
+  "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Fields_Group",
+  "title": "Groupe de Champs ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description du Groupe
 

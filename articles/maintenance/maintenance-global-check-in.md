@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Maintenance:_Global_Check-in / Display title: Maintenance: Déverrouillage global -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Maintenance:_Global_Check-in",
+  "title": "Maintenance: Déverrouillage global ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

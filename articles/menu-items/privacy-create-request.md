@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Create_Request  / Display title: Élément de menu : Créer une demande -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Create_Request",
+  "title": "Élément de menu : Créer une demande ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

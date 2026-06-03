@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Editors / Display title: Éditeur -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Editors",
+  "title": "Éditeur ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## TinyMCE
 

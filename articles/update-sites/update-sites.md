@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Extensions:_Update_Sites  / Display title: Mettre à jour les sites  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Extensions:_Update_Sites",
+  "title": "Mettre à jour les sites  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

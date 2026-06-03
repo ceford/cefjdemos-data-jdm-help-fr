@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:User_Notes:_New_or_Edit_Category  / Display title: Notes de l'utilisateur : Nouvelle ou Modifier la Catégorie -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit_Category",
+  "title": "Notes de l'utilisateur : Nouvelle ou Modifier la Catégorie ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 
 ## Description

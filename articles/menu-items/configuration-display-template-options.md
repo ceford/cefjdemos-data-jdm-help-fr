@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Display_Template_Options  / Display title: Afficher les options de modèle -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Display_Template_Options",
+  "title": "Afficher les options de modèle ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Frontend_Link  / Display title: Modules : Lien de l'interface frontend -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Frontend_Link",
+  "title": "Modules : Lien de l'interface frontend ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

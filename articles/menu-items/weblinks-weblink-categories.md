@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menus_Menu_Item_Weblink_Categories  / Display title: Lister toutes les catégories de liens Web -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menus_Menu_Item_Weblink_Categories",
+  "title": "Lister toutes les catégories de liens Web ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

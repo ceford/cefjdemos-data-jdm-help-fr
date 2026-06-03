@@ -1,4 +1,11 @@
-Traduire le texte Markdown de l'anglais vers le français : <!-- Filename: Help4.x:Admin_Modules:_User_Menu  / Display title: Modules : Menu Utilisateur -->
+Traduire le texte Markdown de l'anglais vers le français : <!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_User_Menu",
+  "title": "Modules : Menu Utilisateur ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Breadcrumbs / Display title: Modules : File de navigation -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Breadcrumbs",
+  "title": "Modules : File de navigation ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

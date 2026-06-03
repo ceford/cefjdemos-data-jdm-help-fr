@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Users:_Options / Display title: Utilisateurs : Paramètres -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Users:_Options",
+  "title": "Utilisateurs : Paramètres ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 
