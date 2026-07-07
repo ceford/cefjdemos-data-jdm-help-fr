@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:News_Feeds",
-  "title": "Flux de Nouvelles ",
+  "title": "Flux de Nouvelles: Introduction",
   "description": "", 
   "author": ""
 }

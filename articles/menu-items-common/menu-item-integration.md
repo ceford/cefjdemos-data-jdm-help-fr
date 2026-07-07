@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_Integration",
-  "title": "Intégration d'élément de menu  ",
+  "title": "Intégration d'élément de menu ",
   "description": "", 
   "author": ""
 }

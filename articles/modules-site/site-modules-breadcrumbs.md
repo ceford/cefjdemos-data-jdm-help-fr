@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Breadcrumbs",
-  "title": "Modules : File de navigation ",
+  "title": "Modules : File de navigation",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Maintenance:_Global_Check-in",
-  "title": "Maintenance: Déverrouillage global ",
+  "title": "Maintenance: Déverrouillage global",
   "description": "", 
   "author": ""
 }

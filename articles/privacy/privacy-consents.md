@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Privacy:_Consents",
-  "title": "Confidentialité : Consentements ",
+  "title": "Confidentialité : Consentements",
   "description": "", 
   "author": ""
 }

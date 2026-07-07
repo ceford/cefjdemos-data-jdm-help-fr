@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help5.x:Scheduled_Tasks:_Options",
-  "title": "Configuration des tâches planifiées ",
+  "title": "Configuration des tâches planifiées",
   "description": "", 
   "author": ""
 }

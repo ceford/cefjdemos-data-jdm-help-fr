@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Maintenance:_Clear_Cache",
-  "title": "Maintenance: Vider le cache ",
+  "title": "Maintenance: Vider le cache",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Confirm_Request",
-  "title": "Élement de Menu : Confirmer la Demande ",
+  "title": "Élement de Menu : Confirmer la Demande",
   "description": "", 
   "author": ""
 }

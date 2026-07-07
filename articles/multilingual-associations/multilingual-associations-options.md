@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Multilingual_Associations:_Options",
-  "title": "Associations multilingues : Paramètres ",
+  "title": "Associations multilingues : Paramètres",
   "description": "", 
   "author": ""
 }

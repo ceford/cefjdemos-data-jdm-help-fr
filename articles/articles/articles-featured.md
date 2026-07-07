@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Articles:_Featured",
-  "title": "Articles : Articles épinglés ",
+  "title": "Articles : Articles épinglés",
   "description": "", 
   "author": ""
 }

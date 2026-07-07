@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Modules_Menu_Assignment_Tab",
-  "title": "Modules : Onglet d'Attribution de Menu ",
+  "title": "Modules : Onglet d'Attribution de Menu",
   "description": "", 
   "author": ""
 }

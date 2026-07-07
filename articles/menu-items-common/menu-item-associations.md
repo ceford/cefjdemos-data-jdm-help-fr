@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_Associations",
-  "title": "Associations des éléments du menu  ",
+  "title": "Associations des éléments du menu ",
   "description": "", 
   "author": ""
 }

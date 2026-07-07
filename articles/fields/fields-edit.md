@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Fields:_Edit",
-  "title": "Articles: Modifier le champ ",
+  "title": "Articles: Modifier le champ",
   "description": "", 
   "author": ""
 }

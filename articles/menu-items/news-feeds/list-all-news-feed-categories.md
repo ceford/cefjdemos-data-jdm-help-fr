@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_List_All_News_Feed_Categories",
-  "title": "Lister toutes les catégories du fil d'actualité ",
+  "title": "Lister toutes les catégories du fil d'actualité",
   "description": "", 
   "author": ""
 }

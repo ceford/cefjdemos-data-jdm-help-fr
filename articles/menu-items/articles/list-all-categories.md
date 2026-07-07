@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories",
-  "title": "Menus : Liste des catégories d'une catégorie parente ",
+  "title": "Menus : Liste des catégories d'une catégorie parente",
   "description": "", 
   "author": ""
 }

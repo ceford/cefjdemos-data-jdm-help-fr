@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Guided_Tours:_Steps",
-  "title": "Visites guidées : Étapes ",
+  "title": "Visites guidées : Étapes",
   "description": "", 
   "author": ""
 }

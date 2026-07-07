@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Mass_Mail_Users",
-  "title": "Envoi en masse aux utilisateurs ",
+  "title": "Envoi en masse aux utilisateurs",
   "description": "", 
   "author": ""
 }

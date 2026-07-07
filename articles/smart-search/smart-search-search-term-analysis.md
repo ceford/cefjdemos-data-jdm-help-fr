@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Search_Term_Analysis",
-  "title": "Recherche Intelligente : Analyse des Termes de Recherche  ",
+  "title": "Recherche Intelligente : Analyse des Termes de Recherche ",
   "description": "", 
   "author": ""
 }

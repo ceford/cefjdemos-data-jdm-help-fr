@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Category_List",
-  "title": "Menus : Liste d'articles d'une catégorie ",
+  "title": "Menus : Liste d'articles d'une catégorie",
   "description": "", 
   "author": ""
 }

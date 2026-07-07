@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_List_Layouts",
-  "title": "Dispositions de la liste des éléments du menu  ",
+  "title": "Dispositions de la liste des éléments du menu ",
   "description": "", 
   "author": ""
 }

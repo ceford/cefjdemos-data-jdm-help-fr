@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Feed_Display",
-  "title": "Modules: Affichage des Flux  ",
+  "title": "Modules: Affichage des Flux ",
   "description": "", 
   "author": ""
 }

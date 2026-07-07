@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Multilingual_Associations:_Edit",
-  "title": "Associations multilingues : Modifier ",
+  "title": "Associations multilingues : Modifier",
   "description": "", 
   "author": ""
 }

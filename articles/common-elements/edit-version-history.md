@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Components_Version_History",
-  "title": "Modifier l'historique des versions ",
+  "title": "Modifier l'historique des versions",
   "description": "", 
   "author": ""
 }

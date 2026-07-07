@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Articles_-_Related",
-  "title": "Modules : Articles - Recommandés ",
+  "title": "Modules : Articles - Recommandés",
   "description": "", 
   "author": ""
 }

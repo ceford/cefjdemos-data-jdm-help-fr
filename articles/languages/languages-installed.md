@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Languages:_Installed",
-  "title": "Langues : Installées ",
+  "title": "Langues : Installées",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit",
-  "title": "Notes d'utilisateur: Nouveau/Modifier ",
+  "title": "Notes d'utilisateur: Nouveau/Modifier",
   "description": "", 
   "author": ""
 }

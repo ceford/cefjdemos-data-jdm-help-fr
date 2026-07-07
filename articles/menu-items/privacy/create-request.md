@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Create_Request",
-  "title": "Élément de menu : Créer une demande ",
+  "title": "Élément de menu : Créer une demande",
   "description": "", 
   "author": ""
 }

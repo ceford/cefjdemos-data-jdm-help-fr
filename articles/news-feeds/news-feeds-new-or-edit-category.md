@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:News_Feeds:_New_or_Edit_Category",
-  "title": "Flux d'actualités : Modifier la catégorie ",
+  "title": "Flux d'actualités : Modifier la catégorie",
   "description": "", 
   "author": ""
 }

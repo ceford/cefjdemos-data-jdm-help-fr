@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Permissions_for_Group",
-  "title": "Permissions pour le groupe ",
+  "title": "Permissions pour le groupe",
   "description": "", 
   "author": ""
 }

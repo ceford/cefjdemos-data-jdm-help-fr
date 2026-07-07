@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Mail_Templates",
-  "title": "Modèles de courrier ",
+  "title": "Modèles de courrier",
   "description": "", 
   "author": ""
 }

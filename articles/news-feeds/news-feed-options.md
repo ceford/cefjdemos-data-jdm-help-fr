@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:News_Feed:_Options",
-  "title": "Flux d'actualités : Options ",
+  "title": "Flux d'actualités : Options",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Tags:_New_or_Edit",
-  "title": "Tags : Ajouter ou Modifier un tag ",
+  "title": "Tags : Ajouter ou Modifier un tag",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Action_Logs_-_Latest",
-  "title": "Modules: Journaux d'action - Dernier ",
+  "title": "Modules: Journaux d'action - Dernier",
   "description": "", 
   "author": ""
 }
