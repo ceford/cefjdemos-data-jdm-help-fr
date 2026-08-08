@@ -46,6 +46,8 @@ Certains éléments de cette page sont couverts dans des articles d'aide sépar�
 - **Page de redirection après connexion** Sélectionnez ou créez la page vers laquelle l'utilisateur sera redirigé après une connexion réussie. Sélectionnez parmi toutes les pages répertoriées dans la liste du menu contextuel. Si aucun élément de menu n'est sélectionné, les utilisateurs resteront sur la même page après connexion.
 - **Page de redirection après déconnexion** Sélectionnez ou créez la page vers laquelle l'utilisateur sera redirigé après une déconnexion réussie. Sélectionnez parmi toutes les pages répertoriées dans la liste du menu contextuel. Si aucun élément de menu n'est sélectionné, les utilisateurs resteront sur la même page après déconnexion.
 - **Page d'inscription** Sélectionnez ou créez une page pour l'inscription.
+- **Réinitialiser le lien de mot de passe** Afficher ou masquer le lien pour réinitialiser le mot de passe (nouveau dans la version 6.2).
+- **Lien du nom d'utilisateur oublié** Afficher ou masquer le lien pour récupérer le nom d'utilisateur (nouveau dans la version 6.2).
 - **Salutation** Affichez ou masquez le texte de salutation simple.
 - **Nom/Nom d'utilisateur** Affiche le nom ou le nom d'utilisateur après la connexion.
 - **Lien vers le profil** Affichez ou masquez un lien vers le profil de l'utilisateur.
