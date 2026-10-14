@@ -73,7 +73,7 @@ Vous pouvez également créer un nouvel article en sélectionnant l'icône **+**
 
 **Remarque :** Cet onglet peut être masqué dans *Article : Options* par un utilisateur avec des permissions d'administration. Il permet d'afficher des images et des liens dans les articles en utilisant des mises en page standardisées.
 
-![Onglet images et liens](../../../fr/images/articles/articles-edit/02-images-tab.png)
+![Onglet images et liens](../../../fr/images/articles/articles-edit/02-images-and-links-tab.png)
 
 #### Image d'introduction
 
@@ -169,7 +169,7 @@ Cette section affiche les champs personnalisés définis pour cet article. Ce so
 
 **Remarque :** Cet onglet peut être masqué par un utilisateur avec des permissions d'administration dans Article : Options.
 
-![Onglet Configurer l'écran de modification](../../../fr/images/articles/articles-edit/05-editor-tab.png)
+![Onglet Configurer l'écran de modification](../../../fr/images/articles/articles-edit/05-configure-edit-screen-tab.png)
 
 - **Options de publication** Si Masquer, l'onglet Options de publication ne s'affichera pas dans l'interface. Cela signifie que les utilisateurs du backend ne pourront pas modifier les champs de cet onglet. Ces champs seront toujours définis sur leurs valeurs par défaut.
 - **Options de l'article** Si Masquer, l'onglet Options de l'article ne s'affichera pas dans l'interface. Cela signifie que les utilisateurs du backend ne pourront pas modifier les champs de cet onglet. Ces champs seront toujours définis sur leurs valeurs par défaut.

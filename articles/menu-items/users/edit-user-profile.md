@@ -21,12 +21,8 @@ l'utilisateur** :
 - Select **Menus → \[name of the menu\]** from the Administrator
   menu (for example, **Menus → Main Menu**). Then...
   - Select the New button in the Toolbar. Then...
-  - Select the Menu Item Type Select button. <img
-    src="https://docs.joomla.org/images/thumb/0/0a/Help-4x-Menu-Item-Type-Select-Button-en.png/60px-Help-4x-Menu-Item-Type-Select-Button-en.png"
-    decoding="async"
-    srcset="https://docs.joomla.org/images/thumb/0/0a/Help-4x-Menu-Item-Type-Select-Button-en.png/90px-Help-4x-Menu-Item-Type-Select-Button-en.png 1.5x, https://docs.joomla.org/images/0/0a/Help-4x-Menu-Item-Type-Select-Button-en.png 2x"
-    data-file-width="96" data-file-height="45" width="60" height="28"
-    alt="Menu Item Type Select Button" />
+  - Select the Menu Item Type Select button. <br>
+  ![TinyMCE toolbar set 2](../../../en/images/editors/editors/02-set-1.png)<br>
   - In the modal dialog select the Users item to open a list and then
     select the **Edit User Profile** item.
 

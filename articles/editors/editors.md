@@ -1,295 +1,247 @@
 <!--
 {
-  "source": "https://docs.joomla.org/Help4.x:Editors",
-  "title": "Éditeur: Introduction",
-  "description": "", 
-  "author": ""
+    "source": "https://docs.joomla.org/Help4.x:Editors",
+    "title": "\u00c9diteurs : introduction",
+    "description": " ",
+    "author": ""
 }
 -->
 
 ## TinyMCE
 
-**TinyMCE** est l'éditeur par défaut pour les utilisateurs du Frontend
-et du Backend. TinyMCE est un éditeur "WYSIWYG" (what you see is what
-you get) qui offre aux utilisateurs une interface familière de
-traitement de texte pour l'édition d'articles et d'autres contenus.
+TinyMCE est l’éditeur par défaut pour les utilisateurs du site et de
+l’administration. L’éditeur offre aux utilisateurs une interface familière
+de traitement de texte à utiliser lors de la modification du
+contenu.
 
-TinyMCE peut être configuré avec 3 jeux différents de boutons de barre
-d'outils. Ceci est défini dans le plugin Editor - TinyMCE.
+TinyMCE peut être configuré avec 3 ensembles différents de boutons de barre d’outils. Cette
+configuration s’effectue dans le plug-in Éditeur - TinyMCE.
 
-### Barre d'outils
+### Barres d’outils
 
 #### Préréglage simple
 
-La barre d'outils simple fournit une rangée de boutons comme indiqué
-ci-dessous.
+L’ensemble de barre d’outils 2 fournit une ligne de boutons, comme illustré ci-dessous. Cet ensemble est
+attribué par défaut au groupe d’utilisateurs Public.
 
-Cet ensemble est attribué par défaut au groupe d'utilisateurs Public.
+![Barre d’outils TinyMCE, ensemble 2](../../../en/images/editors/editors/01-set-2.png)
 
-<img
-src="https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.png/600px-Help-4x-editor-tinymce-simple-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.png/900px-Help-4x-editor-tinymce-simple-en.png 1.5x, https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.png/1200px-Help-4x-editor-tinymce-simple-en.png 2x"
-data-file-width="1451" data-file-height="80" width="600" height="33"
-alt="editor tinymce simple" />
-
-- Les boutons vous permettent de rendre le texte : gras, souligné ou
-  barré.
-- Annuler et refaire.
+- Les boutons permettent de mettre le texte en gras, de le souligner ou de le barrer.
+- Annuler et rétablir.
 - Liste non ordonnée, liste ordonnée.
-- Coller en tant que texte : Souvent, lorsque vous copiez et collez du
-  texte provenant d'autres sources, telles que des fichiers PDF, des
-  documents texte ou des pages Web, le texte sélectionné contient des
-  informations de formatage qui ne sont pas nécessaires ou souhaitées.
-  L'utilisation de la fonction "Coller en tant que texte" éliminera tout
-  le formatage du texte.
+- Coller en tant que texte : lors de la copie et du collage de texte provenant d’autres sources,
+  telles que des fichiers PDF, des documents texte ou des pages web, le texte sélectionné
+  contient des informations de mise en forme qui ne sont ni nécessaires ni souhaitées. L’utilisation de
+  « Coller en tant que texte » supprime toute la mise en forme du texte.
 
 #### Préréglage moyen
 
-La barre d'outils simple fournit une rangée de boutons comme indiqué
-ci-dessous.
+L’ensemble de barre d’outils 1 fournit deux lignes de boutons, comme illustré ci-dessous. Cet ensemble
+est attribué par défaut aux groupes d’utilisateurs Gestionnaire et Enregistré.
 
-The set is default assigned to the Manager and Registered user group.
+![Barre d’outils TinyMCE, ensemble 1](../../../en/images/editors/editors/02-set-1.png)
 
-<img
-src="https://docs.joomla.org/images/thumb/d/db/Help-4x-editor-tinymce-advanced-fr.png/800px-Help-4x-editor-tinymce-advanced-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/d/db/Help-4x-editor-tinymce-advanced-fr.png/1200px-Help-4x-editor-tinymce-advanced-fr.png 1.5x, https://docs.joomla.org/images/thumb/d/db/Help-4x-editor-tinymce-advanced-fr.png/1600px-Help-4x-editor-tinymce-advanced-fr.png 2x"
-data-file-width="1975" data-file-height="236" width="800" height="96"
-alt="editor tinymce advanced" />
+Cette option fournit tous les mêmes boutons que ceux décrits ci-dessus dans la barre d’outils de l’ensemble 2.
+En outre, les options suivantes sont disponibles.
 
-This option provides all of the same buttons as documented in the Set 2
-Toolbar above. In addition, the following options are available.
+#### Moyen : ligne supérieure
 
-#### Rangée supérieure
+- Contenu CMS : la liste déroulante permet de créer un lien vers un article,
+  un contact, un champ, un média, un menu ou un module.
 
-- La liste déroulante du contenu du CMS permet d'accéder à un lien vers
-  un article, un contact, un champ, un média, un menu ou un module.
+Article : cet exemple montre comment créer facilement un lien vers n’importe quel article du
+site actuel.
 
-Article: The example show how to easily create a link to any article on
-the current site.
+![Boîte de dialogue de sélection de lien TinyMCE](../../../en/images/editors/editors/03-link-button.png)
 
-<img
-src="https://docs.joomla.org/images/thumb/9/98/Help-4x-article-quick-link-button-fr.png/600px-Help-4x-article-quick-link-button-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/9/98/Help-4x-article-quick-link-button-fr.png/900px-Help-4x-article-quick-link-button-fr.png 1.5x, https://docs.joomla.org/images/thumb/9/98/Help-4x-article-quick-link-button-fr.png/1200px-Help-4x-article-quick-link-button-fr.png 2x"
-data-file-width="2304" data-file-height="1321" width="600" height="344"
-alt="article quick link button" />
+Pour créer un lien vers l’article souhaité :
 
-Pour créer un lien vers l'article souhaité :
-
-- Placez le curseur à l'endroit de l'article où vous souhaitez que le
-  titre de l'article lié soit inséré.
-- Cliquez sur le bouton Article bouton pour ouvrir la fenêtre modale.
-- Depuis la fenêtre modale, cliquez sur le titre pour sélectionner
-  l'article souhaité. Vous pouvez utiliser les filtres de recherche pour
-  vous aider à trouver l'article souhaité.
-- Un lien avec le titre de l'article sera inséré à l'emplacement actuel
-  du curseur.
+- Placez le curseur à l’endroit de l’article où vous souhaitez insérer le
+  titre de l’article lié.
+- Cliquez sur le bouton Article pour ouvrir la fenêtre.
+- Cliquez sur le titre pour sélectionner l’article souhaité dans la fenêtre. Vous
+  pouvez utiliser la recherche et les filtres pour trouver l’article souhaité.
+- Un lien portant le titre de l’article est inséré à l’emplacement actuel du curseur.
 - Si nécessaire, vous pouvez modifier le texte du lien.
 
-In the same way you can link other items like Media, Modules, and so on.
+De la même manière, vous pouvez lier d’autres éléments tels que des médias, des modules, etc.
 
-Page Break: This button allows you to insert a pagebreak inside an
-article. A pagebreak allows for page navigation when the article is
-displayed on a layout. This is useful for long articles. When this
-button is pressed, a window is displayed as shown below:
+Saut de page : ce bouton permet d’insérer un saut de page dans un
+article. Un saut de page permet la navigation entre les pages lorsque l’article est
+affiché dans une mise en page. Cela est utile pour les articles longs. Lorsque ce
+bouton est activé, une fenêtre s’affiche comme illustré ci-dessous :
 
-<img
-src="https://docs.joomla.org/images/thumb/b/b4/Help-4x-editor-pagebreak-button-fr.png/600px-Help-4x-editor-pagebreak-button-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/b/b4/Help-4x-editor-pagebreak-button-fr.png/900px-Help-4x-editor-pagebreak-button-fr.png 1.5x, https://docs.joomla.org/images/thumb/b/b4/Help-4x-editor-pagebreak-button-fr.png/1200px-Help-4x-editor-pagebreak-button-fr.png 2x"
-data-file-width="1543" data-file-height="862" width="600" height="335"
-alt="editor pagebreak button" />
+![Formulaire de saut de page TinyMCE](../../../en/images/editors/editors/04-pagebreak-button.png)
 
-- **Titre de la page**. Indiquez le titre à afficher sur cette nouvelle
-  page (par exemple, 'Page 2').
-- **Liste des alias d'articles**. Champ optionnel permettant d'afficher
-  la table des matières de cette page. Dans un article multi-pages,
-  Joomla! affiche une 'table des matières' pour la page permettant à
-  l'utilisateur de sélectionner une page. Si ce champ est vide, alors le
-  titre de la page sera utilisé. Si vous souhaitez un titre différent
-  pour la table des matières, indiquez le ici.
-- **Insérer le saut de page**. Cliquez sur ce bouton pour insérer le
-  saut de page avec les champs complétés. Le saut de page s'affiche en
-  gris pointillé dans l'article. Notez qu'un saut de page ne peut pas
-  être modifié. Si vous souhaitez modifier un champ du saut de page,
-  cliquez dans l'article juste après le saut de page, appuyez sur retour
-  arrière jusqu'à ce que le saut de page soit supprimé, puis insérez un
-  nouveau saut de page avec les informations souhaitées.
-- The configuration is set in the Content - Page
-  Break
-  plugin.
+- **Titre de la page**. Saisissez le titre à afficher pour la nouvelle page (par
+  exemple, « Page 2 »).
+- **Alias de la table des matières**. Champ facultatif à afficher dans la table des
+  matières de cette page. Dans un article multipage, Joomla affiche une
+  « table des matières » pour la page, qui permet à l’utilisateur de sélectionner n’importe quelle
+  page. Si ce champ est vide, le titre de la page sera utilisé. Si vous souhaitez un titre
+  différent dans la table des matières, saisissez-le ici.
+- **Insérer un saut de page**. Cliquez sur ce bouton pour insérer le saut de page avec
+  les champs renseignés. Le saut de page s’affiche sous la forme d’une ligne grise en pointillés
+  sur toute la largeur de l’article. Notez qu’un saut de page ne peut pas être modifié. Si vous
+  devez modifier un champ du saut de page, cliquez dans l’article juste
+  après le saut de page, appuyez sur Retour arrière jusqu’à ce que le saut de page soit supprimé,
+  puis insérez un nouveau saut de page avec les informations souhaitées.
+- La configuration s’effectue dans le plug-in Contenu - Saut de page.
 
-Read More: This button inserts a Read more break in the article. This
-shows as a red dotted line across the article.
+Lire la suite : ce bouton insère une coupure « Lire la suite » dans l’article. Celle-ci
+s’affiche sous la forme d’une ligne rouge en pointillés sur toute la largeur de l’article.
 
-- If an article has a Read more break, only the text before the break,
-  called the Intro Text, will initially display, along with a Read more
-  link. If the User clicks this link, either the entire article or just
-  the part after the Read more link is displayed. This depends on the
-  setting of the Intro
-  Text
-  parameters for the article.
-- The Read more break allows you to save space on pages by just showing
-  the Intro Text.
-- If you want to insert breaks for an article shown in an Article
-  Layout, use the Page Break button.
+- Si un article comporte une coupure « Lire la suite », seul le texte situé avant la coupure,
+  appelé texte d’introduction, s’affiche initialement, avec un lien Lire la suite. Si l’utilisateur
+  clique sur ce lien, l’intégralité de l’article ou uniquement
+  la partie située après le lien Lire la suite s’affiche. Cela dépend du
+  réglage des paramètres du
+  texte
+  d’introduction pour l’article.
+- La coupure « Lire la suite » permet d’économiser de l’espace sur les pages en affichant uniquement
+  le texte d’introduction.
+- Si vous souhaitez insérer des coupures dans un article affiché dans une mise en page d’article,
+  utilisez le bouton Saut de page.
 
-The buttons in the CMS content dropdown list can be disabled in
-Plugins - editors-xtd.
+Les boutons de la liste déroulante de contenu CMS peuvent être désactivés dans
+Plug-ins - editors-xtd.
 
-- Buttons in the upper left allow you to make text: italic. Next to that
-  are buttons for align left, right, center, and full.
-- Formats: Select pre-defined formats for Headings, Inline, Blocks, and
-  so on.
-- Outdent (move left) and Indent (indent right).
-- 3 dots: Show second Toolbar row.
+- Les boutons en haut à gauche permettent de mettre le texte en italique. À côté se trouvent
+  les boutons d’alignement à gauche, à droite, centré et justifié.
+- Formats : sélectionnez des formats prédéfinis pour les titres, les éléments en ligne, les blocs, etc.
+- Diminuer le retrait (déplacer vers la gauche) et augmenter le retrait (décaler vers la droite).
+- 3 points : afficher la deuxième ligne de la barre d’outils.
 
-#### Deuxième ligne
+#### Moyen : deuxième ligne
 
-- Insert/edit Link: To insert or edit a link, select the linked text and
-  press this button. A popup dialog displays that lets you enter details
-  about the link.
-- Remove Link: To remove a link, highlight the linked text and press
-  this button.
-- Anchor: An anchor is a bookmark inside an article that lets you link
-  directly to that point in the article.
-- Source code: A popup displays showing the HTML source code, allowing
-  you to edit the HTML source code.
-- Insert a horizontal line: To insert a horizontal line, move the cursor
-  to the desired location within the article and click this button.
-- Table: Insert New Table, Table Row Properties, Table Cell Properties,
-  Insert Row Before, Insert Row After, Delete Row, Insert Column Before,
-  Insert Column After, Delete Column, Split Merged Table Cells, Merge
-  Table Cells.
-- Subscript, Superscript, Special Character.
-- Preview text in popup.
+- Insérer/modifier un lien : pour insérer ou modifier un lien, sélectionnez le texte lié et
+  appuyez sur ce bouton. Une boîte de dialogue contextuelle s’affiche et vous permet de saisir les
+  détails du lien.
+- Supprimer le lien : pour supprimer un lien, sélectionnez le texte lié et appuyez sur
+  ce bouton.
+- Ancre : une ancre est un signet à l’intérieur d’un article qui vous permet de créer un lien
+  directement vers cet emplacement dans l’article.
+- Code source : une fenêtre contextuelle s’affiche avec le code source HTML, ce qui vous permet de
+  modifier le code source HTML.
+- Insérer une ligne horizontale : pour insérer une ligne horizontale, placez le curseur
+  à l’emplacement souhaité dans l’article et cliquez sur ce bouton.
+- Tableau : insérer un nouveau tableau, propriétés de ligne du tableau, propriétés de cellule du tableau,
+  insérer une ligne avant, insérer une ligne après, supprimer une ligne, insérer une colonne avant,
+  insérer une colonne après, supprimer une colonne, scinder les cellules fusionnées du tableau, fusionner
+  les cellules du tableau.
+- Indice, exposant, caractère spécial.
+- Prévisualiser le texte dans une fenêtre contextuelle.
 
 #### Préréglage avancé
 
-The toolbar set 0 provides the most extensive editing options, as shown
-below.
+L’ensemble de barres d’outils 0 fournit les options de modification les plus complètes, comme indiqué
+ci-dessous. Cet ensemble est attribué par défaut aux groupes d’utilisateurs Administrateur, Éditeur et
+Super utilisateurs.
 
-The set is default assigned to the Administrator, Editor, and Super
-Users user group.
+![Ensemble de données TinyMCE 0](../../../en/images/editors/editors/05-set-0.png)
 
-<img
-src="https://docs.joomla.org/images/thumb/c/cc/Help-4x-editor-tinymce-extended-fr.png/800px-Help-4x-editor-tinymce-extended-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/c/cc/Help-4x-editor-tinymce-extended-fr.png/1200px-Help-4x-editor-tinymce-extended-fr.png 1.5x, https://docs.joomla.org/images/thumb/c/cc/Help-4x-editor-tinymce-extended-fr.png/1600px-Help-4x-editor-tinymce-extended-fr.png 2x"
-data-file-width="1976" data-file-height="315" width="800" height="128"
-alt="editor tinymce extended" />
+Cette option fournit tous les mêmes boutons que ceux documentés ci-dessus dans la barre d’outils de
+l’ensemble 1. En outre, les options suivantes sont disponibles.
 
-This option provides all of the same buttons as documented in the Set 1
-Toolbar above. In addition, the following options are available.
+#### Avancé : première ligne
 
-#### Rangée supérieure
+- Blocs : paragraphe, titres, préformaté.
+- Polices : sélectionnez la police souhaitée.
+- Taille de police : sélectionnez la taille de police souhaitée.
+- Rechercher et remplacer.
+- Insérer/modifier une image : pour insérer une image, placez le curseur à l’emplacement
+  souhaité et appuyez sur ce bouton. Une boîte de dialogue contextuelle s’affiche et vous permet
+  de saisir la source, la largeur ou la hauteur, ainsi que d’autres informations
+  sur l’image.
 
-- Blocks: Paragraph, Headings, Preformatted.
-- Fonts: Select the desired font.
-- Font Size: Select the desired font size.
-- Find and Replace.
-- Insert/edit image: To insert a image, place the cursor at the desired
-  location and press this button. A popup dialog will display that
-  allows you to enter the Source, Width or Height and other information
-  about the image.
+#### Avancé : deuxième ligne
 
-#### Deuxième ligne
+- Sélectionner la couleur du texte ou la couleur d’arrière-plan.
+- Plein écran.
+- Émoticônes.
+- Insérer un média : pour insérer un média, placez le curseur à l’emplacement
+  souhaité et appuyez sur ce bouton. Une boîte de dialogue contextuelle s’affiche et vous permet
+  de saisir le type, le fichier ou l’URL, ainsi que d’autres informations
+  sur le média.
+- Orientation de gauche à droite ou orientation de droite à gauche : ces boutons
+  vous permettent de saisir ou de modifier le sens du texte, par exemple pour les
+  langues qui se lisent de droite à gauche.
+- Couper, copier, coller.
+- Afficher les caractères invisibles (comme les fins de paragraphe).
+- Afficher les blocs.
+- Espace insécable.
+- Citation.
+- Insérer un modèle.
 
-- Select Text color or Background color.
-- Fullscreen.
-- Emoticons.
-- Insert media: To insert media, place the cursor at the desired
-  location and press this button. A popup dialog will display that
-  allows you to enter the Type, File or URL, and other information about
-  the media.
-- Direction Left to Right or Direction Right to Left: These buttons
-  allow you to enter or change the text direction, for example for
-  languages that read right to left.
-- Cut, Copy, Paste.
-- Show invisible characters (like paragraph endings).
-- Show blocks.
-- Nonbreaking space.
-- Blockquote.
-- Insert Template.
+#### Avancé : troisième ligne
 
-#### Troisième ligne
-
-- Print the article text.
-- Insert/edit code sample.
-- Insert date/time.
-- Clear formatting.
+- Imprimer le texte de l’article.
+- Insérer/modifier un exemple de code.
+- Insérer la date/l’heure.
+- Effacer la mise en forme.
 
 ### Accessibilité
 
-TinyMCE is compatible with screen readers such as
+TinyMCE est compatible avec des lecteurs d’écran tels que
 <a href="https://www.freedomscientific.com/products/software/jaws/"
-rel="nofollow noreferrer noopener">JAWS</a> and
-<a href="https://www.nvaccess.org/" rel="nofollow noreferrer noopener">NVDA</a>.
-You can use it effectively even if you don't use the mouse.
+rel="nofollow noreferrer noopener">JAWS</a> et
+<a href="https://www.nvaccess.org/"
+rel="nofollow noreferrer noopener">NVDA</a>. Vous pouvez l’utiliser
+efficacement même si vous n’utilisez pas la souris.
 
-|                                                                                                 |                        |                        |
-|-------------------------------------------------------------------------------------------------|------------------------|------------------------|
-| Task                                                                                            | PC                     | macOS                  |
-| Déplace le focus et se rend sur la barre de menu                                                | Alt+F9                 | ⌥+F9                   |
-| Déplace le focus et se rend sur la barre d'outils                                               | Alt+F10                | ⌥+F10                  |
-| Déplace le focus et se rend sur le chemin des éléments                                          | Alt+F11                | ⌥+F11                  |
-| Ferme le menu/le sous-menu/la boîte de dialogue (et vous repositionne sur la zone de l'éditeur) | Esc                    | esc                    |
-| Return to the editor content area                                                               | Esc                    | esc                    |
-| Navigue à gauche/à droite dans le menu/la barre d'outils                                        | Tab and the Arrow Keys | Tab and the Arrow Keys |
+#### Raccourcis clavier
 
-Keyboard shortcuts
+| Tâche                                      | PC                     | macOS                  |
+|--------------------------------------------|------------------------|------------------------|
+| Activer/accéder à la barre de menus        | Alt+F9                 | ⌥+F9                 |
+| Activer/accéder à la barre d’outils        | Alt+F10                | ⌥+F10                |
+| Activer/accéder au chemin d’éléments       | Alt+F11                | ⌥+F11                |
+| Fermer le menu/sous-menu/la boîte de dialogue | Échap                  | esc                    |
+| Revenir à la zone de contenu de l’éditeur  | Échap                  | esc                    |
+| Naviguer vers la gauche/droite dans le menu/la barre d’outils | Tabulation et touches fléchées | Tabulation et touches fléchées |
 
-Voir pour plus d'informations :
+Pour plus d’informations, consultez :
 
 - <a href="https://www.tiny.cloud/docs/advanced/accessibility/"
-  class="external text" target="_blank"
-  rel="nofollow noreferrer noopener">TinyMCE - Accessibility</a> (en)
+  rel="nofollow noreferrer noopener">TinyMCE - Accessibilité</a>
 - Une liste des
   <a href="https://www.tiny.cloud/docs/advanced/keyboard-shortcuts/"
-  class="external text" target="_blank"
-  rel="nofollow noreferrer noopener">keyboard shortcuts</a> (pc, mac)
-  disponibles dans le corps de l'éditeur.
+  rel="nofollow noreferrer noopener">raccourcis clavier</a> disponibles (PC, Mac)
+  dans le corps de l’éditeur.
 
 ## CodeMirror
 
-L'éditeur CodeMirror est conçu pour faciliter l'utilisation de code HTML
-dans un article ou une description. CodeMirror prend en charge la
-coloration syntaxique et l'auto-complétion, comme le montre cette
-capture d'écran.
+L’« éditeur - CodeMirror » est conçu pour faciliter la saisie de code HTML
+dans un article ou une description. CodeMirror prend en charge la coloration syntaxique
+et la complétion automatique, comme indiqué dans cette capture d’écran.
 
-<img
-src="https://docs.joomla.org/images/thumb/1/1f/Help-4x-screenshot-editor-codemirror-example-fr.png/800px-Help-4x-screenshot-editor-codemirror-example-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/1/1f/Help-4x-screenshot-editor-codemirror-example-fr.png/1200px-Help-4x-screenshot-editor-codemirror-example-fr.png 1.5x, https://docs.joomla.org/images/thumb/1/1f/Help-4x-screenshot-editor-codemirror-example-fr.png/1600px-Help-4x-screenshot-editor-codemirror-example-fr.png 2x"
-data-file-width="1975" data-file-height="989" width="800" height="401"
-alt="screenshot editor codemirror example" />
+![formulaire de modification CodeMirror](../../../en/images/editors/editors/06-codemirror.png)
 
-- Buttons shown below the edit window provides for access to link to any
-  item of the site.
-- CodeMirror propose certains des mêmes avantages que lors de
-  l'utilisation de No Editor mais le rend plus facile à utiliser avec du
-  code HTML brut.
-- The configuration is set in the Editor -
-  CodeMirror
-  plugin.
+- Les boutons affichés sous la fenêtre de modification permettent d’accéder à un lien vers n’importe quel
+  élément du site.
+- CodeMirror offre certains des mêmes avantages que l’utilisation de l’« éditeur -
+  Aucun », mais facilite quelque peu l’utilisation du code HTML brut.
+- La configuration est définie dans l’extension
+  Éditeur -
+  CodeMirror.
 
-## None
+## Aucun
 
-If 'Editor - None' is selected for a User, then a simple text editor
-displays. This allows you to enter in raw, unformatted HTML. You can use
-the toolbar 'Preview' button to preview how the HTML will display.
+Si « Éditeur - Aucun » est sélectionné pour un utilisateur, un éditeur de texte simple
+s’affiche. Cela vous permet de saisir du code HTML brut et non formaté. Vous pouvez utiliser
+le bouton « Aperçu » de la barre d’outils pour prévisualiser l’affichage du code HTML.
 
-Note that the 'None' option can be useful if you are entering in
-'boilerplate' or custom HTML, for example to create a PayPal link.
-TinyMCE automatically re-formats and strips some HTML when a file is
-saved. This can cause complex HTML to not work correctly.
+Notez que l’option « Aucun » peut être utile si vous saisissez du code HTML
+« passe-partout » ou personnalisé, par exemple pour créer un lien PayPal.
+TinyMCE reformate et supprime automatiquement certains éléments HTML lors de l’enregistrement d’un fichier.
+Cela peut empêcher du code HTML complexe de fonctionner correctement.
 
-If this happens, you can temporarily change the editor to 'None' and
-create the desired content. Note that if you wish to edit this content
-in the future, you should be careful to change your editor to 'None'.
-Otherwise, if you open and save the content with TinyMCE, you may lose
-your custom HTML.
+Si cela se produit, vous pouvez temporairement remplacer l’éditeur par « Aucun » et
+créer le contenu souhaité. Notez que si vous souhaitez modifier ce contenu
+ultérieurement, vous devez veiller à définir votre éditeur sur « Aucun ».
+Sinon, si vous ouvrez et enregistrez le contenu avec TinyMCE, vous risquez de perdre
+votre code HTML personnalisé.
 
-The 'Editor - None' plugin has no configuration.
+Le plug-in « Éditeur - Aucun » ne possède aucune configuration.
+
+*Traduit par openai.com*

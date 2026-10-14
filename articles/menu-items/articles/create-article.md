@@ -76,9 +76,10 @@ Pour modifier un élément de menu :
 
 Cette capture d'écran montre le modèle Frontend par défaut de Joomla **Cassiopeia** avec toutes les options de mise en page d'édition définies sur 'Cacher'.
 
-![articles-create-article-frontend.png](../../../../en/images/menu-items/articles/create-article/03-frontend.png)
+![articles-create-article-frontend.png](../../../../fr/images/menu-items/articles/create-article/03-frontend.png)
 
 ## Conseils
 
 Un utilisateur non autorisé recevra normalement une erreur lors de la sélection d'un élément de menu *Créer un article*. Pour cette raison, il est courant de donner à l'élément de menu un niveau d'accès de visualisation visible uniquement par les utilisateurs autorisés à ajouter des articles.
+
 

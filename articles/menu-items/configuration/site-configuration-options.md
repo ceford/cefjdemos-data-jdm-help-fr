@@ -43,7 +43,7 @@ Titre dans la liste *Menus : Éléments*.
 
 ## Capture d'écran du Front End
 
-![Formulaire des options de configuration du site sur le front end](../../../../en/images/menu-items/configuration/site-configuration-options/02-site-configuration-options-frontend.png)
+![Formulaire des options de configuration du site sur le front end](../../../../fr/images/menu-items/configuration/site-configuration-options/02-site-configuration-options-frontend.png)
 
 *Traduit par openai.com*
 
