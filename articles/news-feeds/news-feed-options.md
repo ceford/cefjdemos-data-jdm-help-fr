@@ -88,6 +88,13 @@ Ces paramètres s'appliquent à tous les flux de nouvelles à moins qu'ils ne so
 - **Pagination** Masquer ou afficher le support de pagination. La pagination fournit des liens de page en bas de la page qui permettent à l'utilisateur de naviguer vers des pages supplémentaires.
 - **Résultats de la Pagination** Afficher ou masquer le numéro de la page actuelle et le nombre total de pages (par exemple, *Page 1 sur 2*) en bas de chaque page. Utiliser Global utilisera la valeur par défaut des options du composant.
 
+### Integration Tab
+
+![Onglet d'intégration des options de flux d'actualités](../../../fr/images/news-feeds/news-feed-options/05-integration-tab.png)
+
+- **Supprimer les identifiants des URL** Afficher ou non l'identifiant de base de données d'un 
+fil d'actualité dans un lien.
+
 ## Conseils
 
 - Si vous êtes un utilisateur novice, vous pouvez conserver les valeurs

@@ -24,7 +24,7 @@ configuration s’effectue dans le plug-in Éditeur - TinyMCE.
 L’ensemble de barre d’outils 2 fournit une ligne de boutons, comme illustré ci-dessous. Cet ensemble est
 attribué par défaut au groupe d’utilisateurs Public.
 
-![Barre d’outils TinyMCE, ensemble 2](../../../en/images/editors/editors/01-set-2.png)
+![Barre d’outils TinyMCE, ensemble 2](../../../fr/images/editors/editors/01-set-2.png)
 
 - Les boutons permettent de mettre le texte en gras, de le souligner ou de le barrer.
 - Annuler et rétablir.
@@ -39,7 +39,7 @@ attribué par défaut au groupe d’utilisateurs Public.
 L’ensemble de barre d’outils 1 fournit deux lignes de boutons, comme illustré ci-dessous. Cet ensemble
 est attribué par défaut aux groupes d’utilisateurs Gestionnaire et Enregistré.
 
-![Barre d’outils TinyMCE, ensemble 1](../../../en/images/editors/editors/02-set-1.png)
+![Barre d’outils TinyMCE, ensemble 1](../../../fr/images/editors/editors/02-set-1.png)
 
 Cette option fournit tous les mêmes boutons que ceux décrits ci-dessus dans la barre d’outils de l’ensemble 2.
 En outre, les options suivantes sont disponibles.
@@ -52,7 +52,7 @@ En outre, les options suivantes sont disponibles.
 Article : cet exemple montre comment créer facilement un lien vers n’importe quel article du
 site actuel.
 
-![Boîte de dialogue de sélection de lien TinyMCE](../../../en/images/editors/editors/03-link-button.png)
+![Boîte de dialogue de sélection de lien TinyMCE](../../../fr/images/editors/editors/03-link-button.png)
 
 Pour créer un lien vers l’article souhaité :
 
@@ -71,7 +71,7 @@ article. Un saut de page permet la navigation entre les pages lorsque l’articl
 affiché dans une mise en page. Cela est utile pour les articles longs. Lorsque ce
 bouton est activé, une fenêtre s’affiche comme illustré ci-dessous :
 
-![Formulaire de saut de page TinyMCE](../../../en/images/editors/editors/04-pagebreak-button.png)
+![Formulaire de saut de page TinyMCE](../../../fr/images/editors/editors/04-pagebreak-button.png)
 
 - **Titre de la page**. Saisissez le titre à afficher pour la nouvelle page (par
   exemple, « Page 2 »).
@@ -138,7 +138,7 @@ L’ensemble de barres d’outils 0 fournit les options de modification les plus
 ci-dessous. Cet ensemble est attribué par défaut aux groupes d’utilisateurs Administrateur, Éditeur et
 Super utilisateurs.
 
-![Ensemble de données TinyMCE 0](../../../en/images/editors/editors/05-set-0.png)
+![Ensemble de données TinyMCE 0](../../../fr/images/editors/editors/05-set-0.png)
 
 Cette option fournit tous les mêmes boutons que ceux documentés ci-dessus dans la barre d’outils de
 l’ensemble 1. En outre, les options suivantes sont disponibles.
@@ -215,7 +215,7 @@ L’« éditeur - CodeMirror » est conçu pour faciliter la saisie de code HTML
 dans un article ou une description. CodeMirror prend en charge la coloration syntaxique
 et la complétion automatique, comme indiqué dans cette capture d’écran.
 
-![formulaire de modification CodeMirror](../../../en/images/editors/editors/06-codemirror.png)
+![formulaire de modification CodeMirror](../../../fr/images/editors/editors/06-codemirror.png)
 
 - Les boutons affichés sous la fenêtre de modification permettent d’accéder à un lien vers n’importe quel
   élément du site.

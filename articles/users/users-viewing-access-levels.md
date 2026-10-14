@@ -34,12 +34,6 @@ Certains éléments de cette page sont traités dans des articles d'aide distinc
 - **Titre du niveau** Entrez un titre pour ce niveau d'accès.
 - **Groupes d'utilisateurs avec accès en vue** Cochez tout groupe pour avoir ce niveau d'accès.
 
-### Onglet Groupes d'utilisateurs avec accès en vue
-
-![niveaux d'accès des utilisateurs](../../../fr/images/users/users-viewing-access-levels/02-ugwva-tab.png)
-
-Sélectionnez une case à cocher pour ajouter un groupe d'utilisateurs à un niveau d'accès. Dans l'exemple montré, tous les groupes sont des enfants du groupe Public, il n'est donc pas nécessaire de cocher l'un des groupes enfants. Ils héritent des permissions d'accès publiques. Cette fonctionnalité ne doit être utilisée que pour des groupes personnalisés !
-
 ## Conseils
 
 - Si vous ajoutez un nouveau groupe, vous devrez peut-être éditer tous les niveaux d'accès auxquels ce groupe devrait avoir accès.

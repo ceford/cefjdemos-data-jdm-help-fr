@@ -132,3 +132,4 @@ Les paramètres de mise en page des listes varient d'un composant à l'autre. Le
 - **Format de date** Chaîne de format optionnelle pour contrôler le format de la date (si affichée). Si laissé vide, la date utilisera le format DATE_FORMAT_LC1 du fichier de langue (par exemple, `D M Y` pour *31 décembre 2012* ou `m-d-y` pour *12-31-12*).
 
 *Traduit par openai.com*
+
